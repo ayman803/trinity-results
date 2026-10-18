@@ -8,3 +8,4 @@
 2026-10-17 17:48 STARTED 2026-10-18-08: scripts/calibrate.ps1 -Ref release-1.0.0 -NoUpdate (approved commit 83c33879b6)
 2026-10-17 17:48 FAILED (exit code 1) 2026-10-18-08 after 1 min (approved commit 83c33879b6)
 2026-10-17 17:49 STARTED 2026-10-18-09: scripts/calibrate.ps1 -Ref main -NoUpdate (approved commit 83c33879b6)
+2026-10-17 17:49 FAILED (exit code 1) 2026-10-18-09 after 1 min (approved commit 83c33879b6)
