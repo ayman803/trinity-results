@@ -1,0 +1,12 @@
+HELLO from trinity-runner on DESKTOP-K61E7PJ at 2026-10-17 17:22
+Working folder: C:\TrinityRunner\repo
+Free disk: 126 GB
+git : git version 2.56.0.windows.1
+cargo : cargo 1.99.1 (5f94df478 2026-08-27)
+rustc : rustc 1.99.1 (58cf8f9c3 2026-10-13)
+GPU: GPU 0: NVIDIA GeForce RTX 3080 (UUID: GPU-edd210fe-f9bd-d9d7-922b-f2102713f3f2)
+CUDA_PATH: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.4
+WRITE CHECK: C:\Trinity is read-only for this account (good)
+link data : readable
+link checkpoints : readable
+link syzygy : readable
