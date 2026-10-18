@@ -1,0 +1,9 @@
+Free disk space on C:\: 127 GB
+Unexpected error: Exception calling "GetDirectories" with "2" argument(s): "Access to the path 'C:\TrinityRunner\repo\data\prepared' is denied."
+Where: At C:\TrinityRunner\repo\scripts\common.ps1:341 char:24
++ ... each ($d in [IO.Directory]::GetDirectories($prepared, "*.tmp")) { Rem ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Trace: at Clear-TempFiles, C:\TrinityRunner\repo\scripts\common.ps1: line 341
+at Invoke-Housekeeping, C:\TrinityRunner\repo\scripts\common.ps1: line 403
+at <ScriptBlock>, C:\TrinityRunner\repo\scripts\calibrate.ps1: line 124
+Please send a screenshot of this window to Claude.
