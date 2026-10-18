@@ -1,0 +1,128 @@
+Finished game 23 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 37 of 50 (Trinity vs Prune)
+Finished game 24 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 38 of 50 (Prune vs Trinity)
+Finished game 27 (Trinity vs Prune): 1/2-1/2 {Draw by insufficient mating material}
+Started game 39 of 50 (Trinity vs Prune)
+Finished game 28 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 40 of 50 (Prune vs Trinity)
+Finished game 19 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 41 of 50 (Trinity vs Prune)
+Finished game 26 (Prune vs Trinity): 1/2-1/2 {Draw by insufficient mating material}
+Started game 42 of 50 (Prune vs Trinity)
+Finished game 29 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 43 of 50 (Trinity vs Prune)
+Finished game 33 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 44 of 50 (Prune vs Trinity)
+Finished game 34 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 45 of 50 (Trinity vs Prune)
+Finished game 37 (Trinity vs Prune): 1-0 {White wins by adjudication}
+Started game 46 of 50 (Prune vs Trinity)
+Finished game 36 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 47 of 50 (Trinity vs Prune)
+Finished game 30 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 48 of 50 (Prune vs Trinity)
+Finished game 32 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 49 of 50 (Trinity vs Prune)
+Finished game 45 (Trinity vs Prune): 1-0 {White wins by adjudication}
+Started game 50 of 50 (Prune vs Trinity)
+Finished game 35 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Finished game 38 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Finished game 42 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 31 (Trinity vs Prune): 1/2-1/2 {Draw by stalemate}
+Finished game 39 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Finished game 49 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 47 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 40 (Prune vs Trinity): 1/2-1/2 {Draw by insufficient mating material}
+Finished game 44 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Finished game 41 (Trinity vs Prune): 1-0 {White wins by adjudication}
+Finished game 50 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 48 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Warning; PV continues after fifty-move rule - move g6g5 from Trinity
+Info; info depth 9 seldepth 18 score cp 117 nodes 17863 nps 2551857 hashfull 7 time 7 pv c5c8 d4b4 b7c6 b4c4 c6d7 c4d4 d7e7 d4e4 e7f8 e4a4 f8g8 a4a7 c8f8 g6g5
+Position; startpos
+Moves; e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 h2h3 f8g7 c1e3 e8g8 g2g3 e7e5 d4e5 d6e5 f1g2 b7b6 d1d8 f8d8 g1f3 b8c6 f3d2 c6d4 e1c1 c8e6 c1b1 c7c6 d2f3 f6e8 f3g5 e6c8 f2f4 c8b7 g5f3 d4f3 g2f3 e8d6 h3h4 h7h5 h1e1 d6c4 e3c1 e5f4 c1f4 d8e8 f3e2 c4e5 d1d2 b6b5 a2a3 b7c8 d2d6 a7a6 a3a4 c8h3 e1h1 h3e6 h1d1 a8c8 a4a5 e6c4 d6d2 c4e2 d2e2 c8d8 d1d8 e8d8 e2e1 g8f8 c3a2 c6c5 a2c3 e5f3 e1e2 g7e5 c3d5 e5f4 d5f4 d8d2 e2e3 f3e5 b1c1 d2f2 b2b3 c5c4 f4d5 e5c6 e4e5 c6a5 d5b4 f8e7 b4a6 a5c6 c1d1 c6d4 b3c4 d4f5 e3a3 b5c4 a6c5 f2g2 a3a7 e7f8 a7a8 f8g7 c5e4 f5e3 d1e1 e3c2 e1f1 c2e3 f1e1 e3g4 e5e6 f7e6 a8c8 g4e5 c8c7 g7g8 e1f1 g2b2 e4g5 b2b6 c7c5 e5g4 f1e2 b6b2 e2e1 g4e3 g5e6 g8f7 e6g5 f7f6 g5e4 f6e6 e4c3 b2c2 c3e2 c2a2 e2c3 a2g2 c3e2 e6f6 c5c8 g2h2 c8c6 f6e5 c6g6 e3f5 e1d1 h2f2 g6g8 e5e4 g8e8 e4d5 e8d8 f5d6 e2c3 d5e5 d8d6 f2f3 d6d5 e5e6 d5h5 f3c3 h5g5 c3d3 d1c2 e6f6 g5g8 f6f7 g8g4 f7f6 g4g5 d3f3 g5g8 f6f7 g8g4 f3d3 h4h5 d3e3 c2d2 e3d3 d2e2 d3d5 g4f4 f7g7 g3g4 d5c5 f4f5 c5c8 g4g5 c4c3 e2d1 c3c2 d1c1 c8c4 f5e5 c4h4 h5h6 g7g6 c1c2 h4d4 c2c3 d4d7 c3c4 d7f7 c4d5 f7f4 d5c5 f4a4 c5b6 a4h4 e5a5 h4b4 b6c5 b4e4 c5d5 e4b4 d5d6 b4b8 a5d5 b8b4 d5e5 b4a4 d6c7 a4c4 c7d7 c4a4 e5c5 a4a8 d7c6 a8a4 c5d5 a4h4 c6b5 h4g4 d5c5 g4e4 b5b6 e4b4 b6c7 b4a4 c7c8 a4h4 c5b5 h4c4 c8d7 c4a4 d7c7 a4c4 c7d6 c4d4 d6c6 d4h4 b5e5 h4c4 c6b5 c4h4 b5a5 h4g4 e5b5 g4e4 b5d5 e4h4 a5b6 h4b4 b6c7 b4a4 c7d7 a4h4 d5a5 h4b4 d7c6 b4c4 c6d6 c4c8 a5e5 c8f8 d6c6 f8f7 c6b6 f7f8 e5d5 f8e8 d5c5 e8d8 b6b7 d8d4
+Warning; PV continues after fifty-move rule - move g6g5 from Trinity
+Info; info depth 4 seldepth 8 score cp 6 nodes 204 nps 204000 hashfull 5 time 1 pv b8c8 b4c4 c8d8 c4a4 e5e7 a4a8 d8d7 g6g5
+Position; startpos
+Moves; e2e4 d7d6 d2d4 g8f6 b1c3 g7g6 h2h3 f8g7 c1e3 e8g8 g2g3 e7e5 d4e5 d6e5 f1g2 b7b6 d1d8 f8d8 g1f3 b8c6 f3d2 c6d4 e1c1 c8e6 c1b1 c7c6 d2f3 f6e8 f3g5 e6c8 f2f4 c8b7 g5f3 d4f3 g2f3 e8d6 h3h4 h7h5 h1e1 d6c4 e3c1 e5f4 c1f4 d8e8 f3e2 c4e5 d1d2 b6b5 a2a3 b7c8 d2d6 a7a6 a3a4 c8h3 e1h1 h3e6 h1d1 a8c8 a4a5 e6c4 d6d2 c4e2 d2e2 c8d8 d1d8 e8d8 e2e1 g8f8 c3a2 c6c5 a2c3 e5f3 e1e2 g7e5 c3d5 e5f4 d5f4 d8d2 e2e3 f3e5 b1c1 d2f2 b2b3 c5c4 f4d5 e5c6 e4e5 c6a5 d5b4 f8e7 b4a6 a5c6 c1d1 c6d4 b3c4 d4f5 e3a3 b5c4 a6c5 f2g2 a3a7 e7f8 a7a8 f8g7 c5e4 f5e3 d1e1 e3c2 e1f1 c2e3 f1e1 e3g4 e5e6 f7e6 a8c8 g4e5 c8c7 g7g8 e1f1 g2b2 e4g5 b2b6 c7c5 e5g4 f1e2 b6b2 e2e1 g4e3 g5e6 g8f7 e6g5 f7f6 g5e4 f6e6 e4c3 b2c2 c3e2 c2a2 e2c3 a2g2 c3e2 e6f6 c5c8 g2h2 c8c6 f6e5 c6g6 e3f5 e1d1 h2f2 g6g8 e5e4 g8e8 e4d5 e8d8 f5d6 e2c3 d5e5 d8d6 f2f3 d6d5 e5e6 d5h5 f3c3 h5g5 c3d3 d1c2 e6f6 g5g8 f6f7 g8g4 f7f6 g4g5 d3f3 g5g8 f6f7 g8g4 f3d3 h4h5 d3e3 c2d2 e3d3 d2e2 d3d5 g4f4 f7g7 g3g4 d5c5 f4f5 c5c8 g4g5 c4c3 e2d1 c3c2 d1c1 c8c4 f5e5 c4h4 h5h6 g7g6 c1c2 h4d4 c2c3 d4d7 c3c4 d7f7 c4d5 f7f4 d5c5 f4a4 c5b6 a4h4 e5a5 h4b4 b6c5 b4e4 c5d5 e4b4 d5d6 b4b8 a5d5 b8b4 d5e5 b4a4 d6c7 a4c4 c7d7 c4a4 e5c5 a4a8 d7c6 a8a4 c5d5 a4h4 c6b5 h4g4 d5c5 g4e4 b5b6 e4b4 b6c7 b4a4 c7c8 a4h4 c5b5 h4c4 c8d7 c4a4 d7c7 a4c4 c7d6 c4d4 d6c6 d4h4 b5e5 h4c4 c6b5 c4h4 b5a5 h4g4 e5b5 g4e4 b5d5 e4h4 a5b6 h4b4 b6c7 b4a4 c7d7 a4h4 d5a5 h4b4 d7c6 b4c4 c6d6 c4c8 a5e5 c8f8 d6c6 f8f7 c6b6 f7f8 e5d5 f8e8 d5c5 e8d8 b6b7 d8d4 c5e5 d4b4 b7a7 b4a4 a7b8 a4b4
+Finished game 43 (Trinity vs Prune): 1/2-1/2 {Draw by fifty moves rule}
+Finished game 46 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of Trinity vs Prune (10+0.1, 1t, 16MB, 8moves_v3.pgn):
+Elo: -77.71 +/- 54.36, nElo: -143.63 +/- 96.30
+LOS: 0.17 %, DrawRatio: 48.00 %, PairsRatio: 0.18
+Games: 50, Wins: 5, Losses: 16, Draws: 29, Points: 19.5 (39.00 %)
+Ptnml(0-2): [2, 9, 12, 2, 0], WL/DD Ratio: 0.33
+--------------------------------------------------
+Finished match
+Total Time: 00:02:20 (hours:minutes:seconds)
+
+Saved in trinity-results: games/calibration-2026-10-18_00-57-release-1.0.0-losses.pgn, test-results/calibration-2026-10-18_00-57-release-1.0.0.txt
+
+==================================================================
+CALIBRATION RESULT for 'release-1.0.0' (bench 780879)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time), tc 10+0.1, 1 thread each
+vs akimbo 1.0.0 (CCRL 3474): Elo difference -14 +/- 55 -> Trinity about 3460
+   Games: 50, Wins: 12, Losses: 14, Draws: 24, Points: 24.0 (48.00 %)
+vs Patricia 5.1 (CCRL 3488): Elo difference -14 +/- 47 -> Trinity about 3474
+   Games: 50, Wins: 9, Losses: 11, Draws: 30, Points: 24.0 (48.00 %)
+vs Bread 4.0.0 (CCRL 3522): Elo difference -28 +/- 61 -> Trinity about 3494
+   Games: 50, Wins: 7, Losses: 11, Draws: 32, Points: 23.0 (46.00 %)
+vs Prune 4.0.1 (CCRL 3543): Elo difference -78 +/- 54 -> Trinity about 3465
+   Games: 50, Wins: 5, Losses: 16, Draws: 29, Points: 19.5 (39.00 %)
+ESTIMATED CCRL RATING (1 CPU): about 3472 (statistical +/- 27; real uncertainty about +/- 50-100)
+Top-100 line: 3455 (#100 on the CCRL 40/15 list of 9 October 2026). Difference: +17 Elo
+Duration: 0.1 hours. Logs: sprt\results\2026-10-18_00-57_calibration_*
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-CALIBRATION.txt)
+(Normal sleep settings are active again.)
+Preparing worktree (detached HEAD faef85c)
+    Updating crates.io index
+ Downloading crates ...
+  Downloaded btoi v0.5.0
+  Downloaded bulletformat v1.8.0
+  Downloaded autocfg v1.5.1
+  Downloaded bitflags v2.13.2
+  Downloaded nohash-hasher v0.2.0
+  Downloaded arrayvec v0.7.8
+  Downloaded rustc-hash v2.1.3
+  Downloaded pin-project-lite v0.2.17
+  Downloaded quote v1.0.47
+  Downloaded byteorder v1.5.0
+  Downloaded tracing-attributes v0.1.31
+  Downloaded once_cell v1.21.4
+  Downloaded serde_core v1.0.229
+  Downloaded unicode-ident v1.0.26
+  Downloaded num-traits v0.2.19
+  Downloaded proc-macro2 v1.0.107
+  Downloaded tracing-core v0.1.36
+  Downloaded serde v1.0.229
+  Downloaded shakmaty-syzygy v0.28.0
+  Downloaded syn v2.0.119
+  Downloaded tracing v0.1.44
+  Downloaded shakmaty v0.30.0
+   Compiling proc-macro2 v1.0.107
+   Compiling unicode-ident v1.0.26
+   Compiling quote v1.0.47
+   Compiling autocfg v1.5.1
+   Compiling once_cell v1.21.4
+   Compiling bitflags v2.13.2
+   Compiling pin-project-lite v0.2.17
+   Compiling arrayvec v0.7.8
+   Compiling byteorder v1.5.0
+   Compiling trinity v1.0.0 (C:\TrinityRunner\repo\sprt\build-release-1.0.0)
+   Compiling rustc-hash v2.1.3
+   Compiling bulletformat v1.8.0
+   Compiling tracing-core v0.1.36
+   Compiling num-traits v0.2.19
+   Compiling syn v2.0.119
+   Compiling btoi v0.5.0
+   Compiling shakmaty v0.30.0
+   Compiling tracing-attributes v0.1.31
+   Compiling tracing v0.1.44
+   Compiling shakmaty-syzygy v0.28.0
+    Finished `release` profile [optimized] target(s) in 10.49s
+warning: in the working copy of 'games/calibration-2026-10-18_00-57-release-1.0.0-losses.pgn', LF will be replaced by CRLF the next time Git touches it
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
