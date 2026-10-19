@@ -1,0 +1,81 @@
+(Sleep is blocked while this runs; normal sleep resumes automatically when finished.)
+
+==> Loss forensics: up to 800 lost games, 10 at a time
+876 lost games found; examining 800
+20 of 800 losses examined
+40 of 800 losses examined
+60 of 800 losses examined
+80 of 800 losses examined
+100 of 800 losses examined
+120 of 800 losses examined
+140 of 800 losses examined
+160 of 800 losses examined
+180 of 800 losses examined
+200 of 800 losses examined
+220 of 800 losses examined
+240 of 800 losses examined
+260 of 800 losses examined
+280 of 800 losses examined
+300 of 800 losses examined
+320 of 800 losses examined
+340 of 800 losses examined
+360 of 800 losses examined
+380 of 800 losses examined
+400 of 800 losses examined
+420 of 800 losses examined
+440 of 800 losses examined
+460 of 800 losses examined
+480 of 800 losses examined
+500 of 800 losses examined
+520 of 800 losses examined
+540 of 800 losses examined
+560 of 800 losses examined
+580 of 800 losses examined
+600 of 800 losses examined
+620 of 800 losses examined
+640 of 800 losses examined
+660 of 800 losses examined
+680 of 800 losses examined
+700 of 800 losses examined
+720 of 800 losses examined
+740 of 800 losses examined
+760 of 800 losses examined
+780 of 800 losses examined
+800 of 800 losses examined
+
+LOSS FORENSICS: 800 of Trinity's 876 lost games (re-searched at 10x the time it used, 0.2-5 s)
+Referee for mistakes: C:\TrinityRunner\repo\sprt\similarity\Stockfish\stockfish\stockfish-windows-x86-64-avx2.exe (100 ms per position)
+  search                         128  (16%)
+  evaluation                      52  (6%)
+  time                             0  (0%)
+  lost from the book              18  (2%)
+  gradual (no single mistake)    602  (75%)
+  unclear (no clear fall)          0  (0%)
+By phase at the turning point (search / evaluation):
+  opening        26 / 12  
+  middlegame     85 / 31  
+  endgame        17 / 9   
+Opponent's move just before the turning point (search / evaluation):
+  capture        10 / 7   
+  check           2 / 2   
+  quiet         116 / 43  
+By opponent (search / evaluation / other):
+  Bread          23 /   10 /  140
+  Patricia       34 /   12 /  125
+  Prune          38 /   21 /  203
+  akimbo         33 /    9 /  152
+Gradual losses, their 3 worst moves (drop >= 30 cp) retried at 10x time: search 568 / evaluation 487
+Search mistakes: time spent on the mistake / Trinity's average move time in that game: median 0.77 (128 cases)
+  ...on the first 5 moves out of the book: 3 search mistakes, median time ratio 0.80
+  ...on the later moves: 125 search mistakes, median time ratio 0.77
+Examples of search losses:
+  played a3b3 (referee +178 -> -4); with 10x time Trinity plays g3g2 (referee +196)
+  played c3d1 (referee +129 -> +21); with 10x time Trinity plays f4f5 (referee +141)
+  played f6g4 (referee +30 -> -121); with 10x time Trinity plays e3c5 (referee +22)
+  played b3c2 (referee +115 -> +1); with 10x time Trinity plays e1e6 (referee +124)
+  played f6g6 (referee -31 -> -145); with 10x time Trinity plays c8b8 (referee -38)
+Saved in trinity-results: test-results/forensics-2026-10-18_03-29.txt
+
+Done. Copy the LOSS FORENSICS block above and paste it to Claude (also saved in sprt\results\LATEST-FORENSICS.txt).
+(Normal sleep settings are active again.)
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
