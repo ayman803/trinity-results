@@ -1,0 +1,82 @@
+Started game 106 of 120 (Prune vs Trinity)
+Finished game 97 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 107 of 120 (Trinity vs Prune)
+Finished game 93 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 108 of 120 (Prune vs Trinity)
+Finished game 89 (Trinity vs Prune): 0-1 {Black wins by adjudication}
+Started game 109 of 120 (Trinity vs Prune)
+Finished game 107 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 110 of 120 (Prune vs Trinity)
+Finished game 101 (Trinity vs Prune): 1-0 {White wins by adjudication}
+Started game 111 of 120 (Trinity vs Prune)
+Finished game 96 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 112 of 120 (Prune vs Trinity)
+Finished game 105 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 113 of 120 (Trinity vs Prune)
+Finished game 94 (Prune vs Trinity): 0-1 {Black wins by adjudication}
+Started game 114 of 120 (Prune vs Trinity)
+Finished game 98 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 115 of 120 (Trinity vs Prune)
+Finished game 106 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 116 of 120 (Prune vs Trinity)
+Finished game 102 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 117 of 120 (Trinity vs Prune)
+Finished game 103 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 118 of 120 (Prune vs Trinity)
+Finished game 95 (Trinity vs Prune): 0-1 {Black wins by adjudication}
+Started game 119 of 120 (Trinity vs Prune)
+Finished game 104 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 120 of 120 (Prune vs Trinity)
+Finished game 109 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Finished game 117 (Trinity vs Prune): 1-0 {White mates}
+Finished game 108 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Finished game 116 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 114 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 113 (Trinity vs Prune): 0-1 {Black wins by adjudication}
+Finished game 120 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 115 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Finished game 118 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 99 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of Trinity vs Prune (40/60, 1t, 16MB, 8moves_v3.pgn):
+Elo: -42.88 +/- 38.79, nElo: -71.53 +/- 63.78
+LOS: 1.40 %, DrawRatio: 43.86 %, PairsRatio: 0.52
+Games: 114, Wins: 13, Losses: 27, Draws: 74, Points: 50.0 (43.86 %)
+Ptnml(0-2): [4, 17, 25, 11, 0], WL/DD Ratio: 0.09
+--------------------------------------------------
+Finished game 110 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 111 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 119 (Trinity vs Prune): 1/2-1/2 {Draw by insufficient mating material}
+Finished game 112 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of Trinity vs Prune (40/60, 1t, 16MB, 8moves_v3.pgn):
+Elo: -40.72 +/- 36.86, nElo: -69.57 +/- 62.16
+LOS: 1.41 %, DrawRatio: 46.67 %, PairsRatio: 0.52
+Games: 120, Wins: 13, Losses: 27, Draws: 80, Points: 53.0 (44.17 %)
+Ptnml(0-2): [4, 17, 28, 11, 0], WL/DD Ratio: 0.08
+--------------------------------------------------
+Finished match
+Total Time: 00:30:37 (hours:minutes:seconds)
+
+Saved in trinity-results: games/calibration-2026-10-20_10-14-release-1.0.0-losses.pgn, test-results/calibration-2026-10-20_10-14-release-1.0.0.txt
+
+==================================================================
+CALIBRATION RESULT for 'release-1.0.0' (bench 780879)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time), tc 40/60, 1 thread each
+vs akimbo 1.0.0 (CCRL 3474): Elo difference +44 +/- 30 -> Trinity about 3518
+   Games: 120, Wins: 29, Losses: 14, Draws: 77, Points: 67.5 (56.25 %)
+vs Patricia 5.1 (CCRL 3488): Elo difference +35 +/- 24 -> Trinity about 3523
+   Games: 120, Wins: 17, Losses: 5, Draws: 98, Points: 66.0 (55.00 %)
+vs Bread 4.0.0 (CCRL 3522): Elo difference -3 +/- 33 -> Trinity about 3519
+   Games: 120, Wins: 17, Losses: 18, Draws: 85, Points: 59.5 (49.58 %)
+vs Prune 4.0.1 (CCRL 3543): Elo difference -41 +/- 37 -> Trinity about 3502
+   Games: 120, Wins: 13, Losses: 27, Draws: 80, Points: 53.0 (44.17 %)
+ESTIMATED CCRL RATING (1 CPU): about 3517 (statistical +/- 15; real uncertainty about +/- 50-100)
+Top-100 line: 3455 (#100 on the CCRL 40/15 list of 9 October 2026). Difference: +62 Elo
+Duration: 2.1 hours. Logs: sprt\results\2026-10-20_10-14_calibration_*
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-CALIBRATION.txt)
+(Normal sleep settings are active again.)
+warning: in the working copy of 'games/calibration-2026-10-20_10-14-release-1.0.0-losses.pgn', LF will be replaced by CRLF the next time Git touches it
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
