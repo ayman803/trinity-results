@@ -1,83 +1,85 @@
-Finished game 117 (Trinity vs Patricia): 1/2-1/2 {Draw by 3-fold repetition}
-Finished game 115 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Finished game 119 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Finished game 92 (Patricia vs Trinity): 1/2-1/2 {Draw by insufficient mating material}
-Finished game 118 (Patricia vs Trinity): 1-0 {White wins by adjudication}
-Finished game 100 (Patricia vs Trinity): 1/2-1/2 {Draw by fifty moves rule}
+Started game 106 of 120 (Prune vs Trinity)
+Finished game 101 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 107 of 120 (Trinity vs Prune)
+Finished game 92 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 108 of 120 (Prune vs Trinity)
+Finished game 104 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 109 of 120 (Trinity vs Prune)
+Finished game 95 (Trinity vs Prune): 1-0 {White wins by adjudication}
+Started game 110 of 120 (Prune vs Trinity)
+Finished game 90 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 111 of 120 (Trinity vs Prune)
+Finished game 97 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 112 of 120 (Prune vs Trinity)
+Finished game 103 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 113 of 120 (Trinity vs Prune)
+Finished game 100 (Prune vs Trinity): 1-0 {White wins by adjudication}
 --------------------------------------------------
-Results of Trinity vs Patricia (40/60, 1t, 16MB, 8moves_v3.pgn):
-Elo: 31.10 +/- 33.80, nElo: 59.73 +/- 64.34
-LOS: 96.56 %, DrawRatio: 53.57 %, PairsRatio: 1.89
-Games: 112, Wins: 21, Losses: 11, Draws: 80, Points: 61.0 (54.46 %)
-Ptnml(0-2): [0, 9, 30, 15, 2], WL/DD Ratio: 0.07
+Results of Trinity vs Prune (40/60, 1t, 16MB, 8moves_v3.pgn):
+Elo: -77.25 +/- 40.89, nElo: -136.38 +/- 69.50
+LOS: 0.01 %, DrawRatio: 43.75 %, PairsRatio: 0.23
+Games: 96, Wins: 7, Losses: 28, Draws: 61, Points: 37.5 (39.06 %)
+Ptnml(0-2): [4, 18, 21, 5, 0], WL/DD Ratio: 0.11
 --------------------------------------------------
-Finished game 116 (Patricia vs Trinity): 1/2-1/2 {Draw by fifty moves rule}
-Finished game 120 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Finished game 113 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Finished game 111 (Trinity vs Patricia): 1-0 {White wins by adjudication}
+Started game 114 of 120 (Prune vs Trinity)
+Finished game 98 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 115 of 120 (Trinity vs Prune)
+Finished game 105 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 116 of 120 (Prune vs Trinity)
+Finished game 108 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 117 of 120 (Trinity vs Prune)
+Finished game 83 (Trinity vs Prune): 1/2-1/2 {Draw by insufficient mating material}
+Started game 118 of 120 (Prune vs Trinity)
+Finished game 109 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 119 of 120 (Trinity vs Prune)
+Finished game 111 (Trinity vs Prune): 1-0 {White wins by adjudication}
+Started game 120 of 120 (Prune vs Trinity)
+Finished game 107 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 110 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 106 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 118 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 114 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Finished game 112 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 102 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 116 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Finished game 113 (Trinity vs Prune): 0-1 {Black wins by adjudication}
+Finished game 120 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 93 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Finished game 115 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Finished game 117 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Finished game 119 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
 --------------------------------------------------
-Results of Trinity vs Patricia (40/60, 1t, 16MB, 8moves_v3.pgn):
-Elo: 29.02 +/- 31.56, nElo: 57.59 +/- 62.16
-LOS: 96.53 %, DrawRatio: 56.67 %, PairsRatio: 1.89
-Games: 120, Wins: 22, Losses: 12, Draws: 86, Points: 65.0 (54.17 %)
-Ptnml(0-2): [0, 9, 34, 15, 2], WL/DD Ratio: 0.10
+Results of Trinity vs Prune (40/60, 1t, 16MB, 8moves_v3.pgn):
+Elo: -73.46 +/- 36.03, nElo: -131.09 +/- 62.16
+LOS: 0.00 %, DrawRatio: 46.67 %, PairsRatio: 0.23
+Games: 120, Wins: 8, Losses: 33, Draws: 79, Points: 47.5 (39.58 %)
+Ptnml(0-2): [5, 21, 28, 6, 0], WL/DD Ratio: 0.08
 --------------------------------------------------
 Finished match
-Total Time: 00:31:34 (hours:minutes:seconds)
+Total Time: 00:27:41 (hours:minutes:seconds)
 
+Saved in trinity-results: test-results/calibration-2026-10-20_00-28-main.txt, games/calibration-2026-10-20_00-28-main-losses.pgn
 
-==> Trinity vs Bread 4.0.0 (CCRL 3522)
-Indexing opening suite...
-Started game 1 of 120 (Trinity vs Bread)
-Started game 2 of 120 (Bread vs Trinity)
-Started game 3 of 120 (Trinity vs Bread)
-Started game 4 of 120 (Bread vs Trinity)
-Started game 5 of 120 (Trinity vs Bread)
-Started game 6 of 120 (Bread vs Trinity)
-Started game 7 of 120 (Trinity vs Bread)
-Started game 8 of 120 (Bread vs Trinity)
-Started game 9 of 120 (Trinity vs Bread)
-Started game 10 of 120 (Bread vs Trinity)
-Started game 11 of 120 (Trinity vs Bread)
-Started game 12 of 120 (Bread vs Trinity)
-Started game 13 of 120 (Trinity vs Bread)
-Started game 14 of 120 (Bread vs Trinity)
-Finished game 11 (Trinity vs Bread): 0-1 {Black wins by adjudication}
-Started game 15 of 120 (Trinity vs Bread)
-Warning; Bestmove does not match beginning of last PV - move h6h5 from Bread
-Info; info depth 24 seldepth 29 score cp 1 nodes 1560576 nps 1020651 tbhits 0 time 1529 hashfull 1000 pv g7g5 g2g3 e6d4 e5d3
-Position; startpos
-Moves; e2e4 e7e5 g1f3 b8c6 f1b5 a7a6 b5a4 g8f6 e1g1 f8e7 d1e2 b7b5 a4b3 d7d6 a2a4 c8g4 c2c3 e8g8 h2h3 g4h5 a4b5 a6b5 a1a8 d8a8 d2d3 b5b4 g2g4 h5g6 c1e3 h7h6 b1d2 b4c3 b2c3 a8a5 f1c1 d6d5 e2f1 d5e4 d3e4 f6e4 c1a1 e4d2 f3d2 g6d3 a1a5 d3f1 a5a4 f1d3 b3d5 d3b5 a4a2 c6d8 c3c4 b5d7 a2a7 d8e6 d2f3 e7d6 c4c5 d6c5 e3c5 e6c5 a7c7 f8c8 c7c8 d7c8 f3e5 c8e6 d5e6 c5e6 g1g2
-Warning; Bestmove does not match beginning of last PV - move f3g2 from Bread
-Info; info depth 17 seldepth 31 score cp 27 nodes 1050624 nps 771950 tbhits 0 time 1361 hashfull 1000 pv b3b4 g7d4 d3c5 d4c5 c4a5 f8e7 a5b3 h7h5 g4h5 c8h8 b3c5 h8h5 f3g4 h5f5
-Position; startpos
-Moves; d2d4 d7d5 c2c4 c7c6 b1c3 g8f6 g1f3 a7a6 c4c5 b8d7 c1f4 f6h5 d1d2 b7b6 e2e4 b6c5 e4d5 c5d4 d2d4 c8b7 f1c4 c6d5 c4d5 b7d5 c3d5 h5f4 d5f4 d7f6 d4c4 d8c8 a1c1 c8c4 c1c4 g7g6 e1e2 f8h6 h1d1 e7e6 f3e5 e8g8 b2b3 f8e8 e2f3 g6g5 f4d3 f6d5 h2h4 g5h4 c4h4 d5c3 d1h1 h6g7 h4c4 e8c8 c4c8 a8c8 h1c1 c8c7 g2g4 g8f8 c1c2 f8e7 e5c4 c3d5 a2a3 c7c8 c2c1 e7f8
-Finished game 13 (Trinity vs Bread): 1-0 {White wins by adjudication}
-Started game 16 of 120 (Bread vs Trinity)
-Finished game 5 (Trinity vs Bread): 1/2-1/2 {Draw by adjudication}
-Started game 17 of 120 (Trinity vs Bread)
-Finished game 6 (Bread vs Trinity): 1/2-1/2 {Draw by adjudication}
-Started game 18 of 120 (Bread vs Trinity)
-Finished game 7 (Trinity vs Bread): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 19 of 120 (Trinity vs Bread)
-Finished game 2 (Bread vs Trinity): 1-0 {White wins by adjudication}
-Started game 20 of 120 (Bread vs Trinity)
-Finished game 10 (Bread vs Trinity): 1/2-1/2 {Draw by adjudication}
-Started game 21 of 120 (Trinity vs Bread)
-Finished game 8 (Bread vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 22 of 120 (Bread vs Trinity)
-Finished game 3 (Trinity vs Bread): 1-0 {White wins by adjudication}
-Started game 23 of 120 (Trinity vs Bread)
-Finished game 18 (Bread vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 24 of 120 (Bread vs Trinity)
-Finished game 9 (Trinity vs Bread): 1/2-1/2 {Draw by fifty moves rule}
-Started game 25 of 120 (Trinity vs Bread)
-Warning; Bestmove does not match beginning of last PV - move f8e7 from Bread
-Info; info depth 21 seldepth 37 score cp -187 nodes 1566720 nps 989715 tbhits 0 time 1583 hashfull 1000 pv h4h3 b5b6 h1b1 a2b2 b1b2 c3b2 h3h2 b6b7 h2h1q b7b8q f8f7 b8c7 f7e6 c7c8 e6e7 c8c5 e7e6 b2c2 h1f1 c5c6 e6f7 c6d7
-Position; startpos
-Moves; c2c4 e7e5 g2g3 b8c6 f1g2 f7f5 b1c3 g8f6 e2e3 f8e7 d2d3 e8g8 g1e2 d8e8 b2b3 d7d6 c1b2 c6d8 f2f4 c7c6 d1d2 e8g6 e1c1 d8e6 c1b1 c8d7 h2h3 e6c5 h1g1 a7a5 b2a3 b7b6 a3b2 a8e8 d3d4 e5d4 e2d4 e8c8 g2f3 f6e4 c3e4 f5e4 f3e2 e7f6 g3g4 c5d3 e2d3 e4d3 d2d3 g6d3 d1d3 a5a4 d4f5 d7f5 g4f5 a4b3 a2b3 f6b2 b1b2 f8f6 h3h4 g8f8 g1d1 f6f5 d3d6 f5h5 d6d8 c8d8 d1d8 f8e7 d8b8 b6b5 b8b7 e7f8 c4b5 c6b5 b3b4 g7g6 b2c3 h5h4 b7b5 h4h1 b5a5 h7h5 b4b5 h5h4 a5a2
-Game 23 stalled / disconnected and no recover option set for engine, stopping tournament.
-Finished game 23 (Trinity vs Bread): 0-1 {White disconnects}
-Preparing worktree (detached HEAD dad25f4)
+==================================================================
+CALIBRATION RESULT for 'main' (bench 780879)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time), tc 40/60, 1 thread each
+vs akimbo 1.0.0 (CCRL 3474): Elo difference +29 +/- 31 -> Trinity about 3503
+   Games: 120, Wins: 23, Losses: 13, Draws: 84, Points: 65.0 (54.17 %)
+vs Patricia 5.1 (CCRL 3488): Elo difference +26 +/- 31 -> Trinity about 3514
+   Games: 120, Wins: 20, Losses: 11, Draws: 89, Points: 64.5 (53.75 %)
+vs Bread 4.0.0 (CCRL 3522): Elo difference +26 +/- 28 -> Trinity about 3548
+   Games: 120, Wins: 18, Losses: 9, Draws: 93, Points: 64.5 (53.75 %)
+vs Prune 4.0.1 (CCRL 3543): Elo difference -73 +/- 36 -> Trinity about 3470
+   Games: 120, Wins: 8, Losses: 33, Draws: 79, Points: 47.5 (39.58 %)
+ESTIMATED CCRL RATING (1 CPU): about 3514 (statistical +/- 15; real uncertainty about +/- 50-100)
+Top-100 line: 3455 (#100 on the CCRL 40/15 list of 9 October 2026). Difference: +59 Elo
+Duration: 2.1 hours. Logs: sprt\results\2026-10-20_00-28_calibration_*
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-CALIBRATION.txt)
+(Normal sleep settings are active again.)
+Preparing worktree (detached HEAD f5c5eb7)
    Compiling trinity v1.0.0 (C:\TrinityRunner\repo\sprt\build-main)
-    Finished `release` profile [optimized] target(s) in 9.08s
+    Finished `release` profile [optimized] target(s) in 4.38s
+warning: in the working copy of 'games/calibration-2026-10-20_00-28-main-losses.pgn', LF will be replaced by CRLF the next time Git touches it
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
