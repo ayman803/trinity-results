@@ -43,3 +43,4 @@
 2026-10-21 05:55 DISTURBED (keyboard or mouse used; stopped, not counted, runs again later) 2026-10-20-07 after 192 min (approved commit 58841ba131)
 2026-10-21 08:16 STARTED 2026-10-20-07: scripts/calibrate.ps1 -Tune -Chain A -Minutes 270 -NoUpdate (approved commit 58841ba131)
 2026-10-21 12:45 DONE 2026-10-20-07 after 269 min (approved commit 58841ba131)
+2026-10-21 12:46 STARTED 2026-10-21-01: scripts/calibrate.ps1 -Ref no-razor -NoUpdate (approved commit 58841ba131)
