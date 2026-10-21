@@ -36,3 +36,4 @@
 2026-10-20 10:14 STARTED 2026-10-20-02: scripts/calibrate.ps1 -Ref release-1.0.0 -TC 40/60 -Rounds 60 -NoUpdate (approved commit dabb545505)
 2026-10-20 12:18 DONE 2026-10-20-02 after 124 min (approved commit dabb545505)
 2026-10-20 21:59 STARTED 2026-10-20-05: scripts/calibrate.ps1 -Ref main -NoUpdate (approved commit 58841ba131)
+2026-10-21 00:23 DONE 2026-10-20-05 after 144 min (approved commit 58841ba131)
