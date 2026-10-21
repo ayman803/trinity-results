@@ -1,0 +1,9 @@
+TUNE chain A of 'main' (commit f0c6e3d41c) against the rated opponents, 10+0.1
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time); 4.5 hours
+This job: 5488 games, 1372 pairs per side; chain so far: 2324 of 11000 planned pairs, 9296 games, 166 steps
+Games lost on time (either side, whole chain): 0
+setting: default -> chain A now
+QS_FUTILITY: 171 -> 182.9
+LMP_BASE: 359 -> 358.0
+RAZOR_MUL: 279 -> 289.6
+RFP_MARGIN: 85 -> 88.8

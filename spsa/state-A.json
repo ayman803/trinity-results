@@ -1,0 +1,13 @@
+{
+    "chain":  "A",
+    "pairs":  2324,
+    "steps":  166,
+    "games":  9296,
+    "timeLosses":  0,
+    "theta":  {
+                  "QS_FUTILITY":  182.91680756264429,
+                  "LMP_BASE":  358.00515496625815,
+                  "RAZOR_MUL":  289.59009282587442,
+                  "RFP_MARGIN":  88.789109462652618
+              }
+}
