@@ -1,80 +1,82 @@
-Finished game 729 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Started game 749 of 1000 (Trinity vs Patricia)
-Finished game 737 (Trinity vs Patricia): 1-0 {White wins by adjudication}
-Started game 750 of 1000 (Patricia vs Trinity)
-Finished game 730 (Patricia vs Trinity): 1/2-1/2 {Draw by fifty moves rule}
-Started game 751 of 1000 (Trinity vs Patricia)
-Finished game 738 (Patricia vs Trinity): 1/2-1/2 {Draw by insufficient mating material}
-Started game 752 of 1000 (Patricia vs Trinity)
-Finished game 742 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 753 of 1000 (Trinity vs Patricia)
-Finished game 741 (Trinity vs Patricia): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 754 of 1000 (Patricia vs Trinity)
-Finished game 739 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Started game 755 of 1000 (Trinity vs Patricia)
-Finished game 735 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Started game 756 of 1000 (Patricia vs Trinity)
-Finished game 746 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 757 of 1000 (Trinity vs Patricia)
-Finished game 748 (Patricia vs Trinity): 1-0 {White wins by adjudication}
-Started game 758 of 1000 (Patricia vs Trinity)
-Finished game 743 (Trinity vs Patricia): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 759 of 1000 (Trinity vs Patricia)
-Finished game 745 (Trinity vs Patricia): 1/2-1/2 {Draw by insufficient mating material}
-Started game 760 of 1000 (Patricia vs Trinity)
-Finished game 744 (Patricia vs Trinity): 1/2-1/2 {Draw by adjudication}
-Started game 761 of 1000 (Trinity vs Patricia)
-Finished game 750 (Patricia vs Trinity): 1/2-1/2 {Draw by adjudication}
-Started game 762 of 1000 (Patricia vs Trinity)
-Finished game 752 (Patricia vs Trinity): 1-0 {White wins by adjudication}
-Started game 763 of 1000 (Trinity vs Patricia)
-Finished game 747 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Started game 764 of 1000 (Patricia vs Trinity)
-Finished game 753 (Trinity vs Patricia): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 765 of 1000 (Trinity vs Patricia)
-Finished game 758 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 766 of 1000 (Patricia vs Trinity)
-Finished game 751 (Trinity vs Patricia): 1-0 {White wins by adjudication}
-Started game 767 of 1000 (Trinity vs Patricia)
-Finished game 755 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Started game 768 of 1000 (Patricia vs Trinity)
-Finished game 749 (Trinity vs Patricia): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 769 of 1000 (Trinity vs Patricia)
-Finished game 759 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Started game 770 of 1000 (Patricia vs Trinity)
-Finished game 760 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 771 of 1000 (Trinity vs Patricia)
-Finished game 757 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Started game 772 of 1000 (Patricia vs Trinity)
-Finished game 754 (Patricia vs Trinity): 1/2-1/2 {Draw by adjudication}
-Started game 773 of 1000 (Trinity vs Patricia)
-Finished game 756 (Patricia vs Trinity): 1/2-1/2 {Draw by insufficient mating material}
-Started game 774 of 1000 (Patricia vs Trinity)
-Finished game 766 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 775 of 1000 (Trinity vs Patricia)
-Finished game 763 (Trinity vs Patricia): 1-0 {White wins by adjudication}
-Started game 776 of 1000 (Patricia vs Trinity)
-Finished game 764 (Patricia vs Trinity): 0-1 {Black wins by adjudication}
-Started game 777 of 1000 (Trinity vs Patricia)
-Finished game 765 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Started game 778 of 1000 (Patricia vs Trinity)
-Finished game 768 (Patricia vs Trinity): 1/2-1/2 {Draw by adjudication}
-Started game 779 of 1000 (Trinity vs Patricia)
-Finished game 761 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Started game 780 of 1000 (Patricia vs Trinity)
-Finished game 767 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Started game 781 of 1000 (Trinity vs Patricia)
-Finished game 762 (Patricia vs Trinity): 1/2-1/2 {Draw by fifty moves rule}
-Started game 782 of 1000 (Patricia vs Trinity)
-Finished game 773 (Trinity vs Patricia): 0-1 {Black wins by adjudication}
-Started game 783 of 1000 (Trinity vs Patricia)
-Finished game 770 (Patricia vs Trinity): 1/2-1/2 {Draw by insufficient mating material}
-Started game 784 of 1000 (Patricia vs Trinity)
-Finished game 771 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
-Started game 785 of 1000 (Trinity vs Patricia)
-Finished game 772 (Patricia vs Trinity): 1/2-1/2 {Draw by adjudication}
-Started game 786 of 1000 (Patricia vs Trinity)
-Finished game 776 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 787 of 1000 (Trinity vs Patricia)
-Game 782 stalled / disconnected and no recover option set for engine, stopping tournament.
-Finished game 782 (Patricia vs Trinity): 1-0 {Black disconnects}
+Finished game 963 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 983 of 1000 (Trinity vs Prune)
+Finished game 973 (Trinity vs Prune): 0-1 {Black wins by adjudication}
+Started game 984 of 1000 (Prune vs Trinity)
+Finished game 972 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 985 of 1000 (Trinity vs Prune)
+Finished game 978 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 986 of 1000 (Prune vs Trinity)
+Finished game 975 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 987 of 1000 (Trinity vs Prune)
+Finished game 974 (Prune vs Trinity): 0-1 {Black mates}
+Started game 988 of 1000 (Prune vs Trinity)
+Finished game 971 (Trinity vs Prune): 1/2-1/2 {Draw by insufficient mating material}
+Started game 989 of 1000 (Trinity vs Prune)
+Finished game 970 (Prune vs Trinity): 1/2-1/2 {Draw by insufficient mating material}
+Started game 990 of 1000 (Prune vs Trinity)
+Finished game 976 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 991 of 1000 (Trinity vs Prune)
+Finished game 979 (Trinity vs Prune): 0-1 {Black wins by adjudication}
+Started game 992 of 1000 (Prune vs Trinity)
+Finished game 986 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 993 of 1000 (Trinity vs Prune)
+Finished game 981 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 994 of 1000 (Prune vs Trinity)
+Finished game 980 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 995 of 1000 (Trinity vs Prune)
+Finished game 977 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 996 of 1000 (Prune vs Trinity)
+Finished game 984 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 997 of 1000 (Trinity vs Prune)
+Finished game 982 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 998 of 1000 (Prune vs Trinity)
+Finished game 990 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 999 of 1000 (Trinity vs Prune)
+Finished game 983 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 1000 of 1000 (Prune vs Trinity)
+Finished game 987 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Finished game 989 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 994 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 985 (Trinity vs Prune): 0-1 {Black wins by adjudication}
+Finished game 992 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 988 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Finished game 991 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 997 (Trinity vs Prune): 1-0 {White wins by adjudication}
+Finished game 993 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 998 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 995 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Finished game 996 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 999 (Trinity vs Prune): 0-1 {Black wins by adjudication}
+Finished game 1000 (Prune vs Trinity): 1-0 {White wins by adjudication}
+--------------------------------------------------
+Results of Trinity vs Prune (10+0.1, 1t, 16MB, 8moves_v3.pgn):
+Elo: -80.27 +/- 13.01, nElo: -137.72 +/- 21.53
+LOS: 0.00 %, DrawRatio: 41.40 %, PairsRatio: 0.21
+Games: 1000, Wins: 89, Losses: 316, Draws: 595, Points: 386.5 (38.65 %)
+Ptnml(0-2): [41, 201, 207, 46, 5], WL/DD Ratio: 0.19
+--------------------------------------------------
+Finished match
+Total Time: 00:35:11 (hours:minutes:seconds)
+
+Saved in trinity-results: test-results/calibration-2026-10-21_20-21-release-1.0.0.txt, games/calibration-2026-10-21_20-21-release-1.0.0-losses.pgn
+
+==================================================================
+CALIBRATION RESULT for 'release-1.0.0' (bench 780879)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time), tc 10+0.1, 1 thread each
+vs akimbo 1.0.0 (CCRL 3474): Elo difference -19 +/- 14 -> Trinity about 3455
+   Games: 1000, Wins: 199, Losses: 255, Draws: 546, Points: 472.0 (47.20 %)
+vs Patricia 5.1 (CCRL 3488): Elo difference -22 +/- 13 -> Trinity about 3466
+   Games: 1000, Wins: 149, Losses: 211, Draws: 640, Points: 469.0 (46.90 %)
+vs Bread 4.0.0 (CCRL 3522): Elo difference -17 +/- 13 -> Trinity about 3505
+   Games: 1000, Wins: 171, Losses: 219, Draws: 610, Points: 476.0 (47.60 %)
+vs Prune 4.0.1 (CCRL 3543): Elo difference -80 +/- 13 -> Trinity about 3463
+   Games: 1000, Wins: 89, Losses: 316, Draws: 595, Points: 386.5 (38.65 %)
+ESTIMATED CCRL RATING (1 CPU): about 3473 (statistical +/- 7; real uncertainty about +/- 50-100)
+Top-100 line: 3455 (#100 on the CCRL 40/15 list of 9 October 2026). Difference: +18 Elo
+Duration: 2.3 hours. Logs: sprt\results\2026-10-21_20-21_calibration_*
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-CALIBRATION.txt)
+(Normal sleep settings are active again.)
+warning: in the working copy of 'games/calibration-2026-10-21_20-21-release-1.0.0-losses.pgn', LF will be replaced by CRLF the next time Git touches it
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
