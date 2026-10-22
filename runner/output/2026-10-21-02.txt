@@ -1,80 +1,80 @@
-Started game 194 of 1000 (Prune vs Trinity)
-Finished game 186 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 195 of 1000 (Trinity vs Prune)
-Finished game 189 (Trinity vs Prune): 1-0 {White wins by adjudication}
-Started game 196 of 1000 (Prune vs Trinity)
-Finished game 182 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 197 of 1000 (Trinity vs Prune)
-Finished game 183 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
-Started game 198 of 1000 (Prune vs Trinity)
-Finished game 190 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 199 of 1000 (Trinity vs Prune)
-Finished game 187 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
-Started game 200 of 1000 (Prune vs Trinity)
-Finished game 192 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 201 of 1000 (Trinity vs Prune)
-Finished game 184 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 202 of 1000 (Prune vs Trinity)
-Finished game 188 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 203 of 1000 (Trinity vs Prune)
-Finished game 191 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 204 of 1000 (Prune vs Trinity)
-Finished game 193 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
-Started game 205 of 1000 (Trinity vs Prune)
-Finished game 200 (Prune vs Trinity): 0-1 {Black wins by adjudication}
-Started game 206 of 1000 (Prune vs Trinity)
-Finished game 172 (Prune vs Trinity): 1/2-1/2 {Draw by fifty moves rule}
-Started game 207 of 1000 (Trinity vs Prune)
-Finished game 194 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 208 of 1000 (Prune vs Trinity)
-Finished game 196 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
-Started game 209 of 1000 (Trinity vs Prune)
-Finished game 179 (Trinity vs Prune): 1/2-1/2 {Draw by fifty moves rule}
-Started game 210 of 1000 (Prune vs Trinity)
-Finished game 202 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 211 of 1000 (Trinity vs Prune)
-Finished game 204 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 212 of 1000 (Prune vs Trinity)
-Finished game 201 (Trinity vs Prune): 0-1 {Black wins by adjudication}
-Started game 213 of 1000 (Trinity vs Prune)
-Finished game 199 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
---------------------------------------------------
-Results of Trinity vs Prune (10+0.1, 1t, 16MB, 8moves_v3.pgn):
-Elo: -89.68 +/- 31.87, nElo: -142.80 +/- 48.39
-LOS: 0.00 %, DrawRatio: 41.41 %, PairsRatio: 0.21
-Games: 198, Wins: 15, Losses: 65, Draws: 118, Points: 74.0 (37.37 %)
-Ptnml(0-2): [13, 35, 41, 9, 1], WL/DD Ratio: 0.11
---------------------------------------------------
-Started game 214 of 1000 (Prune vs Trinity)
-Finished game 197 (Trinity vs Prune): 0-1 {Black wins by adjudication}
-Started game 215 of 1000 (Trinity vs Prune)
-Finished game 198 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
-Started game 216 of 1000 (Prune vs Trinity)
-Finished game 195 (Trinity vs Prune): 1/2-1/2 {Draw by fifty moves rule}
-Started game 217 of 1000 (Trinity vs Prune)
-Finished game 203 (Trinity vs Prune): 0-1 {Black wins by adjudication}
-Started game 218 of 1000 (Prune vs Trinity)
-Warning; PV continues after threefold repetition - move d3c5 from Trinity
-Info; info depth 1 seldepth 2 score cp 0 nodes 39 nps 39000 hashfull 0 time 1 pv f4f7 d3c5
-Position; startpos
-Moves; e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 d4e5 d7d5 b1d2 e4c5 d2b3 c5b3 a2b3 f8e7 h2h4 c7c5 c1g5 b8c6 g5e7 c6e7 f1b5 c8d7 d1d3 e8g8 b5d7 d8d7 f3g5 d7f5 d3f5 e7f5 e1c1 h7h6 g5f3 f5e7 h1e1 a7a5 e5e6 d5d4 e6f7 f8f7 f3e5 f7f2 e5d3 f2f7 d3e5 f7f4 e5d3 f4f7 d3e5 f7f4 e5d3
-Finished game 212 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 219 of 1000 (Trinity vs Prune)
-Finished game 211 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 220 of 1000 (Prune vs Trinity)
-Finished game 215 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 221 of 1000 (Trinity vs Prune)
-Finished game 208 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 222 of 1000 (Prune vs Trinity)
-Finished game 205 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
-Started game 223 of 1000 (Trinity vs Prune)
-Finished game 210 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 224 of 1000 (Prune vs Trinity)
-Finished game 213 (Trinity vs Prune): 1-0 {White wins by adjudication}
-Started game 225 of 1000 (Trinity vs Prune)
-Finished game 206 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 226 of 1000 (Prune vs Trinity)
-Finished game 214 (Prune vs Trinity): 0-1 {Black wins by adjudication}
-Started game 227 of 1000 (Trinity vs Prune)
-Game 221 stalled / disconnected and no recover option set for engine, stopping tournament.
-Finished game 221 (Trinity vs Prune): 1-0 {Black disconnects}
+Finished game 729 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
+Started game 749 of 1000 (Trinity vs Patricia)
+Finished game 737 (Trinity vs Patricia): 1-0 {White wins by adjudication}
+Started game 750 of 1000 (Patricia vs Trinity)
+Finished game 730 (Patricia vs Trinity): 1/2-1/2 {Draw by fifty moves rule}
+Started game 751 of 1000 (Trinity vs Patricia)
+Finished game 738 (Patricia vs Trinity): 1/2-1/2 {Draw by insufficient mating material}
+Started game 752 of 1000 (Patricia vs Trinity)
+Finished game 742 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 753 of 1000 (Trinity vs Patricia)
+Finished game 741 (Trinity vs Patricia): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 754 of 1000 (Patricia vs Trinity)
+Finished game 739 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
+Started game 755 of 1000 (Trinity vs Patricia)
+Finished game 735 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
+Started game 756 of 1000 (Patricia vs Trinity)
+Finished game 746 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 757 of 1000 (Trinity vs Patricia)
+Finished game 748 (Patricia vs Trinity): 1-0 {White wins by adjudication}
+Started game 758 of 1000 (Patricia vs Trinity)
+Finished game 743 (Trinity vs Patricia): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 759 of 1000 (Trinity vs Patricia)
+Finished game 745 (Trinity vs Patricia): 1/2-1/2 {Draw by insufficient mating material}
+Started game 760 of 1000 (Patricia vs Trinity)
+Finished game 744 (Patricia vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 761 of 1000 (Trinity vs Patricia)
+Finished game 750 (Patricia vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 762 of 1000 (Patricia vs Trinity)
+Finished game 752 (Patricia vs Trinity): 1-0 {White wins by adjudication}
+Started game 763 of 1000 (Trinity vs Patricia)
+Finished game 747 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
+Started game 764 of 1000 (Patricia vs Trinity)
+Finished game 753 (Trinity vs Patricia): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 765 of 1000 (Trinity vs Patricia)
+Finished game 758 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 766 of 1000 (Patricia vs Trinity)
+Finished game 751 (Trinity vs Patricia): 1-0 {White wins by adjudication}
+Started game 767 of 1000 (Trinity vs Patricia)
+Finished game 755 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
+Started game 768 of 1000 (Patricia vs Trinity)
+Finished game 749 (Trinity vs Patricia): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 769 of 1000 (Trinity vs Patricia)
+Finished game 759 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
+Started game 770 of 1000 (Patricia vs Trinity)
+Finished game 760 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 771 of 1000 (Trinity vs Patricia)
+Finished game 757 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
+Started game 772 of 1000 (Patricia vs Trinity)
+Finished game 754 (Patricia vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 773 of 1000 (Trinity vs Patricia)
+Finished game 756 (Patricia vs Trinity): 1/2-1/2 {Draw by insufficient mating material}
+Started game 774 of 1000 (Patricia vs Trinity)
+Finished game 766 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 775 of 1000 (Trinity vs Patricia)
+Finished game 763 (Trinity vs Patricia): 1-0 {White wins by adjudication}
+Started game 776 of 1000 (Patricia vs Trinity)
+Finished game 764 (Patricia vs Trinity): 0-1 {Black wins by adjudication}
+Started game 777 of 1000 (Trinity vs Patricia)
+Finished game 765 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
+Started game 778 of 1000 (Patricia vs Trinity)
+Finished game 768 (Patricia vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 779 of 1000 (Trinity vs Patricia)
+Finished game 761 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
+Started game 780 of 1000 (Patricia vs Trinity)
+Finished game 767 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
+Started game 781 of 1000 (Trinity vs Patricia)
+Finished game 762 (Patricia vs Trinity): 1/2-1/2 {Draw by fifty moves rule}
+Started game 782 of 1000 (Patricia vs Trinity)
+Finished game 773 (Trinity vs Patricia): 0-1 {Black wins by adjudication}
+Started game 783 of 1000 (Trinity vs Patricia)
+Finished game 770 (Patricia vs Trinity): 1/2-1/2 {Draw by insufficient mating material}
+Started game 784 of 1000 (Patricia vs Trinity)
+Finished game 771 (Trinity vs Patricia): 1/2-1/2 {Draw by adjudication}
+Started game 785 of 1000 (Trinity vs Patricia)
+Finished game 772 (Patricia vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 786 of 1000 (Patricia vs Trinity)
+Finished game 776 (Patricia vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 787 of 1000 (Trinity vs Patricia)
+Game 782 stalled / disconnected and no recover option set for engine, stopping tournament.
+Finished game 782 (Patricia vs Trinity): 1-0 {Black disconnects}
