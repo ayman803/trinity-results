@@ -1,0 +1,80 @@
+Started game 194 of 1000 (Prune vs Trinity)
+Finished game 186 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 195 of 1000 (Trinity vs Prune)
+Finished game 189 (Trinity vs Prune): 1-0 {White wins by adjudication}
+Started game 196 of 1000 (Prune vs Trinity)
+Finished game 182 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 197 of 1000 (Trinity vs Prune)
+Finished game 183 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 198 of 1000 (Prune vs Trinity)
+Finished game 190 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 199 of 1000 (Trinity vs Prune)
+Finished game 187 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 200 of 1000 (Prune vs Trinity)
+Finished game 192 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 201 of 1000 (Trinity vs Prune)
+Finished game 184 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 202 of 1000 (Prune vs Trinity)
+Finished game 188 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 203 of 1000 (Trinity vs Prune)
+Finished game 191 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 204 of 1000 (Prune vs Trinity)
+Finished game 193 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 205 of 1000 (Trinity vs Prune)
+Finished game 200 (Prune vs Trinity): 0-1 {Black wins by adjudication}
+Started game 206 of 1000 (Prune vs Trinity)
+Finished game 172 (Prune vs Trinity): 1/2-1/2 {Draw by fifty moves rule}
+Started game 207 of 1000 (Trinity vs Prune)
+Finished game 194 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 208 of 1000 (Prune vs Trinity)
+Finished game 196 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 209 of 1000 (Trinity vs Prune)
+Finished game 179 (Trinity vs Prune): 1/2-1/2 {Draw by fifty moves rule}
+Started game 210 of 1000 (Prune vs Trinity)
+Finished game 202 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 211 of 1000 (Trinity vs Prune)
+Finished game 204 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 212 of 1000 (Prune vs Trinity)
+Finished game 201 (Trinity vs Prune): 0-1 {Black wins by adjudication}
+Started game 213 of 1000 (Trinity vs Prune)
+Finished game 199 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of Trinity vs Prune (10+0.1, 1t, 16MB, 8moves_v3.pgn):
+Elo: -89.68 +/- 31.87, nElo: -142.80 +/- 48.39
+LOS: 0.00 %, DrawRatio: 41.41 %, PairsRatio: 0.21
+Games: 198, Wins: 15, Losses: 65, Draws: 118, Points: 74.0 (37.37 %)
+Ptnml(0-2): [13, 35, 41, 9, 1], WL/DD Ratio: 0.11
+--------------------------------------------------
+Started game 214 of 1000 (Prune vs Trinity)
+Finished game 197 (Trinity vs Prune): 0-1 {Black wins by adjudication}
+Started game 215 of 1000 (Trinity vs Prune)
+Finished game 198 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 216 of 1000 (Prune vs Trinity)
+Finished game 195 (Trinity vs Prune): 1/2-1/2 {Draw by fifty moves rule}
+Started game 217 of 1000 (Trinity vs Prune)
+Finished game 203 (Trinity vs Prune): 0-1 {Black wins by adjudication}
+Started game 218 of 1000 (Prune vs Trinity)
+Warning; PV continues after threefold repetition - move d3c5 from Trinity
+Info; info depth 1 seldepth 2 score cp 0 nodes 39 nps 39000 hashfull 0 time 1 pv f4f7 d3c5
+Position; startpos
+Moves; e2e4 e7e5 g1f3 g8f6 d2d4 f6e4 d4e5 d7d5 b1d2 e4c5 d2b3 c5b3 a2b3 f8e7 h2h4 c7c5 c1g5 b8c6 g5e7 c6e7 f1b5 c8d7 d1d3 e8g8 b5d7 d8d7 f3g5 d7f5 d3f5 e7f5 e1c1 h7h6 g5f3 f5e7 h1e1 a7a5 e5e6 d5d4 e6f7 f8f7 f3e5 f7f2 e5d3 f2f7 d3e5 f7f4 e5d3 f4f7 d3e5 f7f4 e5d3
+Finished game 212 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 219 of 1000 (Trinity vs Prune)
+Finished game 211 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 220 of 1000 (Prune vs Trinity)
+Finished game 215 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 221 of 1000 (Trinity vs Prune)
+Finished game 208 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 222 of 1000 (Prune vs Trinity)
+Finished game 205 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 223 of 1000 (Trinity vs Prune)
+Finished game 210 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 224 of 1000 (Prune vs Trinity)
+Finished game 213 (Trinity vs Prune): 1-0 {White wins by adjudication}
+Started game 225 of 1000 (Trinity vs Prune)
+Finished game 206 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Started game 226 of 1000 (Prune vs Trinity)
+Finished game 214 (Prune vs Trinity): 0-1 {Black wins by adjudication}
+Started game 227 of 1000 (Trinity vs Prune)
+Game 221 stalled / disconnected and no recover option set for engine, stopping tournament.
+Finished game 221 (Trinity vs Prune): 1-0 {Black disconnects}
