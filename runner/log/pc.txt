@@ -75,3 +75,4 @@
 2026-10-23 13:01 DONE 2026-10-23-03 after 5 min (approved commit 189246b88d)
 2026-10-23 13:01 STARTED 2026-10-23-04: scripts/calibrate.ps1 -Ref release-1.1 -TC 40/60 -Rounds 60 -NoUpdate (approved commit 189246b88d)
 2026-10-23 14:40 DISTURBED (keyboard or mouse used; stopped, not counted, runs again later) 2026-10-23-04 after 99 min (approved commit 189246b88d)
+2026-10-23 15:25 STARTED 2026-10-23-04: scripts/calibrate.ps1 -Ref release-1.1 -TC 40/60 -Rounds 60 -NoUpdate (approved commit 189246b88d)
