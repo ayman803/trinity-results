@@ -1,0 +1,9 @@
+V2 CHECK: 'release-1.1' on Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz - PASSED
+bench AVX2 build: 916512 nodes, 2093768 nps
+bench v2 build:   916512 nodes, 1424723 nps
+Same bench node count: yes
+Games finished: 20 of 20, tc 10+0.1
+Elo: -17.39 +/- 58.68, nElo: -45.62 +/- 152.27
+Games: 20, Wins: 1, Losses: 2, Draws: 17, Points: 9.5 (47.50 %)
+Ptnml(0-2): [0, 2, 7, 1, 0], WL/DD Ratio: 0.00
+Games lost on time: 0; illegal moves: 0; crashes or hangs: 0
