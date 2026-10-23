@@ -63,3 +63,4 @@
 2026-10-22 11:58 DONE 2026-10-22-02 after 115 min (approved commit 189246b88d)
 2026-10-22 17:58 STARTED 2026-10-22-03: scripts/calibrate.ps1 -Ref main -NoUpdate (approved commit 189246b88d)
 2026-10-22 20:20 DONE 2026-10-22-03 after 143 min (approved commit 189246b88d)
+2026-10-22 20:21 STARTED 2026-10-22-04: scripts/calibrate.ps1 -Ref release-1.0.0 -NoUpdate (approved commit 189246b88d)
