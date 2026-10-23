@@ -1,0 +1,85 @@
+Started game 108 of 120 (Prune vs Trinity)
+Finished game 84 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 109 of 120 (Trinity vs Prune)
+Finished game 99 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 110 of 120 (Prune vs Trinity)
+Finished game 101 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 111 of 120 (Trinity vs Prune)
+Finished game 91 (Trinity vs Prune): 1-0 {White wins by adjudication}
+Started game 112 of 120 (Prune vs Trinity)
+Finished game 107 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 113 of 120 (Trinity vs Prune)
+Finished game 72 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 114 of 120 (Prune vs Trinity)
+Finished game 100 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of Trinity vs Prune (40/60, 1t, 16MB, 8moves_v3.pgn):
+Elo: 21.30 +/- 27.31, nElo: 53.90 +/- 68.79
+LOS: 93.77 %, DrawRatio: 73.47 %, PairsRatio: 2.25
+Games: 98, Wins: 13, Losses: 7, Draws: 78, Points: 52.0 (53.06 %)
+Ptnml(0-2): [0, 4, 36, 8, 1], WL/DD Ratio: 0.09
+--------------------------------------------------
+Started game 115 of 120 (Trinity vs Prune)
+Finished game 108 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 116 of 120 (Prune vs Trinity)
+Finished game 109 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 117 of 120 (Trinity vs Prune)
+Finished game 110 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 118 of 120 (Prune vs Trinity)
+Finished game 105 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Started game 119 of 120 (Trinity vs Prune)
+Finished game 116 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 120 of 120 (Prune vs Trinity)
+Finished game 111 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Finished game 106 (Prune vs Trinity): 1/2-1/2 {Draw by insufficient mating material}
+Finished game 104 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 95 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Finished game 114 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 117 (Trinity vs Prune): 1-0 {White wins by adjudication}
+Finished game 102 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 120 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 118 (Prune vs Trinity): 1-0 {White wins by adjudication}
+Finished game 119 (Trinity vs Prune): 0-1 {Black wins by adjudication}
+Warning; PV continues after fifty-move rule - move a8a3 from Trinity
+Info; info depth 12 seldepth 20 score cp 57 nodes 11185 nps 3728333 hashfull 0 time 3 pv f3g4 g6f7 e5d6 a8g8 g4f3 g8a8 f3f4 f7g7 d6b6 g7g8 f4g5 g8f7 b6f6 f7e8 f6h8 e8d7 h8g7 d7c6 g5f4 a8a3
+Position; startpos
+Moves; c2c4 g8f6 g1f3 e7e6 g2g3 d7d5 f1g2 d5c4 d1a4 b8d7 a4c4 c7c5 e1g1 b7b6 b1c3 c8b7 d2d4 a7a6 e2e4 c5d4 f3d4 d7e5 c4a4 f6d7 f1d1 b6b5 a4c2 a8c8 c1f4 e5c4 h2h4 f8c5 d4b3 c5e7 b3d2 c4e5 d2f3 e5f3 g2f3 h7h6 d1d2 d8a5 a1d1 d7b6 a2a3 g7g5 f4e5 e8g8 e5d4 b5b4 a3b4 a5b4 d2d3 a6a5 h4g5 e7g5 f3h5 b7a6 d3f3 b6c4 b2b3 c4a3 c2b2 c8d8 d4g7 a3c4 d1d8 f8d8 b2a1 c4d2 f3f7 d2b3 a1e1 b3d4 g1h2 a6e2 e1e2 d4e2 g7e5 e2g3 h2g3 g5f4 f7f4 d8d3 g3g2 d3c3 h5f7 g8f8 f7e6 f8e7 e6d5 c3c5 f4f7 e7e8 e5d6 b4b5 d6c5 b5c5 f7f6 c5d4 f6g6 e8d8 f2f4 a5a4 g2h3 d4e3 h3g4 h6h5 g4h5 e3f4 g6a6 f4f3 h5g6 f3g2 g6h7 g2h2 h7g6 a4a3 a6a8 d8e7 a8a7 e7e8 a7a8 e8d7 a8a7 d7c8 a7a8 c8c7 g6f6 c7d6 f6f5 h2h5 f5f4 h5h4 f4e3 h4e1 e3f4 e1d2 f4f5 d2f2 f5g4 f2c5 g4f4 d6e7 f4f3 c5d6 f3g2 e7f6 g2f3 d6c5 f3f4 c5c1 f4g4 f6e5 a8e8 e5d6 e8d8 d6e7 d8a8 c1g1 g4h3 g1c5 h3g3 c5e3 g3g4 e3e2 g4g3 e2b2 g3f4 b2f2 f4g4 f2g2 g4f4 g2h2 f4e3 h2g1 e3f4 g1f1 f4g4 f1a1 g4f4 e7d6 a8a6 d6c5 a6a8 c5d4 f4f5 a1c3 f5e6 c3c5 e6f5 c5d6 f5g4 d4e3 g4f5 e3f3 f5g5 d6e5 g5g6
+Finished game 115 (Trinity vs Prune): 1-0 {White mates}
+Finished game 103 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+Finished game 112 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 113 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of Trinity vs Prune (40/60, 1t, 16MB, 8moves_v3.pgn):
+Elo: 17.39 +/- 23.77, nElo: 45.62 +/- 62.16
+LOS: 92.48 %, DrawRatio: 75.00 %, PairsRatio: 2.00
+Games: 120, Wins: 15, Losses: 9, Draws: 96, Points: 63.0 (52.50 %)
+Ptnml(0-2): [0, 5, 45, 9, 1], WL/DD Ratio: 0.10
+--------------------------------------------------
+Finished match
+Total Time: 00:27:22 (hours:minutes:seconds)
+
+Saved in trinity-results: games/calibration-2026-10-22_22-42-main-losses.pgn, test-results/calibration-2026-10-22_22-42-main.txt
+
+==================================================================
+CALIBRATION RESULT for 'main' (bench 916512)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time), tc 40/60, 1 thread each
+vs akimbo 1.0.0 (CCRL 3474): Elo difference +76 +/- 26 -> Trinity about 3550
+   Games: 120, Wins: 28, Losses: 2, Draws: 90, Points: 73.0 (60.83 %)
+vs Patricia 5.1 (CCRL 3488): Elo difference +104 +/- 37 -> Trinity about 3592
+   Games: 120, Wins: 41, Losses: 6, Draws: 73, Points: 77.5 (64.58 %)
+vs Bread 4.0.0 (CCRL 3522): Elo difference +86 +/- 35 -> Trinity about 3608
+   Games: 120, Wins: 35, Losses: 6, Draws: 79, Points: 74.5 (62.08 %)
+vs Prune 4.0.1 (CCRL 3543): Elo difference +17 +/- 24 -> Trinity about 3560
+   Games: 120, Wins: 15, Losses: 9, Draws: 96, Points: 63.0 (52.50 %)
+ESTIMATED CCRL RATING (1 CPU): about 3570 (statistical +/- 14; real uncertainty about +/- 50-100)
+Top-100 line: 3455 (#100 on the CCRL 40/15 list of 9 October 2026). Difference: +115 Elo
+Duration: 2 hours. Logs: sprt\results\2026-10-22_22-42_calibration_*
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-CALIBRATION.txt)
+(Normal sleep settings are active again.)
+Preparing worktree (detached HEAD 439781c)
+   Compiling trinity v1.0.0 (C:\TrinityRunner\repo\sprt\build-main)
+    Finished `release` profile [optimized] target(s) in 4.24s
+warning: in the working copy of 'games/calibration-2026-10-22_22-42-main-losses.pgn', LF will be replaced by CRLF the next time Git touches it
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
