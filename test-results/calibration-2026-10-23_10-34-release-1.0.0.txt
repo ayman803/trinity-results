@@ -1,0 +1,13 @@
+CALIBRATION RESULT for 'release-1.0.0' (bench 780879)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time), tc 10+0.1, 1 thread each
+vs akimbo 1.0.0 (CCRL 3474): Elo difference -3 +/- 14 -> Trinity about 3471
+   Games: 1000, Wins: 220, Losses: 229, Draws: 551, Points: 495.5 (49.55 %)
+vs Patricia 5.1 (CCRL 3488): Elo difference -18 +/- 14 -> Trinity about 3470
+   Games: 1000, Wins: 168, Losses: 219, Draws: 613, Points: 474.5 (47.45 %)
+vs Bread 4.0.0 (CCRL 3522): Elo difference -8 +/- 13 -> Trinity about 3514
+   Games: 1000, Wins: 180, Losses: 204, Draws: 616, Points: 488.0 (48.80 %)
+vs Prune 4.0.1 (CCRL 3543): Elo difference -80 +/- 13 -> Trinity about 3463
+   Games: 1000, Wins: 98, Losses: 323, Draws: 579, Points: 387.5 (38.75 %)
+ESTIMATED CCRL RATING (1 CPU): about 3480 (statistical +/- 7; real uncertainty about +/- 50-100)
+Top-100 line: 3455 (#100 on the CCRL 40/15 list of 9 October 2026). Difference: +25 Elo
+Duration: 2.3 hours. Logs: sprt\results\2026-10-23_10-34_calibration_*
