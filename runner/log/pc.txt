@@ -81,3 +81,4 @@
 2026-10-23 19:11 DONE 2026-10-23-04 after 126 min (approved commit 189246b88d)
 2026-10-23 19:12 STARTED 2026-10-23-05: scripts/calibrate.ps1 -Ref release-1.0.0 -TC 40/60 -Rounds 60 -NoUpdate (approved commit 189246b88d)
 2026-10-23 21:10 DONE 2026-10-23-05 after 118 min (approved commit 189246b88d)
+2026-10-23 21:10 STARTED 2026-10-23-06: scripts/threads.ps1 -Ref release-1.1 -Rounds 100 -NoUpdate (approved commit 189246b88d)
