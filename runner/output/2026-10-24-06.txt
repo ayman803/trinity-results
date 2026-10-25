@@ -1,0 +1,54 @@
+Free disk space on C:\: 252 GB
+Using cached build of origin/main (db95fabece).
+Using Syzygy tablebases from C:\TrinityRunner\repo\syzygy for all engines.
+(Sleep is blocked while this runs; normal sleep resumes automatically when finished.)
+
+==> Tuning chain D of 'main' against 4 rated opponents, 10+0.1, 91 minutes (starting at 0 of 11000 planned pairs)
+step 1 vs akimbo: up 10-0, down 5-4; QS_FUTILITY=170.6 LMP_BASE=360.2 LMR_HIST_DIV=7842.1 RFP_MARGIN=85.2
+step 2 vs Patricia: up 7-4, down 7-1; QS_FUTILITY=170.5 LMP_BASE=360.7 LMR_HIST_DIV=7849.9 RFP_MARGIN=85.3
+step 3 vs Bread: up 3-0, down 6-3; QS_FUTILITY=170.5 LMP_BASE=360.7 LMR_HIST_DIV=7849.9 RFP_MARGIN=85.3
+step 4 vs Prune: up 6-5, down 3-5; QS_FUTILITY=170.3 LMP_BASE=361.3 LMR_HIST_DIV=7858.4 RFP_MARGIN=85.2
+step 5 vs akimbo: up 10-0, down 11-0; QS_FUTILITY=170.4 LMP_BASE=361.1 LMR_HIST_DIV=7855.5 RFP_MARGIN=85.3
+step 6 vs Patricia: up 9-2, down 5-5; QS_FUTILITY=170.8 LMP_BASE=362.5 LMR_HIST_DIV=7834.9 RFP_MARGIN=85.5
+step 7 vs Bread: up 7-1, down 9-0; QS_FUTILITY=170.6 LMP_BASE=363.1 LMR_HIST_DIV=7843.9 RFP_MARGIN=85.4
+step 8 vs Prune: up 5-5, down 5-4; QS_FUTILITY=170.5 LMP_BASE=363.3 LMR_HIST_DIV=7840.9 RFP_MARGIN=85.4
+step 9 vs akimbo: up 11-1, down 10-1; QS_FUTILITY=170.6 LMP_BASE=363.5 LMR_HIST_DIV=7837.8 RFP_MARGIN=85.3
+step 10 vs Patricia: up 10-2, down 4-5; QS_FUTILITY=170.1 LMP_BASE=365.3 LMR_HIST_DIV=7810.5 RFP_MARGIN=85.0
+step 11 vs Bread: up 7-0, down 8-0; QS_FUTILITY=170.1 LMP_BASE=365.5 LMR_HIST_DIV=7807.5 RFP_MARGIN=84.9
+step 12 vs Prune: up 7-4, down 3-3; QS_FUTILITY=169.9 LMP_BASE=364.9 LMR_HIST_DIV=7816.7 RFP_MARGIN=84.8
+step 13 vs akimbo: up 13-0, down 10-0; QS_FUTILITY=169.8 LMP_BASE=364.3 LMR_HIST_DIV=7807.5 RFP_MARGIN=84.9
+step 14 vs Patricia: up 10-3, down 10-2; QS_FUTILITY=169.8 LMP_BASE=364.0 LMR_HIST_DIV=7810.5 RFP_MARGIN=84.9
+step 15 vs Bread: up 8-2, down 7-1; QS_FUTILITY=169.8 LMP_BASE=364.0 LMR_HIST_DIV=7810.5 RFP_MARGIN=84.9
+step 16 vs Prune: up 4-4, down 8-3; QS_FUTILITY=170.1 LMP_BASE=365.1 LMR_HIST_DIV=7825.9 RFP_MARGIN=85.1
+step 17 vs akimbo: up 7-3, down 9-1; QS_FUTILITY=169.9 LMP_BASE=365.9 LMR_HIST_DIV=7813.6 RFP_MARGIN=85.3
+step 18 vs Patricia: up 8-6, down 8-2; QS_FUTILITY=170.1 LMP_BASE=366.7 LMR_HIST_DIV=7801.3 RFP_MARGIN=85.4
+step 19 vs Bread: up 8-5, down 12-2; QS_FUTILITY=169.7 LMP_BASE=368.1 LMR_HIST_DIV=7779.9 RFP_MARGIN=85.7
+step 20 vs Prune: up 3-1, down 4-5; QS_FUTILITY=169.9 LMP_BASE=367.5 LMR_HIST_DIV=7789.1 RFP_MARGIN=85.8
+step 21 vs akimbo: up 11-0, down 10-3; QS_FUTILITY=170.1 LMP_BASE=368.3 LMR_HIST_DIV=7801.3 RFP_MARGIN=86.0
+step 22 vs Patricia: up 10-3, down 11-3; QS_FUTILITY=170.1 LMP_BASE=368.1 LMR_HIST_DIV=7804.4 RFP_MARGIN=86.0
+step 23 vs Bread: up 9-1, down 9-3; QS_FUTILITY=170.2 LMP_BASE=368.5 LMR_HIST_DIV=7810.5 RFP_MARGIN=86.1
+step 24 vs Prune: up 2-3, down 7-6; QS_FUTILITY=170.1 LMP_BASE=368.1 LMR_HIST_DIV=7804.4 RFP_MARGIN=86.2
+step 25 vs akimbo: up 9-0, down 12-2; QS_FUTILITY=170.1 LMP_BASE=367.9 LMR_HIST_DIV=7807.4 RFP_MARGIN=86.2
+step 26 vs Patricia: up 7-2, down 4-2; QS_FUTILITY=169.9 LMP_BASE=367.3 LMR_HIST_DIV=7816.5 RFP_MARGIN=86.3
+step 27 vs Bread: up 10-0, down 7-3; QS_FUTILITY=169.6 LMP_BASE=368.5 LMR_HIST_DIV=7798.3 RFP_MARGIN=86.5
+step 28 vs Prune: up 3-1, down 3-2; QS_FUTILITY=169.6 LMP_BASE=368.3 LMR_HIST_DIV=7801.4 RFP_MARGIN=86.5
+step 29 vs akimbo: up 6-2, down 8-3; QS_FUTILITY=169.6 LMP_BASE=368.5 LMR_HIST_DIV=7798.3 RFP_MARGIN=86.5
+step 30 vs Patricia: up 7-2, down 14-1; QS_FUTILITY=170.1 LMP_BASE=366.9 LMR_HIST_DIV=7822.5 RFP_MARGIN=86.2
+step 31 vs Bread: up 8-2, down 7-2; QS_FUTILITY=170.1 LMP_BASE=366.7 LMR_HIST_DIV=7825.5 RFP_MARGIN=86.2
+step 32 vs Prune: up 3-3, down 9-2; QS_FUTILITY=169.7 LMP_BASE=368.1 LMR_HIST_DIV=7804.5 RFP_MARGIN=86.0
+step 33 vs akimbo: up 10-2, down 15-0; QS_FUTILITY=169.3 LMP_BASE=366.7 LMR_HIST_DIV=7783.5 RFP_MARGIN=86.2
+Saved in trinity-results: spsa/tune-2026-10-25_06-32-D.txt, spsa/state-D.json
+
+==================================================================
+TUNE chain D of 'main' (commit db95fabece) against the rated opponents, 10+0.1
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time); 1.5 hours
+This job: 1848 games, 462 pairs per side; chain so far: 462 of 11000 planned pairs, 1848 games, 33 steps
+Games lost on time (either side, whole chain): 0
+setting: default -> chain D now
+QS_FUTILITY: 171 -> 169.3
+LMP_BASE: 359 -> 366.7
+LMR_HIST_DIV: 7860 -> 7783.5
+RFP_MARGIN: 85 -> 86.2
+==================================================================
+(Normal sleep settings are active again.)
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
