@@ -94,3 +94,4 @@
 2026-10-24 22:39 STARTED 2026-10-24-04: scripts/calibrate.ps1 -Ref release-1.0.0 -TC 40/60 -Rounds 60 -NoUpdate (approved commit 189246b88d)
 2026-10-25 00:35 DONE 2026-10-24-04 after 116 min (approved commit 189246b88d)
 2026-10-25 00:36 STARTED 2026-10-24-05: scripts/calibrate.ps1 -Tune -Chain C -Minutes 270 -NoUpdate (approved commit 189246b88d)
+2026-10-25 05:02 DONE 2026-10-24-05 after 267 min (approved commit 189246b88d)
