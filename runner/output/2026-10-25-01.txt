@@ -1,0 +1,27 @@
+Free disk space on C:\: 252 GB
+
+==> Building origin/main (a0757f2f9b, for native)
+HEAD is now at a0757f2 CLAUDE.md: approvals confirmed from the runner log; check-in flags a pending approval (advisor)
+Using Syzygy tablebases from C:\TrinityRunner\repo\syzygy for all engines.
+(Sleep is blocked while this runs; normal sleep resumes automatically when finished.)
+
+==> Tuning chain C of 'main' against 4 rated opponents, 10+0.1, 270 minutes (starting at 1344 of 11000 planned pairs)
+step 97 vs akimbo: up 9-1, down 10-0; FUT_MUL=207.9 LMP_BASE=359.1 LMR_HIST_DIV=7805.4 RFP_MARGIN=84.6
+step 98 vs Patricia: up 8-1, down 8-1; FUT_MUL=207.9 LMP_BASE=359.1 LMR_HIST_DIV=7805.4 RFP_MARGIN=84.6
+step 99 vs Bread: up 9-0, down 10-3; FUT_MUL=207.9 LMP_BASE=358.7 LMR_HIST_DIV=7800.4 RFP_MARGIN=84.7
+step 100 vs Prune: up 4-6, down 3-6; FUT_MUL=207.9 LMP_BASE=358.9 LMR_HIST_DIV=7797.8 RFP_MARGIN=84.7
+step 101 vs akimbo: up 11-3, down 9-1; FUT_MUL=207.9 LMP_BASE=358.9 LMR_HIST_DIV=7797.8 RFP_MARGIN=84.7
+step 102 vs Patricia: up 10-4, down 11-2; FUT_MUL=208.0 LMP_BASE=358.4 LMR_HIST_DIV=7790.3 RFP_MARGIN=84.8
+step 103 vs Bread: up 7-1, down 10-0; FUT_MUL=208.1 LMP_BASE=359.1 LMR_HIST_DIV=7800.3 RFP_MARGIN=84.6
+step 104 vs Prune: up 4-1, down 6-3; FUT_MUL=208.1 LMP_BASE=359.1 LMR_HIST_DIV=7800.3 RFP_MARGIN=84.6
+step 105 vs akimbo: up 7-1, down 6-1; FUT_MUL=208.1 LMP_BASE=358.9 LMR_HIST_DIV=7797.8 RFP_MARGIN=84.6
+step 106 vs Patricia: up 8-0, down 7-1; FUT_MUL=208.2 LMP_BASE=358.6 LMR_HIST_DIV=7792.8 RFP_MARGIN=84.7
+step 107 vs Bread: up 8-0, down 12-2; FUT_MUL=208.1 LMP_BASE=358.9 LMR_HIST_DIV=7797.8 RFP_MARGIN=84.7
+step 108 vs Prune: up 2-5, down 4-3; FUT_MUL=208.2 LMP_BASE=359.6 LMR_HIST_DIV=7807.7 RFP_MARGIN=84.6
+step 109 vs akimbo: up 10-2, down 12-1; FUT_MUL=208.1 LMP_BASE=360.1 LMR_HIST_DIV=7800.3 RFP_MARGIN=84.7
+step 110 vs Patricia: up 9-4, down 8-6; FUT_MUL=208.2 LMP_BASE=360.6 LMR_HIST_DIV=7792.9 RFP_MARGIN=84.8
+step 111 vs Bread: up 10-2, down 6-5; FUT_MUL=208.5 LMP_BASE=361.7 LMR_HIST_DIV=7810.1 RFP_MARGIN=85.0
+step 112 vs Prune: up 7-3, down 8-2; FUT_MUL=208.4 LMP_BASE=362.0 LMR_HIST_DIV=7805.2 RFP_MARGIN=85.0
+Preparing worktree (detached HEAD a0757f2)
+   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-main)
+    Finished `release` profile [optimized] target(s) in 7.28s
