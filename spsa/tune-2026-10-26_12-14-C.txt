@@ -1,0 +1,9 @@
+TUNE chain C of 'main' (commit 19e0ebce71) against the rated opponents, 10+0.1
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time); 4.5 hours
+This job: 5432 games, 1358 pairs per side; chain so far: 4284 of 11000 planned pairs, 17136 games, 306 steps
+Games lost on time (either side, whole chain): 0
+setting: default -> chain C now
+FUT_MUL: 208 -> 204.8
+LMP_BASE: 359 -> 346.1
+LMR_HIST_DIV: 7860 -> 7794.9
+RFP_MARGIN: 85 -> 85.4
