@@ -100,3 +100,4 @@
 2026-10-25 13:04 STARTED 2026-10-25-01: scripts/calibrate.ps1 -Tune -Chain C -Minutes 270 -NoUpdate (approved commit 272a0f3522)
 2026-10-25 13:49 DISTURBED (keyboard or mouse used; stopped, not counted, runs again later) 2026-10-25-01 after 45 min (approved commit 272a0f3522)
 2026-10-25 18:16 STARTED 2026-10-25-01: scripts/calibrate.ps1 -Tune -Chain C -Minutes 270 -NoUpdate (approved commit 272a0f3522)
+2026-10-25 22:43 DONE 2026-10-25-01 after 267 min (approved commit 272a0f3522)

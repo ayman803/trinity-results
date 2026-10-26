@@ -1,27 +1,81 @@
-Free disk space on C:\: 252 GB
+step 144 vs Prune: up 6-4, down 6-4; FUT_MUL=208.9 LMP_BASE=360.3 LMR_HIST_DIV=7861.4 RFP_MARGIN=85.4
+step 145 vs akimbo: up 11-3, down 11-3; FUT_MUL=208.9 LMP_BASE=360.3 LMR_HIST_DIV=7861.4 RFP_MARGIN=85.4
+step 146 vs Patricia: up 15-2, down 5-1; FUT_MUL=209.2 LMP_BASE=361.6 LMR_HIST_DIV=7881.9 RFP_MARGIN=85.2
+step 147 vs Bread: up 6-3, down 7-2; FUT_MUL=209.2 LMP_BASE=361.3 LMR_HIST_DIV=7886.5 RFP_MARGIN=85.1
+step 148 vs Prune: up 2-1, down 3-3; FUT_MUL=209.2 LMP_BASE=361.5 LMR_HIST_DIV=7888.7 RFP_MARGIN=85.1
+step 149 vs akimbo: up 12-0, down 11-0; FUT_MUL=209.2 LMP_BASE=361.3 LMR_HIST_DIV=7891.0 RFP_MARGIN=85.2
+step 150 vs Patricia: up 7-5, down 11-4; FUT_MUL=209.3 LMP_BASE=360.6 LMR_HIST_DIV=7902.3 RFP_MARGIN=85.0
+step 151 vs Bread: up 6-1, down 11-0; FUT_MUL=209.1 LMP_BASE=361.5 LMR_HIST_DIV=7888.8 RFP_MARGIN=85.2
+step 152 vs Prune: up 4-4, down 5-4; FUT_MUL=209.1 LMP_BASE=361.3 LMR_HIST_DIV=7891.0 RFP_MARGIN=85.2
+step 153 vs akimbo: up 6-2, down 9-2; FUT_MUL=209.2 LMP_BASE=361.8 LMR_HIST_DIV=7884.3 RFP_MARGIN=85.2
+step 154 vs Patricia: up 5-2, down 14-2; FUT_MUL=208.9 LMP_BASE=360.4 LMR_HIST_DIV=7864.0 RFP_MARGIN=85.5
+step 155 vs Bread: up 14-0, down 6-3; FUT_MUL=208.6 LMP_BASE=358.8 LMR_HIST_DIV=7888.7 RFP_MARGIN=85.8
+step 156 vs Prune: up 6-2, down 5-4; FUT_MUL=208.5 LMP_BASE=358.3 LMR_HIST_DIV=7895.4 RFP_MARGIN=85.9
+step 157 vs akimbo: up 8-2, down 13-3; FUT_MUL=208.4 LMP_BASE=357.8 LMR_HIST_DIV=7886.5 RFP_MARGIN=85.8
+step 158 vs Patricia: up 5-2, down 5-4; FUT_MUL=208.4 LMP_BASE=358.0 LMR_HIST_DIV=7890.9 RFP_MARGIN=85.8
+step 159 vs Bread: up 7-1, down 7-0; FUT_MUL=208.4 LMP_BASE=357.9 LMR_HIST_DIV=7888.7 RFP_MARGIN=85.8
+step 160 vs Prune: up 1-6, down 3-2; FUT_MUL=208.6 LMP_BASE=358.8 LMR_HIST_DIV=7875.4 RFP_MARGIN=85.6
+step 161 vs akimbo: up 11-1, down 13-1; FUT_MUL=208.5 LMP_BASE=359.1 LMR_HIST_DIV=7871.0 RFP_MARGIN=85.5
+step 162 vs Patricia: up 12-3, down 4-0; FUT_MUL=208.7 LMP_BASE=358.3 LMR_HIST_DIV=7859.9 RFP_MARGIN=85.7
+step 163 vs Bread: up 10-3, down 7-3; FUT_MUL=208.8 LMP_BASE=358.8 LMR_HIST_DIV=7866.5 RFP_MARGIN=85.8
+step 164 vs Prune: up 8-4, down 3-2; FUT_MUL=208.7 LMP_BASE=359.2 LMR_HIST_DIV=7859.9 RFP_MARGIN=85.7
+step 165 vs akimbo: up 8-3, down 12-2; FUT_MUL=208.5 LMP_BASE=358.5 LMR_HIST_DIV=7848.9 RFP_MARGIN=85.6
+step 166 vs Patricia: up 9-0, down 10-0; FUT_MUL=208.6 LMP_BASE=358.6 LMR_HIST_DIV=7851.1 RFP_MARGIN=85.6
+step 167 vs Bread: up 11-3, down 10-2; FUT_MUL=208.6 LMP_BASE=358.6 LMR_HIST_DIV=7851.1 RFP_MARGIN=85.6
+step 168 vs Prune: up 0-4, down 4-2; FUT_MUL=208.4 LMP_BASE=359.5 LMR_HIST_DIV=7864.2 RFP_MARGIN=85.4
+step 169 vs akimbo: up 13-2, down 8-3; FUT_MUL=208.6 LMP_BASE=358.6 LMR_HIST_DIV=7851.1 RFP_MARGIN=85.6
+step 170 vs Patricia: up 10-2, down 10-0; FUT_MUL=208.5 LMP_BASE=358.4 LMR_HIST_DIV=7846.8 RFP_MARGIN=85.6
+step 171 vs Bread: up 8-2, down 8-1; FUT_MUL=208.5 LMP_BASE=358.2 LMR_HIST_DIV=7848.9 RFP_MARGIN=85.7
+step 172 vs Prune: up 5-4, down 6-1; FUT_MUL=208.6 LMP_BASE=357.6 LMR_HIST_DIV=7840.2 RFP_MARGIN=85.8
+step 173 vs akimbo: up 13-3, down 8-2; FUT_MUL=208.5 LMP_BASE=357.1 LMR_HIST_DIV=7848.9 RFP_MARGIN=85.7
+step 174 vs Patricia: up 9-2, down 11-3; FUT_MUL=208.4 LMP_BASE=356.9 LMR_HIST_DIV=7846.8 RFP_MARGIN=85.7
+step 175 vs Bread: up 12-0, down 4-1; FUT_MUL=208.2 LMP_BASE=358.2 LMR_HIST_DIV=7827.3 RFP_MARGIN=85.4
+step 176 vs Prune: up 7-3, down 1-8; FUT_MUL=208.5 LMP_BASE=356.6 LMR_HIST_DIV=7803.6 RFP_MARGIN=85.1
+step 177 vs akimbo: up 9-2, down 11-0; FUT_MUL=208.6 LMP_BASE=357.2 LMR_HIST_DIV=7812.2 RFP_MARGIN=85.2
+step 178 vs Patricia: up 10-3, down 11-0; FUT_MUL=208.5 LMP_BASE=357.8 LMR_HIST_DIV=7803.6 RFP_MARGIN=85.1
+step 179 vs Bread: up 10-2, down 10-1; FUT_MUL=208.5 LMP_BASE=357.9 LMR_HIST_DIV=7805.7 RFP_MARGIN=85.1
+step 180 vs Prune: up 8-0, down 4-4; FUT_MUL=208.3 LMP_BASE=356.8 LMR_HIST_DIV=7822.9 RFP_MARGIN=85.4
+step 181 vs akimbo: up 6-2, down 14-1; FUT_MUL=208.0 LMP_BASE=355.5 LMR_HIST_DIV=7803.6 RFP_MARGIN=85.6
+step 182 vs Patricia: up 10-2, down 8-7; FUT_MUL=207.8 LMP_BASE=356.5 LMR_HIST_DIV=7818.6 RFP_MARGIN=85.8
+step 183 vs Bread: up 5-2, down 12-1; FUT_MUL=207.6 LMP_BASE=355.3 LMR_HIST_DIV=7801.5 RFP_MARGIN=85.6
+step 184 vs Prune: up 1-5, down 3-2; FUT_MUL=207.5 LMP_BASE=356.1 LMR_HIST_DIV=7790.9 RFP_MARGIN=85.7
+step 185 vs akimbo: up 9-1, down 12-1; FUT_MUL=207.4 LMP_BASE=355.6 LMR_HIST_DIV=7784.5 RFP_MARGIN=85.8
+step 186 vs Patricia: up 13-3, down 14-0; FUT_MUL=207.5 LMP_BASE=355.1 LMR_HIST_DIV=7793.0 RFP_MARGIN=85.7
+step 187 vs Bread: up 9-0, down 8-1; FUT_MUL=207.4 LMP_BASE=355.3 LMR_HIST_DIV=7788.8 RFP_MARGIN=85.8
+step 188 vs Prune: up 4-2, down 6-5; FUT_MUL=207.5 LMP_BASE=355.2 LMR_HIST_DIV=7786.7 RFP_MARGIN=85.8
+step 189 vs akimbo: up 9-2, down 13-4; FUT_MUL=207.4 LMP_BASE=355.5 LMR_HIST_DIV=7782.4 RFP_MARGIN=85.9
+step 190 vs Patricia: up 10-1, down 9-2; FUT_MUL=207.4 LMP_BASE=355.8 LMR_HIST_DIV=7778.2 RFP_MARGIN=85.8
+step 191 vs Bread: up 5-1, down 10-3; FUT_MUL=207.4 LMP_BASE=356.2 LMR_HIST_DIV=7784.5 RFP_MARGIN=85.7
+step 192 vs Prune: up 3-2, down 4-2; FUT_MUL=207.4 LMP_BASE=356.3 LMR_HIST_DIV=7786.6 RFP_MARGIN=85.7
+step 193 vs akimbo: up 8-0, down 9-0; FUT_MUL=207.4 LMP_BASE=356.2 LMR_HIST_DIV=7784.5 RFP_MARGIN=85.7
+step 194 vs Patricia: up 7-4, down 6-5; FUT_MUL=207.4 LMP_BASE=356.5 LMR_HIST_DIV=7780.4 RFP_MARGIN=85.7
+step 195 vs Bread: up 9-2, down 8-0; FUT_MUL=207.5 LMP_BASE=356.6 LMR_HIST_DIV=7782.4 RFP_MARGIN=85.7
+step 196 vs Prune: up 1-3, down 7-4; FUT_MUL=207.3 LMP_BASE=357.3 LMR_HIST_DIV=7792.9 RFP_MARGIN=85.6
+step 197 vs akimbo: up 8-1, down 10-2; FUT_MUL=207.3 LMP_BASE=357.2 LMR_HIST_DIV=7794.9 RFP_MARGIN=85.6
+step 198 vs Patricia: up 7-2, down 10-1; FUT_MUL=207.2 LMP_BASE=357.7 LMR_HIST_DIV=7803.2 RFP_MARGIN=85.7
+step 199 vs Bread: up 5-2, down 8-2; FUT_MUL=207.1 LMP_BASE=358.1 LMR_HIST_DIV=7797.0 RFP_MARGIN=85.7
+step 200 vs Prune: up 6-4, down 5-2; FUT_MUL=207.1 LMP_BASE=358.0 LMR_HIST_DIV=7799.1 RFP_MARGIN=85.7
+step 201 vs akimbo: up 10-1, down 7-1; FUT_MUL=207.2 LMP_BASE=357.6 LMR_HIST_DIV=7792.9 RFP_MARGIN=85.8
+step 202 vs Patricia: up 16-3, down 10-1; FUT_MUL=207.1 LMP_BASE=357.0 LMR_HIST_DIV=7784.7 RFP_MARGIN=85.9
+step 203 vs Bread: up 7-0, down 5-1; FUT_MUL=207.0 LMP_BASE=356.6 LMR_HIST_DIV=7778.5 RFP_MARGIN=85.8
+step 204 vs Prune: up 5-4, down 9-4; FUT_MUL=207.1 LMP_BASE=356.1 LMR_HIST_DIV=7786.7 RFP_MARGIN=85.9
+step 205 vs akimbo: up 14-1, down 9-0; FUT_MUL=207.0 LMP_BASE=356.6 LMR_HIST_DIV=7794.9 RFP_MARGIN=86.0
+step 206 vs Patricia: up 6-1, down 10-2; FUT_MUL=206.9 LMP_BASE=356.2 LMR_HIST_DIV=7788.8 RFP_MARGIN=86.1
+step 207 vs Bread: up 10-1, down 8-0; FUT_MUL=206.9 LMP_BASE=356.3 LMR_HIST_DIV=7790.8 RFP_MARGIN=86.1
+step 208 vs Prune: up 6-2, down 1-4; FUT_MUL=206.7 LMP_BASE=355.4 LMR_HIST_DIV=7805.1 RFP_MARGIN=85.9
+step 209 vs akimbo: up 9-0, down 13-1; FUT_MUL=206.6 LMP_BASE=355.0 LMR_HIST_DIV=7799.0 RFP_MARGIN=85.9
+Saved in trinity-results: spsa/tune-2026-10-25_22-43-C.txt, spsa/state-C.json
 
-==> Building origin/main (a0757f2f9b, for native)
-HEAD is now at a0757f2 CLAUDE.md: approvals confirmed from the runner log; check-in flags a pending approval (advisor)
-Using Syzygy tablebases from C:\TrinityRunner\repo\syzygy for all engines.
-(Sleep is blocked while this runs; normal sleep resumes automatically when finished.)
-
-==> Tuning chain C of 'main' against 4 rated opponents, 10+0.1, 270 minutes (starting at 1344 of 11000 planned pairs)
-step 97 vs akimbo: up 9-1, down 10-0; FUT_MUL=207.9 LMP_BASE=359.1 LMR_HIST_DIV=7805.4 RFP_MARGIN=84.6
-step 98 vs Patricia: up 8-1, down 8-1; FUT_MUL=207.9 LMP_BASE=359.1 LMR_HIST_DIV=7805.4 RFP_MARGIN=84.6
-step 99 vs Bread: up 9-0, down 10-3; FUT_MUL=207.9 LMP_BASE=358.7 LMR_HIST_DIV=7800.4 RFP_MARGIN=84.7
-step 100 vs Prune: up 4-6, down 3-6; FUT_MUL=207.9 LMP_BASE=358.9 LMR_HIST_DIV=7797.8 RFP_MARGIN=84.7
-step 101 vs akimbo: up 11-3, down 9-1; FUT_MUL=207.9 LMP_BASE=358.9 LMR_HIST_DIV=7797.8 RFP_MARGIN=84.7
-step 102 vs Patricia: up 10-4, down 11-2; FUT_MUL=208.0 LMP_BASE=358.4 LMR_HIST_DIV=7790.3 RFP_MARGIN=84.8
-step 103 vs Bread: up 7-1, down 10-0; FUT_MUL=208.1 LMP_BASE=359.1 LMR_HIST_DIV=7800.3 RFP_MARGIN=84.6
-step 104 vs Prune: up 4-1, down 6-3; FUT_MUL=208.1 LMP_BASE=359.1 LMR_HIST_DIV=7800.3 RFP_MARGIN=84.6
-step 105 vs akimbo: up 7-1, down 6-1; FUT_MUL=208.1 LMP_BASE=358.9 LMR_HIST_DIV=7797.8 RFP_MARGIN=84.6
-step 106 vs Patricia: up 8-0, down 7-1; FUT_MUL=208.2 LMP_BASE=358.6 LMR_HIST_DIV=7792.8 RFP_MARGIN=84.7
-step 107 vs Bread: up 8-0, down 12-2; FUT_MUL=208.1 LMP_BASE=358.9 LMR_HIST_DIV=7797.8 RFP_MARGIN=84.7
-step 108 vs Prune: up 2-5, down 4-3; FUT_MUL=208.2 LMP_BASE=359.6 LMR_HIST_DIV=7807.7 RFP_MARGIN=84.6
-step 109 vs akimbo: up 10-2, down 12-1; FUT_MUL=208.1 LMP_BASE=360.1 LMR_HIST_DIV=7800.3 RFP_MARGIN=84.7
-step 110 vs Patricia: up 9-4, down 8-6; FUT_MUL=208.2 LMP_BASE=360.6 LMR_HIST_DIV=7792.9 RFP_MARGIN=84.8
-step 111 vs Bread: up 10-2, down 6-5; FUT_MUL=208.5 LMP_BASE=361.7 LMR_HIST_DIV=7810.1 RFP_MARGIN=85.0
-step 112 vs Prune: up 7-3, down 8-2; FUT_MUL=208.4 LMP_BASE=362.0 LMR_HIST_DIV=7805.2 RFP_MARGIN=85.0
-Preparing worktree (detached HEAD a0757f2)
-   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-main)
-    Finished `release` profile [optimized] target(s) in 7.28s
+==================================================================
+TUNE chain C of 'main' (commit a0757f2f9b) against the rated opponents, 10+0.1
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time); 4.4 hours
+This job: 5432 games, 1358 pairs per side; chain so far: 2926 of 11000 planned pairs, 11704 games, 209 steps
+Games lost on time (either side, whole chain): 0
+setting: default -> chain C now
+FUT_MUL: 208 -> 206.6
+LMP_BASE: 359 -> 355.0
+LMR_HIST_DIV: 7860 -> 7799.0
+RFP_MARGIN: 85 -> 85.9
+==================================================================
+(Normal sleep settings are active again.)
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
