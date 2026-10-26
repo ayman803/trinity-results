@@ -1,13 +1,13 @@
 {
     "chain":  "D",
-    "pairs":  462,
-    "steps":  33,
-    "games":  1848,
+    "pairs":  1820,
+    "steps":  130,
+    "games":  7280,
     "timeLosses":  0,
     "theta":  {
-                  "QS_FUTILITY":  169.28149489028243,
-                  "LMP_BASE":  366.73392377549936,
-                  "LMR_HIST_DIV":  7783.498202083174,
-                  "RFP_MARGIN":  86.245527760254376
+                  "FUT_MUL":  208.98717860296009,
+                  "LMP_BASE":  367.89199027125488,
+                  "LMR_HIST_DIV":  7638.0861258643954,
+                  "RFP_MARGIN":  84.956563236919379
               }
 }
