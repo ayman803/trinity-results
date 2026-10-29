@@ -1,0 +1,80 @@
+Started game 1308 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1293 (lmp-notimp vs base-lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1309 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1300 (base-lmp-notimp vs lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1310 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1289 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1311 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1301 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1312 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1297 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1313 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1302 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1314 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1298 (base-lmp-notimp vs lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1315 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1304 (base-lmp-notimp vs lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1316 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1299 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1317 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1303 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by insufficient mating material}
+Started game 1318 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1306 (base-lmp-notimp vs lmp-notimp): 0-1 {Black wins by adjudication}
+Started game 1319 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1307 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1320 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1311 (lmp-notimp vs base-lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1321 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1310 (base-lmp-notimp vs lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1322 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1308 (base-lmp-notimp vs lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1323 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1312 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1324 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1314 (base-lmp-notimp vs lmp-notimp): 0-1 {Black wins by adjudication}
+Started game 1325 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1317 (lmp-notimp vs base-lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1326 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1305 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by insufficient mating material}
+Started game 1327 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1313 (lmp-notimp vs base-lmp-notimp): 0-1 {Black wins by adjudication}
+Started game 1328 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1318 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1329 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1316 (base-lmp-notimp vs lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1330 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1309 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1331 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1322 (base-lmp-notimp vs lmp-notimp): 0-1 {Black wins by adjudication}
+Started game 1332 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1315 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1333 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1328 (base-lmp-notimp vs lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1334 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1319 (lmp-notimp vs base-lmp-notimp): 0-1 {Black wins by adjudication}
+Started game 1335 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1320 (base-lmp-notimp vs lmp-notimp): 0-1 {Black wins by adjudication}
+--------------------------------------------------
+Results of lmp-notimp vs base-lmp-notimp (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 11.32 +/- 9.53, nElo: 22.29 +/- 18.74
+LOS: 99.01 %, DrawRatio: 50.30 %, PairsRatio: 1.29
+Games: 1320, Wins: 299, Losses: 256, Draws: 765, Points: 681.5 (51.63 %)
+Ptnml(0-2): [2, 141, 332, 182, 3], WL/DD Ratio: 0.50
+--------------------------------------------------
+Started game 1336 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1321 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1337 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1323 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1338 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1329 (lmp-notimp vs base-lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1339 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1324 (base-lmp-notimp vs lmp-notimp): 0-1 {Black wins by adjudication}
+Started game 1340 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1333 (lmp-notimp vs base-lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1341 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1332 (base-lmp-notimp vs lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1342 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1327 (lmp-notimp vs base-lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1343 of 2000 (lmp-notimp vs base-lmp-notimp)
+Game 1339 stalled / disconnected and no recover option set for engine, stopping tournament.
+Finished game 1339 (lmp-notimp vs base-lmp-notimp): 0-1 {White disconnects}
