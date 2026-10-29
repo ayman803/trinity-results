@@ -1,0 +1,26 @@
+Free disk space on C:\: 249 GB
+
+==> DRY RUN: train 1 superbatch with 8 king buckets, save, load it in the engine; nothing is published
+(Sleep is blocked while this runs; normal sleep resumes automatically when finished.)
+
+==> Building the trainer of branch net-kb16 (the first build takes a few minutes)
+
+==> Training trinity-20261029-0815-long900 from scratch: 1024 neurons, 8 king buckets, 1 superbatches on 1 billion positions (16 buckets: about 7 hours; 8 buckets: about 5)
+Trainer output is also saved in C:\TrinityRunner\repo\sprt\coder2\results\train-trinity-20261029-0815-long900.log
+Hidden layer size: 1024, king buckets: 8
+Weight seed: 198273612
+
+PROBLEM: The trainer failed (exit code 101). See C:\TrinityRunner\repo\sprt\coder2\results\train-trinity-20261029-0815-long900.log
+(Normal sleep settings are active again.)
+    Finished `release` profile [optimized] target(s) in 1.67s
+trinity-trainer.exe : 
+At C:\TrinityRunner\repo\tools\net\kb16.ps1:80 char:9
++         & $trainer (@("scratch", "$Superbatches", $netId, $LearningRa ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+thread 'main' (32988) panicked at C:\Users\<user>\.cargo\git\checkouts\bullet-8a69ed9a26c6f
+599\c004ebf\crates\bullet_lib\src\value\loader\direct.rs:21:13:
+File not found: C:\TrinityRunner\repo\sprt\coder2\data\big-1.data
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
