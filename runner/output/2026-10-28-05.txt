@@ -1,0 +1,81 @@
+Finished game 1971 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1983 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1979 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1984 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1968 (base-lmp-notimp vs lmp-notimp): 0-1 {Black wins by adjudication}
+Started game 1985 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1972 (base-lmp-notimp vs lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1986 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1970 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by fifty moves rule}
+Started game 1987 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1973 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1988 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1974 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1989 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1978 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1990 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1977 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1991 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1982 (base-lmp-notimp vs lmp-notimp): 0-1 {Black wins by adjudication}
+Started game 1992 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1980 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1993 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1975 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1994 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1981 (lmp-notimp vs base-lmp-notimp): 0-1 {Black wins by adjudication}
+Started game 1995 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1987 (lmp-notimp vs base-lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1996 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1976 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 1997 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1985 (lmp-notimp vs base-lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1998 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1984 (base-lmp-notimp vs lmp-notimp): 1-0 {White wins by adjudication}
+Started game 1999 of 2000 (lmp-notimp vs base-lmp-notimp)
+Finished game 1989 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Started game 2000 of 2000 (base-lmp-notimp vs lmp-notimp)
+Finished game 1986 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Finished game 1983 (lmp-notimp vs base-lmp-notimp): 1-0 {White wins by adjudication}
+Finished game 1990 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1994 (base-lmp-notimp vs lmp-notimp): 0-1 {Black wins by adjudication}
+Finished game 1991 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Finished game 1988 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Finished game 1992 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Finished game 1995 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1997 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Finished game 1993 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Finished game 1996 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 2000 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by adjudication}
+Finished game 1999 (lmp-notimp vs base-lmp-notimp): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of lmp-notimp vs base-lmp-notimp (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 2.26 +/- 7.84, nElo: 4.39 +/- 15.23
+LOS: 71.41 %, DrawRatio: 50.05 %, PairsRatio: 1.05
+Games: 1998, Wins: 455, Losses: 442, Draws: 1101, Points: 1005.5 (50.33 %)
+Ptnml(0-2): [4, 240, 500, 249, 6], WL/DD Ratio: 0.63
+--------------------------------------------------
+Finished game 1998 (base-lmp-notimp vs lmp-notimp): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of lmp-notimp vs base-lmp-notimp (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 2.26 +/- 7.83, nElo: 4.39 +/- 15.23
+LOS: 71.41 %, DrawRatio: 50.10 %, PairsRatio: 1.05
+Games: 2000, Wins: 455, Losses: 442, Draws: 1103, Points: 1006.5 (50.32 %)
+Ptnml(0-2): [4, 240, 501, 249, 6], WL/DD Ratio: 0.63
+--------------------------------------------------
+Finished match
+Total Time: 00:56:26 (hours:minutes:seconds)
+
+Saved in trinity-results: sprt/lmp-notimp/2026-10-28_20-48.txt
+
+==================================================================
+SPRT RESULT: UNFINISHED (stopped before the statistics were conclusive)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time)
+Test: lmp-notimp (bench 1212334) vs base-lmp-notimp (bench 982007), tc 8+0.08, bounds [0, 5]
+Games: 2000, Wins: 455, Losses: 442, Draws: 1103, Points: 1006.5 (50.32 %)
+Elo: 2.26 +/- 7.83, nElo: 4.39 +/- 15.23
+Duration: 0.9 hours. Full log: sprt\results\2026-10-28_20-48_lmp-notimp_vs_base-lmp-notimp.log
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-RESULT.txt)
+(Normal sleep settings are active again.)
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
