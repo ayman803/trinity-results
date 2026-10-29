@@ -1,0 +1,10 @@
+Games: 2000, Wins: 464, Losses: 427, Draws: 1109, Points: 1018.5 (50.92 %)
+Ptnml(0-2): [7, 232, 483, 273, 5], WL/DD Ratio: 0.60
+tc=8+0.08
+dev_bench=1212334
+base_bench=982007
+time_losses=0
+illegal_moves=0
+crashes=0
+machine=Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time)
+bounds=0 5
