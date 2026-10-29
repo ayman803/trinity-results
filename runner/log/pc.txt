@@ -112,3 +112,4 @@
 2026-10-28 17:57 STARTED 2026-10-28-01: tools/net/kb16.ps1 -DryRun -KingBuckets 8 -Tag long900 (approved commit b2624557d1)
 2026-10-28 17:58 FAILED (exit code 1) 2026-10-28-01 after 1 min (approved commit b2624557d1)
 2026-10-28 17:58 STARTED 2026-10-28-02: scripts/sprt.ps1 -Dev lmp-notimp -Base base-lmp-notimp -Rounds 1000 -TestId lmp-notimp -NoUpdate (approved commit b2624557d1)
+2026-10-28 18:54 DONE 2026-10-28-02 after 56 min (approved commit b2624557d1)
