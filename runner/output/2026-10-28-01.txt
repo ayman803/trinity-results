@@ -1,0 +1,96 @@
+Free disk space on C:\: 250 GB
+
+==> DRY RUN: train 1 superbatch with 8 king buckets, save, load it in the engine; nothing is published
+(Sleep is blocked while this runs; normal sleep resumes automatically when finished.)
+
+==> Getting the source of branch net-kb16 (d4005eb27d)
+
+==> Building the trainer of branch net-kb16 (the first build takes a few minutes)
+
+==> Training trinity-20261028-1758-long900 from scratch: 1024 neurons, 8 king buckets, 1 superbatches on 1 billion positions (16 buckets: about 7 hours; 8 buckets: about 5)
+Trainer output is also saved in C:\TrinityRunner\repo\sprt\coder2\results\train-trinity-20261028-1758-long900.log
+Hidden layer size: 1024, king buckets: 8
+Weight seed: 198273612
+
+PROBLEM: The trainer failed (exit code 101). See C:\TrinityRunner\repo\sprt\coder2\results\train-trinity-20261028-1758-long900.log
+(Normal sleep settings are active again.)
+  Downloaded rand_core v0.10.1
+  Downloaded rand_chacha v0.9.0
+  Downloaded rand_core v0.9.5
+  Downloaded rand_xoshiro v0.8.1
+  Downloaded getrandom v0.4.3
+  Downloaded toml v0.8.23
+  Downloaded getrandom v0.3.4
+  Downloaded serde_derive v1.0.229
+  Downloaded memchr v2.8.3
+  Downloaded rand v0.10.3
+  Downloaded rand_distr v0.6.0
+  Downloaded toml_edit v0.22.27
+  Downloaded indexmap v2.14.2
+  Downloaded rand v0.9.5
+  Downloaded hashbrown v0.17.1
+  Downloaded raw-cpuid v11.6.0
+  Downloaded libm v0.2.16
+  Downloaded winnow v0.7.15
+  Downloaded zerocopy v0.8.59
+  Downloaded syn v3.0.6
+  Downloaded viriformat v2.0.1
+  Downloaded sfbinpack v0.6.5
+   Compiling proc-macro2 v1.0.107
+   Compiling unicode-ident v1.0.26
+   Compiling quote v1.0.47
+   Compiling serde_core v1.0.229
+   Compiling serde v1.0.229
+   Compiling getrandom v0.3.4
+   Compiling zerocopy v0.8.59
+   Compiling cfg-if v1.0.5
+   Compiling autocfg v1.5.1
+   Compiling libm v0.2.16
+   Compiling rand_core v0.10.1
+   Compiling hashbrown v0.17.1
+   Compiling equivalent v1.0.2
+   Compiling thiserror v2.0.21
+   Compiling bullet-gpu v0.1.0 (https://github.com/jw1912/bullet?rev=c004ebf04025edf91c6ccac47e72d561062a46b5#c004ebf0)
+   Compiling toml_write v0.1.2
+   Compiling winnow v0.7.15
+   Compiling anyhow v1.0.104
+   Compiling bitflags v2.13.2
+   Compiling bullet-compiler v0.1.0 (https://github.com/jw1912/bullet?rev=c004ebf04025edf91c6ccac47e72d561062a46b5#c004ebf0)
+   Compiling arrayvec v0.7.8
+   Compiling bulletformat v1.8.0
+   Compiling oorandom v11.1.5
+   Compiling rand v0.10.3
+   Compiling rand_xoshiro v0.8.1
+   Compiling raw-cpuid v11.6.0
+   Compiling montyformat v0.9.2
+   Compiling num-traits v0.2.19
+   Compiling indexmap v2.14.2
+   Compiling rand_core v0.9.5
+   Compiling syn v3.0.6
+   Compiling rand_distr v0.6.0
+   Compiling bullet-trainer v0.1.0 (https://github.com/jw1912/bullet?rev=c004ebf04025edf91c6ccac47e72d561062a46b5#c004ebf0)
+   Compiling serde_derive v1.0.229
+   Compiling thiserror-impl v2.0.21
+   Compiling sfbinpack v0.6.5
+   Compiling ppv-lite86 v0.2.21
+   Compiling rand_chacha v0.9.0
+   Compiling rand v0.9.5
+   Compiling toml_datetime v0.6.11
+   Compiling serde_spanned v0.6.9
+   Compiling toml_edit v0.22.27
+   Compiling toml v0.8.23
+   Compiling viriformat v2.0.1
+   Compiling bullet_lib v1.0.0 (https://github.com/jw1912/bullet?rev=c004ebf04025edf91c6ccac47e72d561062a46b5#c004ebf0)
+   Compiling trinity-trainer v0.1.0 (C:\TrinityRunner\repo\sprt\coder2\src\net-kb16-d4005eb27d\trainer)
+    Finished `release` profile [optimized] target(s) in 19.30s
+trinity-trainer.exe : 
+At C:\TrinityRunner\repo\tools\net\kb16.ps1:80 char:9
++         & $trainer (@("scratch", "$Superbatches", $netId, $LearningRa ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+thread 'main' (36556) panicked at C:\Users\<user>\.cargo\git\checkouts\bullet-8a69ed9a26c6f
+599\c004ebf\crates\bullet_lib\src\value\loader\direct.rs:21:13:
+File not found: C:\TrinityRunner\repo\sprt\coder2\data\big-1.data
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
