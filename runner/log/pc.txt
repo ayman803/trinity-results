@@ -109,3 +109,4 @@
 2026-10-26 16:39 DISTURBED (keyboard or mouse used; stopped, not counted, runs again later) 2026-10-26-02 after 264 min (approved commit 272a0f3522)
 2026-10-26 19:10 STARTED 2026-10-26-02: scripts/calibrate.ps1 -Tune -Chain D -Minutes 270 -NoUpdate (approved commit 272a0f3522)
 2026-10-26 23:38 DONE 2026-10-26-02 after 269 min (approved commit 272a0f3522)
+2026-10-28 17:57 STARTED 2026-10-28-01: tools/net/kb16.ps1 -DryRun -KingBuckets 8 -Tag long900 (approved commit b2624557d1)
