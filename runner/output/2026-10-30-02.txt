@@ -1,80 +1,80 @@
-Started game 802 of 1000 (Prune vs Trinity)
-Finished game 788 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 803 of 1000 (Trinity vs Prune)
-Finished game 786 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 804 of 1000 (Prune vs Trinity)
-Finished game 791 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 805 of 1000 (Trinity vs Prune)
-Finished game 789 (Trinity vs Prune): 1-0 {White wins by adjudication}
-Started game 806 of 1000 (Prune vs Trinity)
-Finished game 793 (Trinity vs Prune): 1/2-1/2 {Draw by insufficient mating material}
-Started game 807 of 1000 (Trinity vs Prune)
-Finished game 795 (Trinity vs Prune): 0-1 {Black wins by adjudication}
-Started game 808 of 1000 (Prune vs Trinity)
-Finished game 797 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 809 of 1000 (Trinity vs Prune)
-Finished game 796 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 810 of 1000 (Prune vs Trinity)
-Finished game 802 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 811 of 1000 (Trinity vs Prune)
-Finished game 798 (Prune vs Trinity): 0-1 {Black wins by adjudication}
-Started game 812 of 1000 (Prune vs Trinity)
-Finished game 806 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 813 of 1000 (Trinity vs Prune)
-Finished game 804 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 814 of 1000 (Prune vs Trinity)
-Finished game 803 (Trinity vs Prune): 0-1 {Black wins by adjudication}
-Started game 815 of 1000 (Trinity vs Prune)
-Finished game 794 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
-Started game 816 of 1000 (Prune vs Trinity)
-Finished game 801 (Trinity vs Prune): 0-1 {Black wins by adjudication}
-Started game 817 of 1000 (Trinity vs Prune)
-Finished game 809 (Trinity vs Prune): 1-0 {White mates}
-Started game 818 of 1000 (Prune vs Trinity)
-Finished game 808 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 819 of 1000 (Trinity vs Prune)
-Finished game 800 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 820 of 1000 (Prune vs Trinity)
-Finished game 805 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
-Started game 821 of 1000 (Trinity vs Prune)
-Finished game 799 (Trinity vs Prune): 1/2-1/2 {Draw by adjudication}
---------------------------------------------------
-Results of Trinity vs Prune (10+0.1, 1t, 16MB, 8moves_v3.pgn):
-Elo: -88.05 +/- 14.49, nElo: -152.16 +/- 23.99
-LOS: 0.00 %, DrawRatio: 40.94 %, PairsRatio: 0.18
-Games: 806, Wins: 66, Losses: 266, Draws: 474, Points: 303.0 (37.59 %)
-Ptnml(0-2): [38, 163, 165, 35, 2], WL/DD Ratio: 0.20
---------------------------------------------------
-Started game 822 of 1000 (Prune vs Trinity)
-Finished game 807 (Trinity vs Prune): 0-1 {Black wins by adjudication}
-Started game 823 of 1000 (Trinity vs Prune)
-Finished game 818 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 824 of 1000 (Prune vs Trinity)
-Finished game 810 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 825 of 1000 (Trinity vs Prune)
-Finished game 814 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 826 of 1000 (Prune vs Trinity)
-Finished game 817 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 827 of 1000 (Trinity vs Prune)
-Finished game 811 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 828 of 1000 (Prune vs Trinity)
-Finished game 816 (Prune vs Trinity): 1-0 {White wins by adjudication}
-Started game 829 of 1000 (Trinity vs Prune)
-Finished game 820 (Prune vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 830 of 1000 (Prune vs Trinity)
-Finished game 815 (Trinity vs Prune): 1/2-1/2 {Draw by insufficient mating material}
-Started game 831 of 1000 (Trinity vs Prune)
-Finished game 813 (Trinity vs Prune): 0-1 {Black wins by adjudication}
-Started game 832 of 1000 (Prune vs Trinity)
-Finished game 822 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
-Started game 833 of 1000 (Trinity vs Prune)
-Finished game 819 (Trinity vs Prune): 0-1 {Black wins by adjudication}
-Started game 834 of 1000 (Prune vs Trinity)
-Finished game 812 (Prune vs Trinity): 1/2-1/2 {Draw by adjudication}
-Started game 835 of 1000 (Trinity vs Prune)
-Finished game 821 (Trinity vs Prune): 0-1 {Black wins by adjudication}
-Started game 836 of 1000 (Prune vs Trinity)
-Finished game 823 (Trinity vs Prune): 1/2-1/2 {Draw by 3-fold repetition}
-Started game 837 of 1000 (Trinity vs Prune)
-Game 836 stalled / disconnected and no recover option set for engine, stopping tournament.
-Finished game 836 (Prune vs Trinity): 0-1 {White disconnects}
+Started game 234 of 1000 (akimbo vs Trinity)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 223 (Trinity vs akimbo): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 235 of 1000 (Trinity vs akimbo)
+Warning; akimbo doesn't have option SyzygyPath
+Warning; Bestmove does not match beginning of last PV - move a4b6 from akimbo
+Info; info depth 14 seldepth 33 score cp -117 time 330 nodes 315392 nps 955733 pv d1c1 h6g6 e2f1 e8f8 f1g2 h5h4 c1a3 g6c6 a4b6 f5e6 a3c1 h4h3 g2h1 d5c3
+Position; startpos
+Moves; e2e4 c7c5 g1f3 d7d6 b1c3 g8f6 e4e5 d6e5 f3e5 a7a6 a2a4 d8c7 e5c4 b8c6 b2b3 c6d4 c1b2 c8f5 d2d3 h7h5 a4a5 a8d8 f1e2 g7g5 e1g1 f8g7 c3a4 g5g4 f1e1 f6d5 g2g3 h8h6 b2d4 c5d4
+Finished game 221 (Trinity vs akimbo): 0-1 {Black wins by adjudication}
+Started game 236 of 1000 (akimbo vs Trinity)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 212 (akimbo vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 237 of 1000 (Trinity vs akimbo)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 220 (akimbo vs Trinity): 1-0 {White wins by adjudication}
+Started game 238 of 1000 (akimbo vs Trinity)
+Warning; akimbo doesn't have option SyzygyPath
+Warning; Bestmove does not match beginning of last PV - move b3b4 from akimbo
+Info; info depth 13 seldepth 30 score cp -228 time 87 nodes 77824 nps 894528 pv e5d7 b8h8 a6b7 g4g3 a5a6 h5h2 f2g3 f4e3 e1e3 d4e3 a6a7 f5d7 b6d7 c3e2 g1f1 e2g3 f1g1
+Position; startpos
+Moves; e2e4 c7c5 g1f3 d7d6 b1c3 g8f6 e4e5 d6e5 f3e5 a7a6 a2a4 d8c7 e5c4 b8c6 b2b3 c6d4 c1b2 c8f5 d2d3 h7h5 a4a5 a8d8 f1e2 g7g5 e1g1 f8g7 c3a4 g5g4 f1e1 f6d5 g2g3 h8h6 b2d4 c5d4 a4b6 d5c3 d1c1 e8f8 e2f1 h5h4 f1g2 h4g3 h2g3 h6h5 c1f4 c7f4 g3f4 g7h6 g2b7 h6f4 b7a6 d8b8 c4e5 f8g7
+Finished game 226 (akimbo vs Trinity): 1-0 {White wins by adjudication}
+Started game 239 of 1000 (Trinity vs akimbo)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 229 (Trinity vs akimbo): 0-1 {Black wins by adjudication}
+Started game 240 of 1000 (akimbo vs Trinity)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 232 (akimbo vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 241 of 1000 (Trinity vs akimbo)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 230 (akimbo vs Trinity): 0-1 {Black wins by adjudication}
+Started game 242 of 1000 (akimbo vs Trinity)
+Warning; akimbo doesn't have option SyzygyPath
+Warning; Bestmove does not match beginning of last PV - move d1a1 from akimbo
+Info; info depth 15 seldepth 41 score cp 122 time 167 nodes 191488 nps 1146634 pv d1c1 d3e2 f8g8 f3e1 d5c4 c5d3 c4d3 e1d3 c1g1 g3f3 g1h1 f3f4 h1h4 f4e3 h4h1 e2f3 e7g5 e3e2 h1b1 d4d5
+Position; startpos
+Moves; e2e4 c7c5 g1f3 d7d6 f1c4 g8f6 d2d3 e7e6 c4b3 f8e7 e1g1 e8g8 c2c3 b7b6 f1e1 c8b7 c1f4 f6h5 f4e3 d8c7 h2h3 b8d7 b1d2 h5f6 a2a4 a7a6 e3f4 b6b5 b3c2 d7b6 f4g3 f8c8 g3h4 b7c6 a4b5 a6b5 a1a8 c8a8 d3d4 b6a4 d1c1 c5d4 c3d4 a8c8 c1b1 h7h6 c2d3 c7b7 d2b3 c6e8 e1c1 c8c1 b1c1 b7c6 c1d2 d6d5 h4f6 e7f6 e4e5 f6e7 h3h4 a4b6 g2g4 b5b4 g1g2 c6a4 d2c2 b6c4 d3h7 g8f8 h7d3 g7g6 d3c4 d5c4 c2c4 e8c6 g2g3 c6d5 b3c5 a4d1 c4d3
+Finished game 227 (Trinity vs akimbo): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 243 of 1000 (Trinity vs akimbo)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 234 (akimbo vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 244 of 1000 (akimbo vs Trinity)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 231 (Trinity vs akimbo): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 245 of 1000 (Trinity vs akimbo)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 216 (akimbo vs Trinity): 1/2-1/2 {Draw by insufficient mating material}
+Started game 246 of 1000 (akimbo vs Trinity)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 239 (Trinity vs akimbo): 1-0 {White wins by adjudication}
+Started game 247 of 1000 (Trinity vs akimbo)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 228 (akimbo vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 248 of 1000 (akimbo vs Trinity)
+Warning; akimbo doesn't have option SyzygyPath
+Warning; Bestmove does not match beginning of last PV - move g8h8 from akimbo
+Info; info depth 14 seldepth 29 score cp 144 time 120 nodes 126976 nps 1058133 pv d6f7 e6c6 b7c6 f4e6 g7e5 f3f4 e5d6 g1f2 f7h6 f2f3 h6f5 h4h5 f5g7 e6d8 c6c5 d8b7 d6e7 g3g4 c5c4
+Position; startpos
+Moves; e2e4 d7d6 d2d4 g7g6 f1c4 f8g7 g1f3 g8f6 e4e5 d6e5 f3e5 e8g8 e1g1 b8d7 b1c3 c7c6 f1e1 e7e6 a2a4 f6d5 e5f3 d5c3 b2c3 c6c5 a4a5 a7a6 c1g5 d8c7 c4e2 c5d4 c3d4 e6e5 c2c3 h7h6 g5e3 f8d8 h2h3 e5d4 c3d4 d7f6 d1d2 f6e4 a1c1 c7e7 d2c2 c8f5 c2b3 f5e6 b3b1 e4f6 e2c4 f6d5 e3d2 a8c8 f3e5 g8h7 c4e2 c8c1 e1c1 e7h4 e5f3 h4e7 e2c4 d8d7 h3h4 h7g8 c1e1 e7d6 c4d3 d7e7 d3g6 f7g6 b1g6 d6c6 d2h6 e6d7 g6g5 e7e1 f3e1 c6h6 g5d8 g7f8 d8d7 h6c6 d7f5 f8g7 f5g4 d5f6 g4f5 c6e4 f5c8 g7f8 e1c2 f6e8 c8c4 g8h7 c4f7 f8g7 c2e3 e8d6 f7d7 e4d4 g2g3 d4e5 e3g2 h7g8 g2f4 e5e1 g1g2 e1e4 f2f3 e4c2 g2g1 c2c6 d7e6
+Finished game 236 (akimbo vs Trinity): 1-0 {White wins by adjudication}
+Started game 249 of 1000 (Trinity vs akimbo)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 237 (Trinity vs akimbo): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 250 of 1000 (akimbo vs Trinity)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 235 (Trinity vs akimbo): 0-1 {Black wins by adjudication}
+Started game 251 of 1000 (Trinity vs akimbo)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 238 (akimbo vs Trinity): 0-1 {Black wins by adjudication}
+Started game 252 of 1000 (akimbo vs Trinity)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 240 (akimbo vs Trinity): 1-0 {White wins by adjudication}
+Started game 253 of 1000 (Trinity vs akimbo)
+Warning; akimbo doesn't have option SyzygyPath
+Finished game 242 (akimbo vs Trinity): 1-0 {White wins by adjudication}
+Started game 254 of 1000 (akimbo vs Trinity)
+Warning; akimbo doesn't have option SyzygyPath
+Game 250 stalled / disconnected and no recover option set for engine, stopping tournament.
+Finished game 250 (akimbo vs Trinity): 0-1 {White disconnects}
