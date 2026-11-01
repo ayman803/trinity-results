@@ -140,3 +140,4 @@
 2026-10-31 16:09 STARTED 2026-10-31-11: tools/net/kb16.ps1 -KingBuckets 8 -Seed 20261019 -Superbatches 900 -Tag long900 (approved commit b2624557d1)
 2026-10-31 23:40 DONE 2026-10-31-11 after 451 min (approved commit b2624557d1)
 2026-10-31 23:40 STARTED 2026-10-31-12: scripts/calibrate.ps1 -Ref main -NoUpdate (approved commit b2624557d1)
+2026-11-01 01:59 DONE 2026-10-31-12 after 139 min (approved commit b2624557d1)
