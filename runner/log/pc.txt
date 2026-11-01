@@ -144,3 +144,4 @@
 2026-11-01 02:00 STARTED 2026-10-31-13: scripts/calibrate.ps1 -Ref release-1.0.0 -NoUpdate (approved commit b2624557d1)
 2026-11-01 04:19 DONE 2026-10-31-13 after 139 min (approved commit b2624557d1)
 2026-11-01 15:05 STARTED 2026-11-01-01: scripts/sprt.ps1 -Dev corr-avg -Base base-1101 -Rounds 1000 -TestId corr-avg -NoUpdate (approved commit b2624557d1)
+2026-11-01 15:09 DISTURBED (keyboard or mouse used; stopped, not counted, runs again later) 2026-11-01-01 after 4 min (approved commit b2624557d1)

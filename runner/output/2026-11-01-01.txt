@@ -1,0 +1,86 @@
+Started game 92 of 2000 (base-1101 vs corr-avg)
+Finished game 79 (corr-avg vs base-1101): 1-0 {White wins by adjudication}
+--------------------------------------------------
+Results of corr-avg vs base-1101 (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: -13.37 +/- 33.71, nElo: -30.71 +/- 77.10
+LOS: 21.75 %, DrawRatio: 61.54 %, PairsRatio: 0.67
+Games: 78, Wins: 17, Losses: 20, Draws: 41, Points: 37.5 (48.08 %)
+Ptnml(0-2): [0, 9, 24, 6, 0], WL/DD Ratio: 0.85
+--------------------------------------------------
+Started game 93 of 2000 (corr-avg vs base-1101)
+Finished game 85 (corr-avg vs base-1101): 1-0 {White wins by adjudication}
+Started game 94 of 2000 (base-1101 vs corr-avg)
+Finished game 81 (corr-avg vs base-1101): 1/2-1/2 {Draw by adjudication}
+Started game 95 of 2000 (corr-avg vs base-1101)
+Finished game 78 (base-1101 vs corr-avg): 1-0 {White wins by adjudication}
+Started game 96 of 2000 (base-1101 vs corr-avg)
+Finished game 87 (corr-avg vs base-1101): 1-0 {White wins by adjudication}
+Started game 97 of 2000 (corr-avg vs base-1101)
+Finished game 82 (base-1101 vs corr-avg): 0-1 {Black wins by adjudication}
+Started game 98 of 2000 (base-1101 vs corr-avg)
+Finished game 83 (corr-avg vs base-1101): 1/2-1/2 {Draw by adjudication}
+Started game 99 of 2000 (corr-avg vs base-1101)
+Finished game 84 (base-1101 vs corr-avg): 0-1 {Black wins by adjudication}
+Started game 100 of 2000 (base-1101 vs corr-avg)
+Finished game 90 (base-1101 vs corr-avg): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 101 of 2000 (corr-avg vs base-1101)
+Finished game 91 (corr-avg vs base-1101): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 102 of 2000 (base-1101 vs corr-avg)
+Finished game 86 (base-1101 vs corr-avg): 1-0 {White wins by adjudication}
+Started game 103 of 2000 (corr-avg vs base-1101)
+Finished game 97 (corr-avg vs base-1101): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 104 of 2000 (base-1101 vs corr-avg)
+Finished game 89 (corr-avg vs base-1101): 1/2-1/2 {Draw by adjudication}
+Started game 105 of 2000 (corr-avg vs base-1101)
+Finished game 92 (base-1101 vs corr-avg): 0-1 {Black wins by adjudication}
+Started game 106 of 2000 (base-1101 vs corr-avg)
+Finished game 98 (base-1101 vs corr-avg): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 107 of 2000 (corr-avg vs base-1101)
+Finished game 94 (base-1101 vs corr-avg): 0-1 {Black wins by adjudication}
+Started game 108 of 2000 (base-1101 vs corr-avg)
+Finished game 96 (base-1101 vs corr-avg): 1/2-1/2 {Draw by adjudication}
+Started game 109 of 2000 (corr-avg vs base-1101)
+Finished game 95 (corr-avg vs base-1101): 1/2-1/2 {Draw by insufficient mating material}
+Started game 110 of 2000 (base-1101 vs corr-avg)
+Finished game 99 (corr-avg vs base-1101): 1-0 {White wins by adjudication}
+Started game 111 of 2000 (corr-avg vs base-1101)
+Finished game 101 (corr-avg vs base-1101): 1-0 {White wins by adjudication}
+Started game 112 of 2000 (base-1101 vs corr-avg)
+Finished game 88 (base-1101 vs corr-avg): 1/2-1/2 {Draw by fifty moves rule}
+Started game 113 of 2000 (corr-avg vs base-1101)
+Finished game 93 (corr-avg vs base-1101): 0-1 {Black wins by adjudication}
+Started game 114 of 2000 (base-1101 vs corr-avg)
+Finished game 102 (base-1101 vs corr-avg): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 115 of 2000 (corr-avg vs base-1101)
+Finished game 103 (corr-avg vs base-1101): 0-1 {Black wins by adjudication}
+Started game 116 of 2000 (base-1101 vs corr-avg)
+Finished game 100 (base-1101 vs corr-avg): 1/2-1/2 {Draw by adjudication}
+Started game 117 of 2000 (corr-avg vs base-1101)
+Finished game 112 (base-1101 vs corr-avg): 0-1 {Black wins by adjudication}
+Started game 118 of 2000 (base-1101 vs corr-avg)
+Finished game 105 (corr-avg vs base-1101): 1-0 {White wins by adjudication}
+Started game 119 of 2000 (corr-avg vs base-1101)
+Finished game 104 (base-1101 vs corr-avg): 1-0 {White wins by adjudication}
+Started game 120 of 2000 (base-1101 vs corr-avg)
+Finished game 115 (corr-avg vs base-1101): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 121 of 2000 (corr-avg vs base-1101)
+Finished game 106 (base-1101 vs corr-avg): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 122 of 2000 (base-1101 vs corr-avg)
+Finished game 107 (corr-avg vs base-1101): 1/2-1/2 {Draw by adjudication}
+Started game 123 of 2000 (corr-avg vs base-1101)
+Finished game 108 (base-1101 vs corr-avg): 1/2-1/2 {Draw by adjudication}
+Started game 124 of 2000 (base-1101 vs corr-avg)
+Finished game 109 (corr-avg vs base-1101): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 125 of 2000 (corr-avg vs base-1101)
+Finished game 116 (base-1101 vs corr-avg): 1-0 {White wins by adjudication}
+Started game 126 of 2000 (base-1101 vs corr-avg)
+Finished game 110 (base-1101 vs corr-avg): 0-1 {Black wins by adjudication}
+Started game 127 of 2000 (corr-avg vs base-1101)
+Game 119 stalled / disconnected and no recover option set for engine, stopping tournament.
+Finished game 119 (corr-avg vs base-1101): 0-1 {White disconnects}
+Preparing worktree (detached HEAD 33ff8ba)
+   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-corr-avg)
+    Finished `release` profile [optimized] target(s) in 7.72s
+Preparing worktree (detached HEAD a66f123)
+   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-base-1101)
+    Finished `release` profile [optimized] target(s) in 4.13s
