@@ -1,0 +1,81 @@
+Finished game 1970 (base-1101 vs corr-avg): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1985 of 2000 (corr-avg vs base-1101)
+Finished game 1968 (base-1101 vs corr-avg): 0-1 {Black wins by adjudication}
+Started game 1986 of 2000 (base-1101 vs corr-avg)
+Finished game 1971 (corr-avg vs base-1101): 0-1 {Black wins by adjudication}
+Started game 1987 of 2000 (corr-avg vs base-1101)
+Finished game 1976 (base-1101 vs corr-avg): 1-0 {White wins by adjudication}
+Started game 1988 of 2000 (base-1101 vs corr-avg)
+Finished game 1978 (base-1101 vs corr-avg): 1-0 {White wins by adjudication}
+Started game 1989 of 2000 (corr-avg vs base-1101)
+Finished game 1972 (base-1101 vs corr-avg): 1/2-1/2 {Draw by insufficient mating material}
+Started game 1990 of 2000 (base-1101 vs corr-avg)
+Finished game 1979 (corr-avg vs base-1101): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1991 of 2000 (corr-avg vs base-1101)
+Finished game 1977 (corr-avg vs base-1101): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1992 of 2000 (base-1101 vs corr-avg)
+Finished game 1981 (corr-avg vs base-1101): 1/2-1/2 {Draw by insufficient mating material}
+Started game 1993 of 2000 (corr-avg vs base-1101)
+Finished game 1975 (corr-avg vs base-1101): 1/2-1/2 {Draw by adjudication}
+Started game 1994 of 2000 (base-1101 vs corr-avg)
+Finished game 1980 (base-1101 vs corr-avg): 1/2-1/2 {Draw by insufficient mating material}
+Started game 1995 of 2000 (corr-avg vs base-1101)
+Finished game 1982 (base-1101 vs corr-avg): 1-0 {White wins by adjudication}
+Started game 1996 of 2000 (base-1101 vs corr-avg)
+Finished game 1984 (base-1101 vs corr-avg): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1997 of 2000 (corr-avg vs base-1101)
+Finished game 1986 (base-1101 vs corr-avg): 1-0 {White wins by adjudication}
+Started game 1998 of 2000 (base-1101 vs corr-avg)
+Finished game 1985 (corr-avg vs base-1101): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1999 of 2000 (corr-avg vs base-1101)
+Finished game 1987 (corr-avg vs base-1101): 1/2-1/2 {Draw by adjudication}
+Started game 2000 of 2000 (base-1101 vs corr-avg)
+Finished game 1993 (corr-avg vs base-1101): 0-1 {Black wins by adjudication}
+Finished game 1989 (corr-avg vs base-1101): 1-0 {White wins by adjudication}
+Finished game 1983 (corr-avg vs base-1101): 1/2-1/2 {Draw by adjudication}
+Finished game 1991 (corr-avg vs base-1101): 1/2-1/2 {Draw by adjudication}
+Finished game 1998 (base-1101 vs corr-avg): 1-0 {White wins by adjudication}
+Finished game 1994 (base-1101 vs corr-avg): 0-1 {Black wins by adjudication}
+Finished game 1992 (base-1101 vs corr-avg): 1/2-1/2 {Draw by 3-fold repetition}
+Warning; PV continues after fifty-move rule - move e5e4 from corr-avg
+Info; info depth 2 seldepth 4 score cp -24 nodes 31 nps 31000 hashfull 9 time 1 pv b6d7 f3g4 e5e4
+Position; fen rnbqkb1r/pppp2pp/4ppn1/8/6P1/1P2P3/PBPP1P1P/RN1QKBNR w KQkq - 0 5
+Moves; h2h4 d7d5 d2d4 b8c6 h4h5 g6e7 b1c3 d8d7 d1f3 e6e5 d4e5 c6e5 f3f4 d5d4 e3d4 d7g4 f4g4 e5g4 f1d3 e7c6 c3d5 f8d6 g1e2 e8g8 f2f3 g4h6 c2c3 c8e6 d5e3 c6e7 e1f2 h6f7 a1e1 f8e8 e2g3 f7g5 g3e4 g5e4 f3e4 c7c6 e1g1 a8d8 c3c4 d6f4 d4d5 c6d5 e3d5 f4g5 h5h6 e7g6 h6g7 e6d5 c4d5 g6e5 f2e2 a7a6 g1f1 g8g7 h1g1 h7h6 a2a4 d8c8 a4a5 g7f7 b3b4 f7e7 f1f5 e7d6 b4b5 a6b5 b2a3 d6c7 d3b5 e8h8 a3e7 c7b8 b5d3 h8g8 e7f6 g5f6 g1g8 c8g8 f5f6 g8g2 e2e3 e5g4 e3f3 g4f6 f3g2 b8c7 g2f3 c7d6 f3f4 f6d7 d3b5 d7e5 b5e2 e5g6 f4e3 d6c5 e2g4 g6e5 e3f4 c5d6 g4c8 e5c4 c8b7 c4a5 b7a6 h6h5 a6f1 h5h4 f4f5 h4h3 f1h3 a5c4 f5f4 c4e5 f4e3 e5g6 e3d4 g6e5 h3g2 e5g6 g2f3 g6e5 f3e2 e5d7 e2d1 d7e5 d1h5 e5d7 h5e8 d7e5 d4e3 e5c4 e3f4 c4e5 e8h5 e5c4 h5f3 c4e5 f3g2 e5c4 g2h1 c4e5 f4f5 e5c4 h1f3 c4e3 f5f4 e3c4 f3d1 c4e5 d1b3 e5d3 f4f5 d3e5 b3a2 e5f3 a2c4 f3e5 c4f1 e5d7 f1h3 d7b6 h3g2 b6d7 g2f3 d7e5 f3h5 e5c4 f5f4 c4e5 h5e8 e5d3 f4f5 d3e5 e8c6 e5d3 f5f6 d3e5 f6g5 e5d3 g5f5 d3e5 c6b5 e5f3 b5d3 f3e5 d3a6 e5f3 f5f6 f3e5 f6g5 e5f3 g5f5 f3e5 a6e2 e5d7 e2b5 d7e5 b5a4 e5d3 a4d1 d3e5 f5f6 e5d7 f6g7 d7b6 d1f3 d6e5 g7g6
+Finished game 1988 (base-1101 vs corr-avg): 1/2-1/2 {Draw by fifty moves rule}
+Finished game 1995 (corr-avg vs base-1101): 0-1 {Black wins by adjudication}
+Finished game 1996 (base-1101 vs corr-avg): 0-1 {Black wins by adjudication}
+Finished game 2000 (base-1101 vs corr-avg): 1/2-1/2 {Draw by adjudication}
+Finished game 1999 (corr-avg vs base-1101): 1-0 {White wins by adjudication}
+--------------------------------------------------
+Results of corr-avg vs base-1101 (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: -4.53 +/- 7.93, nElo: -8.71 +/- 15.24
+LOS: 13.14 %, DrawRatio: 50.40 %, PairsRatio: 0.91
+Games: 1996, Wins: 424, Losses: 450, Draws: 1122, Points: 985.0 (49.35 %)
+Ptnml(0-2): [9, 250, 503, 230, 6], WL/DD Ratio: 0.57
+--------------------------------------------------
+Finished game 1990 (base-1101 vs corr-avg): 1/2-1/2 {Draw by fifty moves rule}
+Finished game 1997 (corr-avg vs base-1101): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of corr-avg vs base-1101 (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: -4.52 +/- 7.92, nElo: -8.68 +/- 15.23
+LOS: 13.19 %, DrawRatio: 50.30 %, PairsRatio: 0.91
+Games: 2000, Wins: 425, Losses: 451, Draws: 1124, Points: 987.0 (49.35 %)
+Ptnml(0-2): [9, 251, 503, 231, 6], WL/DD Ratio: 0.57
+--------------------------------------------------
+Finished match
+Total Time: 00:55:36 (hours:minutes:seconds)
+
+Saved in trinity-results: sprt/corr-avg/2026-11-01_19-23.txt
+
+==================================================================
+SPRT RESULT: UNFINISHED (stopped before the statistics were conclusive)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time)
+Test: corr-avg (bench 1065894) vs base-1101 (bench 982007), tc 8+0.08, bounds [0, 5]
+Games: 2000, Wins: 425, Losses: 451, Draws: 1124, Points: 987.0 (49.35 %)
+Elo: -4.52 +/- 7.92, nElo: -8.68 +/- 15.23
+Duration: 0.9 hours. Full log: sprt\results\2026-11-01_19-23_corr-avg_vs_base-1101.log
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-RESULT.txt)
+(Normal sleep settings are active again.)
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
