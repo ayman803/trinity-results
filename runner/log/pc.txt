@@ -156,3 +156,4 @@
 2026-11-01 21:17 STARTED 2026-11-01-05: scripts/sprt.ps1 -Dev corr-avg -Base base-1101 -Rounds 1000 -TestId corr-avg -NoUpdate (approved commit b2624557d1)
 2026-11-01 22:13 DONE 2026-11-01-05 after 57 min (approved commit b2624557d1)
 2026-11-02 08:24 STARTED 2026-11-02-01: scripts/sprt.ps1 -Dev corr-integral-u14 -Base base-1102 -Rounds 1000 -TestId corr-integral-u14 -NoUpdate (approved commit b2624557d1)
+2026-11-02 09:21 DONE 2026-11-02-01 after 57 min (approved commit b2624557d1)

@@ -1,0 +1,87 @@
+Finished game 1971 (corr-integral-u14 vs base-1102): 1-0 {White wins by adjudication}
+Started game 1987 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 1976 (base-1102 vs corr-integral-u14): 1-0 {White wins by adjudication}
+Started game 1988 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 1973 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by adjudication}
+Started game 1989 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 1975 (corr-integral-u14 vs base-1102): 1-0 {White wins by adjudication}
+Started game 1990 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 1967 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by adjudication}
+Started game 1991 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 1983 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by insufficient mating material}
+Started game 1992 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 1981 (corr-integral-u14 vs base-1102): 1-0 {White wins by adjudication}
+Started game 1993 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 1979 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1994 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 1988 (base-1102 vs corr-integral-u14): 0-1 {Black wins by adjudication}
+Started game 1995 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 1984 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by adjudication}
+Started game 1996 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 1982 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by adjudication}
+Started game 1997 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 1987 (corr-integral-u14 vs base-1102): 0-1 {Black wins by adjudication}
+Started game 1998 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 1980 (base-1102 vs corr-integral-u14): 0-1 {Black wins by adjudication}
+Started game 1999 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 1978 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by adjudication}
+Started game 2000 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 1985 (corr-integral-u14 vs base-1102): 1-0 {White wins by adjudication}
+Finished game 1990 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1986 (base-1102 vs corr-integral-u14): 1-0 {White wins by adjudication}
+Warning; PV continues after threefold repetition - move f5h3 from corr-integral-u14
+Info; info depth 1 seldepth 3 score cp 15 nodes 25 nps 25000 hashfull 0 time 1 pv d2e2 f5h3
+Position; fen rnbqk2r/p1p1bppp/1p2pn2/8/2BP4/4P1N1/PP3PPP/RNBQK2R w KQkq - 0 7
+Moves; d1f3 c7c6 e1g1 c8b7 f1d1 h7h5 e3e4 h5h4 g3f1 h4h3 f1g3 h3g2 b1c3 g7g6 e4e5 f6d5 g3e4 e8f8 f3g2 f8g7 e4g5 h8h5 c3e4 b8d7 d1d3 d8h8 c1d2 a8f8 g2g3 g7g8 a1c1 h5h4 c1e1 c6c5 c4b5 d7b8 e4f6 d5f6 e5f6 e7f6 g5f7 f8f7 g3b8 g8h7 b8h8 f6h8 d4c5 b6c5 e1e6 h8d4 d2e3 b7e4 d3a3 d4b2 a3a4 b2d4 h2h3 e4c2 a4c4 c2b1 c4a4 h7g7 e3d4 h4d4 a4d4 c5d4 a2a4 a7a5 e6d6 f7f4 g1g2 b1e4 g2f1 e4f5 f1e2 g7h6 d6a6 f4e4 e2d2 e4f4 d2e2 f4e4 e2d2 e4f4
+Finished game 1989 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1997 (corr-integral-u14 vs base-1102): 0-1 {Black wins by adjudication}
+Finished game 1991 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1992 (base-1102 vs corr-integral-u14): 1-0 {White wins by adjudication}
+Finished game 1998 (base-1102 vs corr-integral-u14): 0-1 {Black wins by adjudication}
+Finished game 1995 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by insufficient mating material}
+Finished game 1999 (corr-integral-u14 vs base-1102): 0-1 {Black wins by adjudication}
+Finished game 1994 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by fifty moves rule}
+Warning; PV continues after fifty-move rule - move e1h4 from base-1102
+Info; info depth 18 seldepth 26 score cp 39 nodes 43575 nps 2563235 hashfull 25 time 17 pv h6g7 f2e1 e7g5 e1f2 g7f7 f2e1 f3e4 d2c1 f7e8 c1d2 g5d8 d2c1 e8d7 f4g6 d8g5 c1d2 g5d8 d2d1 d7d6 e1h4
+Position; fen r3kbnr/ppp2ppp/2b5/3pq3/8/P3PQ2/1PP1NPPP/RNB1K2R b KQkq - 1 8
+Moves; f8d6 b1c3 g8f6 e2d4 e8g8 f3f5 c6d7 f5e5 d6e5 c1d2 c7c5 d4f3 e5c7 e1g1 a8c8 f1d1 f8d8 d2e1 d7c6 a3a4 h7h6 a4a5 d8e8 c3a4 c7d6 f3d2 d6f8 d2b3 c6d7 a4c3 d7g4 d1d2 g4f5 a1c1 f5e6 c1d1 f6e4 c3e4 d5e4 b3c1 g7g5 c1e2 f8g7 d1b1 f7f5 d2d1 g7e5 h2h3 e8d8 e2c3 h6h5 c3b5 e5b8 b2b3 g8f7 c2c4 h5h4 b5c3 f7g6 g1f1 g6f6 f1e2 f6f7 e2f1 f7e8 f1e2 e8e7 c3a4 d8d6 b1c1 d6d1 c1d1 c8c6 e2f1 c6d6 d1d6 e7d6 g2g3 b8c7 a4c3 d6d7 c3b5 c7b8 b5c3 b8e5 g3h4 g5h4 f1g2 e6f7 f2f3 e4f3 g2f3 f7h5 f3f2 d7e6 f2g2 e6d6 c3b5 d6d7 b5c3 e5f6 g2f2 d7c6 c3e2 f6g5 e1c3 c6d6 c3g7 g5d8 g7c3 d6d7 f2e1 h5f3 e2f4 d7e8 e1d2 e8e7 f4g6 e7e6 g6f4 e6f7 d2c1 f3e4 c1d1 d8e7 c3e5 f7e8 d1d2 e7d8 e5c3 e8d7 f4d3 d8e7 c3e5 e4g2 d3f4 g2h1 f4d3 d7c8 d3f4 a7a6 f4d3 c8d7 d2e2 h1g2 d3f4 g2e4 e2d2 e7d8 e5c3 d7e7 d2c1 e7f7 c3e1 e4h1 e1c3 h1f3 c3d2 d8g5 d2e1 f3e4 c1d2 g5f6 d2d1 e4f3 d1d2 f7g7 d2d3 g7h6 e1f2 f6g5 d3d2 h6h7 d2c1 f3e4 c1d1 g5e7 d1c1 h7h6 c1d1 h6g7 d1c1 e7g5 c1d2 g7h6 d2d1 h6h7 d1d2 g5d8 f4e6 d8f6 d2c1 h7g8 f2e1 e4f3 c1d2 f6e7 e6f4 e7d8 d2c2 g8h7 e1f2 d8e7 c2c1 f3e4 c1d1 e7f6 d1d2 h7h6 d2c1 f6d8 c1d1 h6h7 f4e6 e4f3 d1d2 d8f6 f2e1 f6e7 e6f4 h7h6 e1f2
+Finished game 1993 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 2000 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by fifty moves rule}
+--------------------------------------------------
+Results of corr-integral-u14 vs base-1102 (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 2.09 +/- 7.74, nElo: 4.11 +/- 15.23
+LOS: 70.14 %, DrawRatio: 51.95 %, PairsRatio: 1.05
+Games: 1998, Wins: 451, Losses: 439, Draws: 1108, Points: 1005.0 (50.30 %)
+Ptnml(0-2): [6, 228, 519, 240, 6], WL/DD Ratio: 0.62
+--------------------------------------------------
+Finished game 1996 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of corr-integral-u14 vs base-1102 (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 2.08 +/- 7.73, nElo: 4.10 +/- 15.23
+LOS: 70.14 %, DrawRatio: 52.00 %, PairsRatio: 1.05
+Games: 2000, Wins: 451, Losses: 439, Draws: 1110, Points: 1006.0 (50.30 %)
+Ptnml(0-2): [6, 228, 520, 240, 6], WL/DD Ratio: 0.62
+--------------------------------------------------
+Finished match
+Total Time: 00:55:46 (hours:minutes:seconds)
+
+Saved in trinity-results: sprt/corr-integral-u14/2026-11-02_08-25.txt
+
+==================================================================
+SPRT RESULT: UNFINISHED (stopped before the statistics were conclusive)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time)
+Test: corr-integral-u14 (bench 1100066) vs base-1102 (bench 982007), tc 8+0.08, bounds [0, 5]
+Games: 2000, Wins: 451, Losses: 439, Draws: 1110, Points: 1006.0 (50.30 %)
+Elo: 2.08 +/- 7.73, nElo: 4.10 +/- 15.23
+Duration: 0.9 hours. Full log: sprt\results\2026-11-02_08-25_corr-integral-u14_vs_base-1102.log
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-RESULT.txt)
+(Normal sleep settings are active again.)
+Preparing worktree (detached HEAD 13d7fe9)
+   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-corr-integral-u14)
+    Finished `release` profile [optimized] target(s) in 4.46s
+Preparing worktree (detached HEAD 857760d)
+   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-base-1102)
+    Finished `release` profile [optimized] target(s) in 4.02s
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
