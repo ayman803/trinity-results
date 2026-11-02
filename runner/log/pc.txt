@@ -164,3 +164,4 @@
 2026-11-02 11:15 STARTED 2026-11-02-04: scripts/sprt.ps1 -Dev corr-integral-u14 -Base base-1102 -Rounds 1000 -TestId corr-integral-u14 -NoUpdate (approved commit b2624557d1)
 2026-11-02 12:12 DONE 2026-11-02-04 after 57 min (approved commit b2624557d1)
 2026-11-02 12:12 STARTED 2026-11-02-05: scripts/sprt.ps1 -Dev corr-integral-u14 -Base base-1102 -Rounds 1000 -TestId corr-integral-u14 -NoUpdate (approved commit b2624557d1)
+2026-11-02 13:08 DONE 2026-11-02-05 after 56 min (approved commit b2624557d1)
