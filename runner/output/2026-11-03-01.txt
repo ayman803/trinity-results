@@ -1,0 +1,80 @@
+Started game 74 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 62 (base-1102 vs corr-integral-u14): 0-1 {Black wins by adjudication}
+Started game 75 of 2000 (corr-integral-u14 vs base-1102)
+Warning; PV continues after fifty-move rule - move h3h4 from corr-integral-u14
+Info; info depth 16 seldepth 20 score cp 142 nodes 7892 nps 2630666 hashfull 12 time 3 pv f2e1 h3h2 e1g3 h2h3 f6g7 d5a2 g3e1 a2d5 g7f8 h3h2 e1g3 h2h3 g3f2 h3g2 f2c5 d5b3 f8g7 g2h3 c5d6 h3h4
+Position; fen r1b1kbnr/1ppp1ppp/pq6/4P3/B2p4/8/PPPP1PPP/RNBQR1K1 b kq - 2 8
+Moves; f8c5 d1h5 b6e6 d2d3 g8e7 b1d2 e6f5 h5e2 b7b5 a4b3 c5b4 a2a3 b4a5 e1f1 c8b7 d2e4 a5b6 c1d2 e8g8 e4g3 f5g6 f2f4 e7f5 g3f5 g6f5 h2h3 c7c5 g1h2 d7d5 a1e1 c5c4 b3a2 a8c8 d2b4 f8e8 a2b1 a6a5 b4d6 f5d7 c2c3 c8c6 e2h5 g7g6 h5h4 d4c3 b2c3 c6d6 e5d6 e8e1 h4e1 b6c5 d3c4 b5c4 e1e7 d7e7 d6e7 c5e7 b1c2 b7c6 f1b1 e7a3 b1b6 c6d7 g2g4 a5a4 b6b7 d7c6 b7c7 c6b5 c7b7 b5c6 b7b8 a3f8 b8b6 c6d7 h2g3 a4a3 b6a6 g8g7 a6a5 d7c6 g3f2 c6b7 f2e3 g7f6 c2d1 f6e6 d1f3 f8d6 g4g5 e6d7 e3e2 d7c7 a5a7 c7b6 a7b7 b6b7 f3d5 b7c7 d5c4 d6f4 h3h4 f4g3 h4h5 g6h5 c4f7 g3e5 e2f3 c7d6 f7g8 d6e7 g8b3 e5c3 f3g3 c3e1 g3h3 e7e8 b3d5 e8f8 d5a2 f8g7 a2d5 g7g6 d5a2 g6g5 a2b1 e1b4 b1a2 b4e7 a2f7 g5f6 f7c4 f6g7 c4a2 g7h6 a2b1 e7d8 b1a2 h6g6 a2b1 g6g7 b1a2 g7h6 a2b1 d8c7 b1a2 c7d6 h3h4 d6e7 h4g3 e7b4 g3h3 b4e1 a2b1 h6g7 b1a2 e1a5 h3h4 g7g6 a2b3 g6h6 h4h3 a5e1 b3f7 e1c3 f7a2 h6g7 h3h4 g7g6 a2b1 g6h6 h4h3 c3e1 h3g2 h6g7 b1a2 e1d2 g2g3 d2c1 g3h3 g7g6 h3g3 c1b2 a2b1 g6h6 b1a2 b2e5 g3h4 e5f6 h4h3 h6g7 a2b3 f6b2 h3h4 g7h6 h4h3 b2d4 b3a2 d4f2 a2b1 h6g7 h3g2 f2d4 b1a2 g7g6 g2h3 d4f6 a2d5 h7h6 d5a2 f6g5 a2b1 g6g7 b1a2 g5f6 h3g3 f6d8 g3h2 d8h4 h2g2 g7h7 g2h2 h4f6 h2g2 h7h8 g2g3 f6d8 g3g2 d8g5 g2g3 h5h4 g3h2 h8g7 h2g2 h6h5 g2h3 g5e7 h3h2 g7h8 a2b1 h8g8 h2h3 e7g5 h3h2 g8f8 h2g2 g5f6 b1a2 f8g7 g2h2 f6e7 a2b1 e7d8 h2h3 g7g8 h3h2 g8h8 h2g2 d8f6 b1a2 f6g5 a2b1 h8g7 g2h3 g5f6 b1a2 g7g6 h3g2 g6h6 g2h3 h6h7 a2b1 h7h8 b1a2 f6d8 a2b1 h8g7 b1a2 g7f8 a2c4 d8f6 c4e6 f8e7 e6a2 e7e8 a2c4 f6d8 c4e6 d8g5 e6a2 e8e7 a2c4 e7f6 c4b3 f6g6 b3c2 g6h6 c2b1 g5e7 h3h2 e7d6 h2h3 h6g5 b1a2 d6g3 a2b3 g5g6 b3d5 g6h6 d5a2 h6g7 a2d5 g3f2 d5a2 g7f6 a2d5
+Finished game 60 (base-1102 vs corr-integral-u14): 1-0 {White wins by adjudication}
+Started game 76 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 65 (corr-integral-u14 vs base-1102): 0-1 {Black wins by adjudication}
+Started game 77 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 63 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by adjudication}
+Started game 78 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 72 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 79 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 70 (base-1102 vs corr-integral-u14): 1-0 {White wins by adjudication}
+Started game 80 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 66 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by adjudication}
+Started game 81 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 69 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by adjudication}
+Started game 82 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 64 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by adjudication}
+Started game 83 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 74 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 84 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 73 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by adjudication}
+Started game 85 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 75 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 86 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 71 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by adjudication}
+Started game 87 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 76 (base-1102 vs corr-integral-u14): 1-0 {White wins by adjudication}
+Started game 88 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 79 (corr-integral-u14 vs base-1102): 1-0 {White wins by adjudication}
+Started game 89 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 54 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by adjudication}
+Started game 90 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 78 (base-1102 vs corr-integral-u14): 1-0 {White wins by adjudication}
+Started game 91 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 81 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by adjudication}
+Started game 92 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 80 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by 3-fold repetition}
+--------------------------------------------------
+Results of corr-integral-u14 vs base-1102 (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 4.57 +/- 32.37, nElo: 11.06 +/- 78.11
+LOS: 60.94 %, DrawRatio: 65.79 %, PairsRatio: 1.17
+Games: 76, Wins: 18, Losses: 17, Draws: 41, Points: 38.5 (50.66 %)
+Ptnml(0-2): [0, 6, 25, 7, 0], WL/DD Ratio: 0.79
+--------------------------------------------------
+Started game 93 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 83 (corr-integral-u14 vs base-1102): 1-0 {White wins by adjudication}
+Started game 94 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 88 (base-1102 vs corr-integral-u14): 1-0 {White wins by adjudication}
+Started game 95 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 77 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by insufficient mating material}
+Started game 96 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 85 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by insufficient mating material}
+Started game 97 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 82 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 98 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 67 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by adjudication}
+Started game 99 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 89 (corr-integral-u14 vs base-1102): 0-1 {Black wins by adjudication}
+Started game 100 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 90 (base-1102 vs corr-integral-u14): 0-1 {Black wins by adjudication}
+Started game 101 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 91 (corr-integral-u14 vs base-1102): 1-0 {White wins by adjudication}
+Started game 102 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 84 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by fifty moves rule}
+Started game 103 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 92 (base-1102 vs corr-integral-u14): 0-1 {Black wins by adjudication}
+Started game 104 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 86 (base-1102 vs corr-integral-u14): 1/2-1/2 {Draw by fifty moves rule}
+Started game 105 of 2000 (corr-integral-u14 vs base-1102)
+Finished game 93 (corr-integral-u14 vs base-1102): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 106 of 2000 (base-1102 vs corr-integral-u14)
+Finished game 96 (base-1102 vs corr-integral-u14): 1-0 {White wins by adjudication}
+Started game 107 of 2000 (corr-integral-u14 vs base-1102)
+Game 95 stalled / disconnected and no recover option set for engine, stopping tournament.
+Finished game 95 (corr-integral-u14 vs base-1102): 1-0 {Black disconnects}
