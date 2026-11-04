@@ -1,0 +1,76 @@
+Free disk space on C:\: 251 GB
+Using cached build of origin/net-long900-main2 (efcb2abbae).
+
+==> Building origin/net-long900-main2 (efcb2abbae, for x86-64-v2)
+HEAD is now at efcb2ab long900 network on today's main search (with quiet-skip), for its test against main
+
+==> Playing 20 games: v2 build vs AVX2 build, 10+0.1
+Indexing opening suite...
+Started game 1 of 20 (Trinity-v2 vs Trinity-AVX2)
+Started game 2 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 1 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 3 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 2 (Trinity-AVX2 vs Trinity-v2): 1/2-1/2 {Draw by adjudication}
+Started game 4 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 3 (Trinity-v2 vs Trinity-AVX2): 1-0 {White wins by adjudication}
+Started game 5 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 5 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 6 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 4 (Trinity-AVX2 vs Trinity-v2): 1-0 {White wins by adjudication}
+Started game 7 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 6 (Trinity-AVX2 vs Trinity-v2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 8 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 7 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 9 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 9 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by adjudication}
+Started game 10 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 8 (Trinity-AVX2 vs Trinity-v2): 1/2-1/2 {Draw by insufficient mating material}
+Started game 11 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 10 (Trinity-AVX2 vs Trinity-v2): 1-0 {White wins by adjudication}
+Started game 12 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 11 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by adjudication}
+Started game 13 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 12 (Trinity-AVX2 vs Trinity-v2): 1-0 {White wins by adjudication}
+Started game 14 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 13 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 15 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 14 (Trinity-AVX2 vs Trinity-v2): 1-0 {White wins by adjudication}
+Started game 16 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 16 (Trinity-AVX2 vs Trinity-v2): 1/2-1/2 {Draw by adjudication}
+Started game 17 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 15 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by adjudication}
+Started game 18 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 17 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by adjudication}
+Started game 19 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 18 (Trinity-AVX2 vs Trinity-v2): 1-0 {White wins by adjudication}
+Started game 20 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 19 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by adjudication}
+Finished game 20 (Trinity-AVX2 vs Trinity-v2): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of Trinity-v2 vs Trinity-AVX2 (10+0.1, 1t, 16MB, 8moves_v3.pgn):
+Elo: -70.44 +/- 55.47, nElo: -200.59 +/- 152.27
+LOS: 0.49 %, DrawRatio: 60.00 %, PairsRatio: 0.00
+Games: 20, Wins: 1, Losses: 5, Draws: 14, Points: 8.0 (40.00 %)
+Ptnml(0-2): [0, 4, 6, 0, 0], WL/DD Ratio: 0.20
+--------------------------------------------------
+Finished match
+Total Time: 00:04:44 (hours:minutes:seconds)
+
+Saved in trinity-results: test-results/v2check-2026-11-04_12-58.txt
+
+==================================================================
+V2 CHECK: 'net-long900-main2' on Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz - PASSED
+bench AVX2 build: 991226 nodes, 2121362 nps
+bench v2 build:   991226 nodes, 1386550 nps
+Same bench node count: yes
+Games finished: 20 of 20, tc 10+0.1
+Elo: -70.44 +/- 55.47, nElo: -200.59 +/- 152.27
+Games: 20, Wins: 1, Losses: 5, Draws: 14, Points: 8.0 (40.00 %)
+Ptnml(0-2): [0, 4, 6, 0, 0], WL/DD Ratio: 0.20
+Games lost on time: 0; illegal moves: 0; crashes or hangs: 0
+==================================================================
+Copy the lines above and paste them to Claude (also saved in sprt\results\LATEST-V2CHECK.txt).
+Preparing worktree (detached HEAD efcb2ab)
+   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-net-long900-main2)
+    Finished `release` profile [optimized] target(s) in 7.25s
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
