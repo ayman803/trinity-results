@@ -178,3 +178,4 @@
 2026-11-04 08:20 STARTED 2026-11-04-01: scripts/calibrate.ps1 -Ref net-long900-main2 -NoUpdate (approved commit b2624557d1)
 2026-11-04 10:38 DONE 2026-11-04-01 after 139 min (approved commit b2624557d1)
 2026-11-04 10:39 STARTED 2026-11-04-02: scripts/calibrate.ps1 -Ref release-1.0.0 -NoUpdate (approved commit b2624557d1)
+2026-11-04 12:57 DONE 2026-11-04-02 after 138 min (approved commit b2624557d1)
