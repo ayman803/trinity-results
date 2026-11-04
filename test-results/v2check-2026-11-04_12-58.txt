@@ -1,0 +1,9 @@
+V2 CHECK: 'net-long900-main2' on Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz - PASSED
+bench AVX2 build: 991226 nodes, 2121362 nps
+bench v2 build:   991226 nodes, 1386550 nps
+Same bench node count: yes
+Games finished: 20 of 20, tc 10+0.1
+Elo: -70.44 +/- 55.47, nElo: -200.59 +/- 152.27
+Games: 20, Wins: 1, Losses: 5, Draws: 14, Points: 8.0 (40.00 %)
+Ptnml(0-2): [0, 4, 6, 0, 0], WL/DD Ratio: 0.20
+Games lost on time: 0; illegal moves: 0; crashes or hangs: 0
