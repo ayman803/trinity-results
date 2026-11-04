@@ -175,3 +175,4 @@
 2026-11-03 11:11 DONE 2026-11-03-03 after 57 min (approved commit b2624557d1)
 2026-11-03 11:12 STARTED 2026-11-03-04: scripts/sprt.ps1 -Dev corr-integral-u14 -Base base-1102 -Rounds 1000 -TestId corr-integral-u14 -NoUpdate (approved commit b2624557d1)
 2026-11-03 12:08 DONE 2026-11-03-04 after 56 min (approved commit b2624557d1)
+2026-11-04 08:20 STARTED 2026-11-04-01: scripts/calibrate.ps1 -Ref net-long900-main2 -NoUpdate (approved commit b2624557d1)
