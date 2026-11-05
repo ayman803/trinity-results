@@ -1,0 +1,81 @@
+Started game 1983 of 2000 (tm-lowclock vs base-1105)
+Finished game 1972 (base-1105 vs tm-lowclock): 0-1 {Black wins by adjudication}
+Started game 1984 of 2000 (base-1105 vs tm-lowclock)
+Finished game 1977 (tm-lowclock vs base-1105): 1-0 {White wins by adjudication}
+Started game 1985 of 2000 (tm-lowclock vs base-1105)
+Finished game 1975 (tm-lowclock vs base-1105): 1-0 {White wins by adjudication}
+Started game 1986 of 2000 (base-1105 vs tm-lowclock)
+Finished game 1969 (tm-lowclock vs base-1105): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1987 of 2000 (tm-lowclock vs base-1105)
+Finished game 1971 (tm-lowclock vs base-1105): 1/2-1/2 {Draw by adjudication}
+Started game 1988 of 2000 (base-1105 vs tm-lowclock)
+Finished game 1974 (base-1105 vs tm-lowclock): 1/2-1/2 {Draw by adjudication}
+Started game 1989 of 2000 (tm-lowclock vs base-1105)
+Finished game 1981 (tm-lowclock vs base-1105): 1/2-1/2 {Draw by adjudication}
+Started game 1990 of 2000 (base-1105 vs tm-lowclock)
+Finished game 1976 (base-1105 vs tm-lowclock): 1-0 {White wins by adjudication}
+Started game 1991 of 2000 (tm-lowclock vs base-1105)
+Finished game 1980 (base-1105 vs tm-lowclock): 1/2-1/2 {Draw by adjudication}
+Started game 1992 of 2000 (base-1105 vs tm-lowclock)
+Finished game 1978 (base-1105 vs tm-lowclock): 1/2-1/2 {Draw by adjudication}
+Started game 1993 of 2000 (tm-lowclock vs base-1105)
+Warning; PV continues after fifty-move rule - move f4f3 from tm-lowclock
+Info; info depth 2 seldepth 3 score cp 11 nodes 56 nps 56000 hashfull 5 time 1 pv f5f4 d1f3 f4f3
+Position; fen rn1qk2r/pppbbppp/4p3/3pP1B1/2PPn3/2N5/PP3PPP/R2QKBNR w KQkq - 1 7
+Moves; g5e7 d8e7 c4d5 e4c3 b2c3 e6d5 f1d3 e8g8 g1e2 c7c5 e1g1 b8c6 f2f4 f7f6 h2h3 a7a6 d1d2 g8h8 a1e1 a8e8 d3b1 c6a5 g1h2 g7g6 b1d3 a5c6 a2a4 f6e5 f4e5 c5d4 c3d4 f8f1 e1f1 e8f8 f1f8 e7f8 d2e3 c6b4 a4a5 b4c6 d3b1 c6a5 e2f4 a5c4 e3g3 f8d8 g3f2 d7c8 h3h4 c8g4 f2g3 g4d1 e5e6 d8f6 h4h5 d1h5 f4h5 g6h5 g3b8 h8g7 b8b7 g7f8 b7c8 f8g7 c8d7 g7f8 h2h3 c4e3 d7d6 f8g7 e6e7 f6d4 e7e8n g7f7 d6d7 f7f8 e8d6 d4g4 d7g4 h5g4 h3g3 h7h5 d6f5 d5d4 f5d4 h5h4 g3h4 e3g2 h4g4 g2e3 g4f4 e3d5 f4e5 d5b4 e5e6 f8g7 b1e4 a6a5 d4b5 b4a6 e4b1 a5a4 b5a3 a6c5 e6e7 c5b3 b1d3 b3c5 d3c2 g7h6 e7f6 c5d7 f6f5 h6g7 f5e6 d7f8 e6e5 f8d7 e5f5 g7f7 c2b1 f7e7 a3b5 d7c5 b1a2 c5d3 b5a3 e7d6 a2c4 d3c1 a3c2 d6c5 c4e6 c1d3 f5e4 d3f2 e4e3 f2d1 e3d2 d1f2 e6a2 f2e4 d2e3 e4c3 a2f7 c3d5 e3e4 d5f6 e4d3 f6d5 c2a3 d5f6 a3b1 f6g4 d3c3 g4f6 b1d2 f6d5 c3d3 d5b4 d3e3 b4c6 d2e4 c5b6 e3d2 b6c7 d2c3 c7d8 f7c4 d8e7 c4d5 e7d7 c3b2 c6e7 d5c4 e7f5 c4a2 f5d6 e4c3 d6f5 b2a3 d7d6 c3d1 d6e5 a2b1 f5d6 a3b4 a4a3 b4a3 d6e4 b1c2 e4f6 a3b3 e5d4 d1f2 f6d5 b3b2 d4e3 f2g4 e3d4 c2h7 d5e3 g4h6 e3d5 h6f5 d4e5 f5h4 d5f6 h7c2 e5d4 c2g6 d4e3 b2c3 f6e4 c3c4 e3f4 h4g2 f4e5 g2e3 e4d6 c4c3 e5f4 e3g2 f4e5 g6c2 d6e4 c3d3 e4f2 d3e2 f2g4 e2d2 e5d4 g2h4 g4e5 h4f5 d4c4 c2b1 c4b3 f5g3 b3c4 g3e2 c4d5 d2c3 e5c6 b1c2 d5e5 c2a4 e5d5 e2g1 c6d4 c3d2 d5c4 a4d7 d4b3 d2e3 b3d4 e3e4 c4c5 e4d3 d4c6 d3c3 c5d5 d7h3 d5e5 h3g2 c6e7 g2f3 e7f5 c3d3 e5f4 d3d2 f5d4 f3g2 d4e6 g1e2 f4e5 e2c3 e6d4 g2b7 e5f4 d2d3 d4e6 b7d5 f4e5 d5f3 e5f5 f3d1
+Finished game 1970 (base-1105 vs tm-lowclock): 1/2-1/2 {Draw by fifty moves rule}
+Started game 1994 of 2000 (base-1105 vs tm-lowclock)
+Finished game 1979 (tm-lowclock vs base-1105): 1-0 {White wins by adjudication}
+Started game 1995 of 2000 (tm-lowclock vs base-1105)
+Finished game 1983 (tm-lowclock vs base-1105): 1-0 {White wins by adjudication}
+Started game 1996 of 2000 (base-1105 vs tm-lowclock)
+Warning; PV continues after threefold repetition - move h5g6 from base-1105
+Info; info depth 1 seldepth 3 score cp 3 nodes 49 nps 49000 hashfull 0 time 1 pv h1d5 h5g6 h7g6
+Position; fen r2qkb1r/ppp2ppp/2n1p3/1B1nNb2/3P1B2/4P3/PP3PPP/RN1QK2R b KQkq - 3 8
+Moves; f8b4 e1f1 d5f4 b5c6 b7c6 e3f4 e8g8 b1c3 d8e8 g2g4 f7f6 e5d3 f5d3 d1d3 f6f5 g4g5 a8b8 c3e2 c6c5 a1c1 c5d4 c1c7 b4a5 c7a7 e8c6 h1g1 a5b6 a7a6 b8a8 a6a8 f8a8 a2a3 a8c8 h2h4 g8f7 b2b4 c6d5 h4h5 g7g6 g1g3 d5h1 g3g1 h1d5 g1g3 d5h1 g3g1
+Finished game 1989 (tm-lowclock vs base-1105): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1997 of 2000 (tm-lowclock vs base-1105)
+Finished game 1984 (base-1105 vs tm-lowclock): 1-0 {White wins by adjudication}
+Started game 1998 of 2000 (base-1105 vs tm-lowclock)
+Finished game 1986 (base-1105 vs tm-lowclock): 0-1 {Black wins by adjudication}
+Started game 1999 of 2000 (tm-lowclock vs base-1105)
+Finished game 1990 (base-1105 vs tm-lowclock): 0-1 {Black wins by adjudication}
+Started game 2000 of 2000 (base-1105 vs tm-lowclock)
+Finished game 1985 (tm-lowclock vs base-1105): 1/2-1/2 {Draw by adjudication}
+Finished game 1987 (tm-lowclock vs base-1105): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1991 (tm-lowclock vs base-1105): 0-1 {Black wins by adjudication}
+Finished game 1992 (base-1105 vs tm-lowclock): 0-1 {Black wins by adjudication}
+Finished game 1988 (base-1105 vs tm-lowclock): 1/2-1/2 {Draw by adjudication}
+Finished game 1982 (base-1105 vs tm-lowclock): 1/2-1/2 {Draw by adjudication}
+Finished game 1995 (tm-lowclock vs base-1105): 0-1 {Black wins by adjudication}
+Finished game 1998 (base-1105 vs tm-lowclock): 1-0 {White wins by adjudication}
+Finished game 1996 (base-1105 vs tm-lowclock): 0-1 {Black wins by adjudication}
+Finished game 1993 (tm-lowclock vs base-1105): 1/2-1/2 {Draw by adjudication}
+Finished game 1997 (tm-lowclock vs base-1105): 1/2-1/2 {Draw by stalemate}
+Finished game 1994 (base-1105 vs tm-lowclock): 1/2-1/2 {Draw by adjudication}
+Finished game 2000 (base-1105 vs tm-lowclock): 1-0 {White wins by adjudication}
+Finished game 1999 (tm-lowclock vs base-1105): 1/2-1/2 {Draw by insufficient mating material}
+--------------------------------------------------
+Results of tm-lowclock vs base-1105 (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 2.26 +/- 7.59, nElo: 4.53 +/- 15.23
+LOS: 72.01 %, DrawRatio: 53.90 %, PairsRatio: 1.07
+Games: 2000, Wins: 457, Losses: 444, Draws: 1099, Points: 1006.5 (50.32 %)
+Ptnml(0-2): [7, 216, 539, 233, 5], WL/DD Ratio: 0.66
+--------------------------------------------------
+Finished match
+Total Time: 00:55:33 (hours:minutes:seconds)
+
+Saved in trinity-results: sprt/tm-lowclock/2026-11-05_08-50.txt
+
+==================================================================
+SPRT RESULT: UNFINISHED (stopped before the statistics were conclusive)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time)
+Test: tm-lowclock (bench 982007) vs base-1105 (bench 982007), tc 8+0.08, bounds [0, 5]
+Games: 2000, Wins: 457, Losses: 444, Draws: 1099, Points: 1006.5 (50.32 %)
+Elo: 2.26 +/- 7.59, nElo: 4.53 +/- 15.23
+Duration: 0.9 hours. Full log: sprt\results\2026-11-05_08-50_tm-lowclock_vs_base-1105.log
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-RESULT.txt)
+(Normal sleep settings are active again.)
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
