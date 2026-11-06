@@ -189,3 +189,4 @@
 2026-11-05 10:42 DONE 2026-11-05-03 after 56 min (approved commit b2624557d1)
 2026-11-05 10:43 STARTED 2026-11-05-04: scripts/sprt.ps1 -Dev tm-lowclock -Base base-1105 -Rounds 1000 -TestId tm-lowclock -NoUpdate (approved commit b2624557d1)
 2026-11-05 11:39 DONE 2026-11-05-04 after 56 min (approved commit b2624557d1)
+2026-11-06 07:53 STARTED 2026-11-06-01: scripts/calibrate.ps1 -Ref main -NoUpdate (approved commit b2624557d1)
