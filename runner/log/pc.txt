@@ -201,3 +201,4 @@
 2026-11-07 20:04 DONE 2026-11-07-03 after 57 min (approved commit b2624557d1)
 2026-11-07 20:05 STARTED 2026-11-07-04: scripts/sprt.ps1 -Dev tm-lowclock -Base base-1105 -Rounds 1000 -TestId tm-lowclock -NoUpdate (approved commit b2624557d1)
 2026-11-07 21:00 DONE 2026-11-07-04 after 55 min (approved commit b2624557d1)
+2026-11-08 16:01 STARTED 2026-11-08-01: scripts/sprt.ps1 -Dev net-long900-tuned -Base net-long900-main2 -Rounds 1000 -TestId net-long900-tuned -NoUpdate (approved commit b2624557d1)
