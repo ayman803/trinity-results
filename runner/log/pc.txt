@@ -205,3 +205,4 @@
 2026-11-08 16:01 DISTURBED (keyboard or mouse used; stopped, not counted, runs again later) 2026-11-08-01 after 1 min (approved commit b2624557d1)
 2026-11-08 18:19 STARTED 2026-11-08-01: scripts/sprt.ps1 -Dev net-long900-tuned -Base net-long900-main2 -Rounds 1000 -TestId net-long900-tuned -NoUpdate (approved commit b2624557d1)
 2026-11-08 19:16 DONE 2026-11-08-01 after 57 min (approved commit b2624557d1)
+2026-11-08 19:17 STARTED 2026-11-08-05: tools/net/kb16.ps1 -KingBuckets 8 -Seed 20261108 -Superbatches 900 -Tag long900s2 (approved commit b2624557d1)
