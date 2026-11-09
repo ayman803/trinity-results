@@ -1,0 +1,81 @@
+Started game 1981 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1970 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by insufficient mating material}
+Started game 1982 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1966 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 1983 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1972 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 1984 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1974 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 1985 of 2000 (net-long900-tuned vs net-long900-main2)
+Warning; PV continues after fifty-move rule - move f5f4 from net-long900-main2
+Info; info depth 20 seldepth 26 score cp 36 nodes 68477 nps 2075060 hashfull 25 time 33 pv d4d8 a3a4 d8d5 f7g8 g4f3 g8f7 d5c5 f7g8 f3e3 g8g7 c5c6 g7f7 c6f6 f7g7 f6b6 a4a3 e3e4 a3a4 e4e5 a4a5 e5e6 a5f5 b6b7 g7f8 b7b3 f5f4
+Position; fen rn2k1nr/pb1p1ppp/2p1P3/1pq5/4P3/3B1N2/PPP2PPP/RN1QK2R b KQkq - 0 8
+Moves; d7e6 e4e5 b8d7 d1e2 c5b6 b1d2 g8e7 e1g1 d7c5 d2e4 c5e4 d3e4 c6c5 a2a4 b5a4 a1a4 b7e4 e2e4 e8g8 f3g5 e7g6 h2h4 h7h6 h4h5 h6g5 h5g6 a8d8 b2b3 f7g6 e4g6 f8f5 a4e4 c5c4 b3c4 b6c6 e4e3 c6c4 e3h3 g5g4 h3h7 c4c7 g6e6 c7f7 e6f7 g8f7 h7h4 f5e5 h4g4 e5c5 f1b1 d8c8 b1d1 c8c7 g4f4 f7g6 d1d6 g6h7 f4h4 h7g8 d6d8 g8f7 h4f4 f7g6 f4a4 a7a5 d8d6 g6h7 a4h4 h7g8 d6d8 g8f7 h4f4 f7g6 f4g4 g6f7 f2f3 c5c2 d8a8 c2c5 g4d4 c7c8 d4d7 f7g8 a8a7 c5g5 d7d2 g5g6 g1f2 g6h6 a7a5 h6g6 a5h5 g8f7 f2g1 c8c6 d2e2 g6h6 h5h6 c6h6 e2e5 h6a6 g1h2 a6a3 f3f4 f7g6 g2g3 g6h7 h2h3 g7g6 h3h4 h7h6 e5e8 a3a5 h4g4 h6g7 e8e5 a5a3 e5b5 g7h6 b5b7 a3a4 g4h3 a4a3 b7f7 a3a4 h3g4 a4a3 f7e7 a3a4 g4h3 a4a5 h3h4 a5a1 e7e6 a1h1 h4g4 h1a1 g4h3 h6g7 h3h4 g7f7 e6e5 f7f6 h4g4 a1a3 e5b5 a3a1 b5c5 a1h1 c5a5 f6g7 g4f3 h1f1 f3e3 g7f6 e3e2 f1b1 e2f3 f6g7 a5a3 g7f6 g3g4 b1b4 a3a6 f6g7 a6a7 g7f8 f3g3 f8g8 a7c7 b4a4 c7c8 g8g7 c8c6 g7h7 c6d6 h7g7 d6b6 g7h7 b6e6 a4b4 e6e7 h7g8 e7d7 b4a4 d7d8 g8h7 d8b8 h7h6 b8h8 h6g7 h8e8 g7f7 e8e5 f7g8 e5e6 g8f7 e6c6 f7g7 c6c5 g7h6 c5c3 h6h7 g3f3 h7g7 c3e3 g7f7 e3b3 f7g7 b3b7 g7f8 f3g3 a4c4 b7a7 f8g8 a7a8 g8h7 a8a3 c4b4 a3a6 h7g7 g3f3 b4b3 f3g2 g7f7 a6a7 f7e6 g2f2 e6f6 a7a4 f6f7 a4a5 f7g7 a5e5 b3b4 f2g3 b4a4 e5d5 g7f8 d5d8 f8f7 d8b8 f7g7 b8b5 g7f6 b5c5 f6g7 g3f3 a4a3 f3e4 a3g3 g4g5 g3a3 c5c7 g7f8 c7d7 a3a4 e4f3 a4a3 f3f2 a3a2 f2e3 a2a4 d7d6 f8g7 e3f3 g7f7 d6c6 a4a3 f3e4 a3a4 e4e5 a4a5 e5d4 a5f5 d4e4 f5a5 c6c4 f7g7 e4d4 a5f5 d4d3 f5a5 c4c7 g7g8 d3e3 a5a4 c7e7 g8f8 e7e6 f8g7 e6d6 a4a5 d6d7 g7g8 e3d3 a5a2 d7d6 g8f7 d6b6 a2a3 d3e4 a3a4 e4f3 a4a3 f3g4 f7g7 b6f6 a3a4 f6c6 a4a3 c6c8 g7f7 c8c4 f7g8 c4b4 g8f8 b4b7 f8g8 b7b8 g8g7 b8d8 g7f7 d8d5 f7g8 d5d4 g8f7
+Finished game 1962 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by fifty moves rule}
+Started game 1986 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1967 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 1987 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1976 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 1988 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1981 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1989 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1977 (net-long900-tuned vs net-long900-main2): 0-1 {Black wins by adjudication}
+Started game 1990 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1975 (net-long900-tuned vs net-long900-main2): 1-0 {White wins by adjudication}
+Started game 1991 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1978 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Started game 1992 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1979 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 1993 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1968 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by fifty moves rule}
+Started game 1994 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1984 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 1995 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1989 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1996 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1980 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 1997 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1982 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1998 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1986 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 1999 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1987 (net-long900-tuned vs net-long900-main2): 0-1 {Black wins by adjudication}
+Started game 2000 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1983 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Finished game 1990 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Finished game 1988 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Finished game 1992 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Finished game 1997 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1993 (net-long900-tuned vs net-long900-main2): 1-0 {White wins by adjudication}
+Finished game 1998 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Finished game 1999 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Finished game 1996 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Finished game 1991 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by fifty moves rule}
+Finished game 1985 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Finished game 1994 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by fifty moves rule}
+Finished game 1995 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Finished game 2000 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of net-long900-tuned vs net-long900-main2 (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: -6.78 +/- 7.88, nElo: -13.09 +/- 15.23
+LOS: 4.60 %, DrawRatio: 50.20 %, PairsRatio: 0.84
+Games: 2000, Wins: 403, Losses: 442, Draws: 1155, Points: 980.5 (49.02 %)
+Ptnml(0-2): [5, 265, 502, 220, 8], WL/DD Ratio: 0.50
+--------------------------------------------------
+Finished match
+Total Time: 00:55:43 (hours:minutes:seconds)
+
+Saved in trinity-results: sprt/net-long900-tuned/2026-11-09_02-45.txt
+
+==================================================================
+SPRT RESULT: UNFINISHED (stopped before the statistics were conclusive)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time)
+Test: net-long900-tuned (bench 1090223) vs net-long900-main2 (bench 991226), tc 8+0.08, bounds [0, 5]
+Games: 2000, Wins: 403, Losses: 442, Draws: 1155, Points: 980.5 (49.02 %)
+Elo: -6.78 +/- 7.88, nElo: -13.09 +/- 15.23
+Duration: 0.9 hours. Full log: sprt\results\2026-11-09_02-45_net-long900-tuned_vs_net-long900-main2.log
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-RESULT.txt)
+(Normal sleep settings are active again.)
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
