@@ -1,0 +1,31 @@
+Free disk space on C:\: 247 GB
+
+==> Building origin/net-long900-tuned (f537c6bd5c)
+HEAD is now at f537c6b long900 with its SPSA re-tune (3 runs, 5055 pairs per chain; every setting moved by less than its step)
+Using cached build of origin/net-long900-main2 (efcb2abbae).
+Bench fingerprints: net-long900-tuned = 1090223, net-long900-main2 = 991226
+
+==> Testing 'net-long900-tuned' against 'net-long900-main2' (14 games at a time, 8+0.08)
+This can take several hours. You can leave it running overnight.
+To stop early, press Ctrl+C (the result so far is still saved).
+(Sleep is blocked while this runs; normal sleep resumes automatically when finished.)
+Indexing opening suite...
+Started game 2 of 2000 (net-long900-main2 vs net-long900-tuned)
+Started game 1 of 2000 (net-long900-tuned vs net-long900-main2)
+Started game 4 of 2000 (net-long900-main2 vs net-long900-tuned)
+Started game 3 of 2000 (net-long900-tuned vs net-long900-main2)
+Started game 5 of 2000 (net-long900-tuned vs net-long900-main2)
+Started game 6 of 2000 (net-long900-main2 vs net-long900-tuned)
+Started game 7 of 2000 (net-long900-tuned vs net-long900-main2)
+Started game 8 of 2000 (net-long900-main2 vs net-long900-tuned)
+Started game 9 of 2000 (net-long900-tuned vs net-long900-main2)
+Started game 10 of 2000 (net-long900-main2 vs net-long900-tuned)
+Started game 11 of 2000 (net-long900-tuned vs net-long900-main2)
+Started game 12 of 2000 (net-long900-main2 vs net-long900-tuned)
+Started game 13 of 2000 (net-long900-tuned vs net-long900-main2)
+Started game 14 of 2000 (net-long900-main2 vs net-long900-tuned)
+Game 2 stalled / disconnected and no recover option set for engine, stopping tournament.
+Finished game 2 (net-long900-main2 vs net-long900-tuned): 0-1 {White disconnects}
+Preparing worktree (detached HEAD f537c6b)
+   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-net-long900-tuned)
+    Finished `release` profile [optimized] target(s) in 8.98s
