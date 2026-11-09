@@ -1,31 +1,81 @@
-Free disk space on C:\: 247 GB
+Finished game 1972 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Started game 1987 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1979 (net-long900-tuned vs net-long900-main2): 1-0 {White wins by adjudication}
+Started game 1988 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1974 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 1989 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1975 (net-long900-tuned vs net-long900-main2): 0-1 {Black wins by adjudication}
+Started game 1990 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1981 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 1991 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1973 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 1992 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1982 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Started game 1993 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1977 (net-long900-tuned vs net-long900-main2): 0-1 {Black wins by adjudication}
+Started game 1994 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1985 (net-long900-tuned vs net-long900-main2): 0-1 {Black wins by adjudication}
+Started game 1995 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1984 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 1996 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1980 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 1997 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1983 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 1998 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1978 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by insufficient mating material}
+Started game 1999 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 1990 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 2000 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 1986 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Finished game 1987 (net-long900-tuned vs net-long900-main2): 1-0 {White wins by adjudication}
+Finished game 1988 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1993 (net-long900-tuned vs net-long900-main2): 0-1 {Black wins by adjudication}
+Finished game 1991 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Finished game 1989 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1994 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Finished game 1992 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Finished game 1997 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1996 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Finished game 1998 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 2000 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Finished game 1999 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of net-long900-tuned vs net-long900-main2 (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 0.35 +/- 7.82, nElo: 0.68 +/- 15.23
+LOS: 53.47 %, DrawRatio: 50.35 %, PairsRatio: 1.02
+Games: 1998, Wins: 429, Losses: 427, Draws: 1142, Points: 1000.0 (50.05 %)
+Ptnml(0-2): [7, 238, 503, 248, 3], WL/DD Ratio: 0.53
+--------------------------------------------------
+Warning; PV continues after fifty-move rule - move d3h3 from net-long900-tuned
+Info; info depth 13 seldepth 24 score cp 76 nodes 39583 nps 2473937 hashfull 13 time 16 pv h2g2 h6g6 g2f2 g6h6 f2e3 h6g6 a5e5 b3d1 e5e4 d1b3 e3e2 g6h6 e4e5 b3c4 e2e3 d7d3 e3e4 d3h3
+Position; fen r1b1k1nr/pppq1ppp/2nb4/1B6/4P3/4B3/PPP2PPP/RN1QK1NR b KQkq - 3 6
+Moves; g8f6 f2f3 e8g8 g1e2 d7e7 b5c6 b7c6 b1c3 a7a5 e1g1 a5a4 a2a3 f8d8 d1c1 f6d7 f3f4 e7e8 e3f2 f7f6 f1e1 c8b7 e2g3 e8f7 c1e3 d7b6 e4e5 f6e5 f4e5 d8e8 e5e6 f7g6 e3e4 d6f8 e4g6 h7g6 e1e4 c6c5 e4e2 b6d5 c3d5 b7d5 a1e1 f8d6 g3e4 e8e6 e4c5 e6e2 e1e2 g6g5 c5d3 d5c4 e2e4 c4b5 e4g4 d6e7 f2e3 a8b8 e3c5 b5d3 c5e7 d3c2 e7b4 b8b5 g4c4 c2b3 c4c7 b5f5 b4c3 f5f7 c7c8 g8h7 c8d8 h7g6 h2h3 g6h5 g1h2 f7e7 d8d4 e7f7 h2g3 f7e7 d4d6 e7a7 c3b4 a7f7 d6d4 f7f5 b4c3 f5f7 d4e4 h5g6 e4e5 f7d7 g3h2 g6h5 e5a5 h5g6 a5a6 g6h7 a6c6 b3d1 c6e6 d1b3 e6a6 b3c2 h2g3 c2b3 a6b6 d7d3 g3f2 d3d7 b6b5 h7g6 b5c5 g6h5 f2g3 d7d3 g3h2 d3d7 c5e5 h5h6 h2g1 h6h5 e5a5 h5h6 g1f2 h6g6 a5a6 g6h7 a6a8 h7g6 a8e8 g6h6 e8e5 h6g6 f2g3 g6h5 e5e3 h5h6 g3h2 h6g6 g2g4 b3d1 e3e6 g6h7 e6e5 h7h6 e5c5 d1b3 h2g3 d7d3 g3g2 d3d7 c5c6 h6h7 g2h2 b3a2 c6a6 a2b3 h2g2 b3d1 a6a5 h7g6 a5b5 d1b3 g2f2 g6h6 b5e5 d7d3 e5e8 d3d7 e8h8 h6g6 h8c8 g6h7 c8c5 h7h6 c5c6 h6h7 c6b6 b3d1 f2g3 d1b3 b6a6 d7d3 g3g2 d3d7 a6a5 h7h6 a5e5 b3c2 e5e8 c2b3 e8b8 h6g6 g2h2 g6h7 h2g3 b3c2 g3g2 c2d1 b8e8 d1b3 g2h2 h7h6 e8e4 h6g6 e4b4 g6h7 h2g3 h7h6 g3g2 b3d5 g2g1 d5b3 b4b6 h6h7 g1g2 b3d5 g2h2 d5b3 b6b5 h7g6 b5a5 g6h6
+Warning; PV continues after fifty-move rule - move d3h3 from net-long900-main2
+Info; info depth 13 seldepth 16 score cp -38 nodes 18584 nps 2654857 hashfull 11 time 7 pv d5b3 a5f5 b3c4 f2g3 c4b3 f5f8 h6h7 g3f2 h7g6 f8f5 g6h6 c3b4 d7d3 f5e5 d3h3
+Position; fen r1b1k1nr/pppq1ppp/2nb4/1B6/4P3/4B3/PPP2PPP/RN1QK1NR b KQkq - 3 6
+Moves; g8f6 f2f3 e8g8 g1e2 d7e7 b5c6 b7c6 b1c3 a7a5 e1g1 a5a4 a2a3 f8d8 d1c1 f6d7 f3f4 e7e8 e3f2 f7f6 f1e1 c8b7 e2g3 e8f7 c1e3 d7b6 e4e5 f6e5 f4e5 d8e8 e5e6 f7g6 e3e4 d6f8 e4g6 h7g6 e1e4 c6c5 e4e2 b6d5 c3d5 b7d5 a1e1 f8d6 g3e4 e8e6 e4c5 e6e2 e1e2 g6g5 c5d3 d5c4 e2e4 c4b5 e4g4 d6e7 f2e3 a8b8 e3c5 b5d3 c5e7 d3c2 e7b4 b8b5 g4c4 c2b3 c4c7 b5f5 b4c3 f5f7 c7c8 g8h7 c8d8 h7g6 h2h3 g6h5 g1h2 f7e7 d8d4 e7f7 h2g3 f7e7 d4d6 e7a7 c3b4 a7f7 d6d4 f7f5 b4c3 f5f7 d4e4 h5g6 e4e5 f7d7 g3h2 g6h5 e5a5 h5g6 a5a6 g6h7 a6c6 b3d1 c6e6 d1b3 e6a6 b3c2 h2g3 c2b3 a6b6 d7d3 g3f2 d3d7 b6b5 h7g6 b5c5 g6h5 f2g3 d7d3 g3h2 d3d7 c5e5 h5h6 h2g1 h6h5 e5a5 h5h6 g1f2 h6g6 a5a6 g6h7 a6a8 h7g6 a8e8 g6h6 e8e5 h6g6 f2g3 g6h5 e5e3 h5h6 g3h2 h6g6 g2g4 b3d1 e3e6 g6h7 e6e5 h7h6 e5c5 d1b3 h2g3 d7d3 g3g2 d3d7 c5c6 h6h7 g2h2 b3a2 c6a6 a2b3 h2g2 b3d1 a6a5 h7g6 a5b5 d1b3 g2f2 g6h6 b5e5 d7d3 e5e8 d3d7 e8h8 h6g6 h8c8 g6h7 c8c5 h7h6 c5c6 h6h7 c6b6 b3d1 f2g3 d1b3 b6a6 d7d3 g3g2 d3d7 a6a5 h7h6 a5e5 b3c2 e5e8 c2b3 e8b8 h6g6 g2h2 g6h7 h2g3 b3c2 g3g2 c2d1 b8e8 d1b3 g2h2 h7h6 e8e4 h6g6 e4b4 g6h7 h2g3 h7h6 g3g2 b3d5 g2g1 d5b3 b4b6 h6h7 g1g2 b3d5 g2h2 d5b3 b6b5 h7g6 b5a5 g6h6 h2g2 b3d5 g2f2
+Finished game 1995 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of net-long900-tuned vs net-long900-main2 (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 0.35 +/- 7.81, nElo: 0.68 +/- 15.23
+LOS: 53.47 %, DrawRatio: 50.40 %, PairsRatio: 1.02
+Games: 2000, Wins: 429, Losses: 427, Draws: 1144, Points: 1001.0 (50.05 %)
+Ptnml(0-2): [7, 238, 504, 248, 3], WL/DD Ratio: 0.53
+--------------------------------------------------
+Finished match
+Total Time: 00:55:59 (hours:minutes:seconds)
 
-==> Building origin/net-long900-tuned (f537c6bd5c)
-HEAD is now at f537c6b long900 with its SPSA re-tune (3 runs, 5055 pairs per chain; every setting moved by less than its step)
-Using cached build of origin/net-long900-main2 (efcb2abbae).
-Bench fingerprints: net-long900-tuned = 1090223, net-long900-main2 = 991226
+Saved in trinity-results: sprt/net-long900-tuned/2026-11-08_18-19.txt
 
-==> Testing 'net-long900-tuned' against 'net-long900-main2' (14 games at a time, 8+0.08)
-This can take several hours. You can leave it running overnight.
-To stop early, press Ctrl+C (the result so far is still saved).
-(Sleep is blocked while this runs; normal sleep resumes automatically when finished.)
-Indexing opening suite...
-Started game 2 of 2000 (net-long900-main2 vs net-long900-tuned)
-Started game 1 of 2000 (net-long900-tuned vs net-long900-main2)
-Started game 4 of 2000 (net-long900-main2 vs net-long900-tuned)
-Started game 3 of 2000 (net-long900-tuned vs net-long900-main2)
-Started game 5 of 2000 (net-long900-tuned vs net-long900-main2)
-Started game 6 of 2000 (net-long900-main2 vs net-long900-tuned)
-Started game 7 of 2000 (net-long900-tuned vs net-long900-main2)
-Started game 8 of 2000 (net-long900-main2 vs net-long900-tuned)
-Started game 9 of 2000 (net-long900-tuned vs net-long900-main2)
-Started game 10 of 2000 (net-long900-main2 vs net-long900-tuned)
-Started game 11 of 2000 (net-long900-tuned vs net-long900-main2)
-Started game 12 of 2000 (net-long900-main2 vs net-long900-tuned)
-Started game 13 of 2000 (net-long900-tuned vs net-long900-main2)
-Started game 14 of 2000 (net-long900-main2 vs net-long900-tuned)
-Game 2 stalled / disconnected and no recover option set for engine, stopping tournament.
-Finished game 2 (net-long900-main2 vs net-long900-tuned): 0-1 {White disconnects}
-Preparing worktree (detached HEAD f537c6b)
-   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-net-long900-tuned)
-    Finished `release` profile [optimized] target(s) in 8.98s
+==================================================================
+SPRT RESULT: UNFINISHED (stopped before the statistics were conclusive)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time)
+Test: net-long900-tuned (bench 1090223) vs net-long900-main2 (bench 991226), tc 8+0.08, bounds [0, 5]
+Games: 2000, Wins: 429, Losses: 427, Draws: 1144, Points: 1001.0 (50.05 %)
+Elo: 0.35 +/- 7.81, nElo: 0.68 +/- 15.23
+Duration: 0.9 hours. Full log: sprt\results\2026-11-08_18-19_net-long900-tuned_vs_net-long900-main2.log
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-RESULT.txt)
+(Normal sleep settings are active again.)
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
