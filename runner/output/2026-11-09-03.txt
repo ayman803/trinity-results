@@ -1,0 +1,80 @@
+Started game 146 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 130 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 147 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 134 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 148 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 135 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 149 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 136 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 150 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 138 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Started game 151 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 143 (net-long900-tuned vs net-long900-main2): 0-1 {Black wins by adjudication}
+Started game 152 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 142 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Started game 153 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 147 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 154 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 141 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 155 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 140 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 156 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 133 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by insufficient mating material}
+Started game 157 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 145 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 158 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 144 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 159 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 139 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 160 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 146 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 161 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 153 (net-long900-tuned vs net-long900-main2): 1-0 {White wins by adjudication}
+Started game 162 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 148 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 163 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 154 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 164 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 150 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 165 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 149 (net-long900-tuned vs net-long900-main2): 1-0 {White wins by adjudication}
+Started game 166 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 152 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Started game 167 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 160 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 168 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 157 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 169 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 155 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 170 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 159 (net-long900-tuned vs net-long900-main2): 1-0 {White wins by adjudication}
+--------------------------------------------------
+Results of net-long900-tuned vs net-long900-main2 (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: -6.77 +/- 31.64, nElo: -11.77 +/- 54.87
+LOS: 33.70 %, DrawRatio: 45.45 %, PairsRatio: 0.91
+Games: 154, Wins: 31, Losses: 34, Draws: 89, Points: 75.5 (49.03 %)
+Ptnml(0-2): [2, 20, 35, 19, 1], WL/DD Ratio: 0.40
+--------------------------------------------------
+Started game 171 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 156 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 172 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 151 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 173 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 163 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 174 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 168 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 175 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 169 (net-long900-tuned vs net-long900-main2): 1-0 {White wins by adjudication}
+Started game 176 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 167 (net-long900-tuned vs net-long900-main2): 1-0 {White wins by adjudication}
+Started game 177 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 161 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 178 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 158 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Started game 179 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 166 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Started game 180 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 172 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 181 of 2000 (net-long900-tuned vs net-long900-main2)
+Game 174 stalled / disconnected and no recover option set for engine, stopping tournament.
+Finished game 174 (net-long900-main2 vs net-long900-tuned): 1-0 {Black disconnects}
