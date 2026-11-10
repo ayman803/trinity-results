@@ -1,0 +1,80 @@
+Ptnml(0-2): [6, 107, 228, 99, 3], WL/DD Ratio: 0.70
+--------------------------------------------------
+Started game 903 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 893 (net-long900-tuned vs net-long900-main2): 0-1 {Black wins by adjudication}
+Started game 904 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 890 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 905 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 894 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 906 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 881 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 907 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 902 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Started game 908 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 900 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 909 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 904 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Started game 910 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 895 (net-long900-tuned vs net-long900-main2): 0-1 {Black wins by adjudication}
+Started game 911 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 892 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 912 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 898 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 913 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 897 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 914 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 896 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 915 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 901 (net-long900-tuned vs net-long900-main2): 0-1 {Black wins by adjudication}
+Started game 916 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 903 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by insufficient mating material}
+Started game 917 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 906 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 918 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 907 (net-long900-tuned vs net-long900-main2): 1-0 {White wins by adjudication}
+Started game 919 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 905 (net-long900-tuned vs net-long900-main2): 1-0 {White wins by adjudication}
+Started game 920 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 899 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by fifty moves rule}
+Started game 921 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 912 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 922 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 913 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 923 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 909 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by adjudication}
+Started game 924 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 910 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 925 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 911 (net-long900-tuned vs net-long900-main2): 1-0 {White wins by adjudication}
+Started game 926 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 914 (net-long900-main2 vs net-long900-tuned): 1-0 {White wins by adjudication}
+Started game 927 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 915 (net-long900-tuned vs net-long900-main2): 0-1 {Black wins by adjudication}
+Started game 928 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 916 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 929 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 908 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by insufficient mating material}
+Started game 930 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 922 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Started game 931 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 924 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by adjudication}
+Started game 932 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 920 (net-long900-main2 vs net-long900-tuned): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 933 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 918 (net-long900-main2 vs net-long900-tuned): 0-1 {Black wins by adjudication}
+Started game 934 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 919 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by 3-fold repetition}
+--------------------------------------------------
+Results of net-long900-tuned vs net-long900-main2 (8+0.08, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: -6.81 +/- 11.77, nElo: -13.02 +/- 22.48
+LOS: 12.81 %, DrawRatio: 50.98 %, PairsRatio: 0.88
+Games: 918, Wins: 205, Losses: 223, Draws: 490, Points: 450.0 (49.02 %)
+Ptnml(0-2): [6, 114, 234, 102, 3], WL/DD Ratio: 0.71
+--------------------------------------------------
+Started game 935 of 2000 (net-long900-tuned vs net-long900-main2)
+Finished game 921 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by insufficient mating material}
+Started game 936 of 2000 (net-long900-main2 vs net-long900-tuned)
+Finished game 917 (net-long900-tuned vs net-long900-main2): 1/2-1/2 {Draw by insufficient mating material}
+Started game 937 of 2000 (net-long900-tuned vs net-long900-main2)
+Game 935 stalled / disconnected and no recover option set for engine, stopping tournament.
+Finished game 935 (net-long900-tuned vs net-long900-main2): 1-0 {Black disconnects}

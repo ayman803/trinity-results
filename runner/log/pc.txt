@@ -224,3 +224,4 @@
 2026-11-10 00:19 STARTED 2026-11-09-03: scripts/sprt.ps1 -Dev net-long900-tuned -Base net-long900-main2 -Rounds 1000 -TestId net-long900-tuned -NoUpdate (approved commit b2624557d1)
 2026-11-10 01:16 DONE 2026-11-09-03 after 57 min (approved commit b2624557d1)
 2026-11-10 01:47 STARTED 2026-11-09-04: scripts/sprt.ps1 -Dev net-long900-tuned -Base net-long900-main2 -Rounds 1000 -TestId net-long900-tuned -NoUpdate (approved commit b2624557d1)
+2026-11-10 02:12 DISTURBED (keyboard or mouse used; stopped, not counted, runs again later) 2026-11-09-04 after 26 min (approved commit b2624557d1)
