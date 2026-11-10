@@ -1,0 +1,60 @@
+Free disk space on C:\: 245 GB
+(Sleep is blocked while this runs; normal sleep resumes automatically when finished.)
+
+==> Building the trainer of branch net-kb16 (the first build takes a few minutes)
+
+==> Training trinity-20261109-1704-control-s2 from scratch: 1024 neurons, 8 king buckets, 600 superbatches on 3.65 billion positions (16 buckets: about 7 hours; 8 buckets: about 5)
+Trainer output is also saved in C:\TrinityRunner\repo\sprt\coder2\results\train-trinity-20261109-1704-control-s2.log
+Hidden layer size: 1024, king buckets: 8
+Weight seed: 20261108
+[34;1mTraining Preamble[0m
+Net Name               : [32;1mtrinity-20261109-1704-control-s2[0m
+Batch Size             : [31m16384[0m
+Batches / Superbatch   : [31m6104[0m
+Positions / Superbatch : [31m100007936[0m
+Start Superbatch       : [31m1[0m
+End Superbatch         : [31m600[0m
+Eval Scale             : [31m400[0m
+Save Rate              : [31m50[0m
+WDL Scheduler          : constant [31m0.5[0m
+LR Scheduler           : start at [31m0.001[0m and cosine decay to [31m0.000010000001[0m at superbatch [31m600[0m
+Threads                : [31m4[0m
+Output Path            : [32;1mcheckpoints[0m
+[34;1mTraining on NVIDIA GeForce RTX 3080 (sm_86)[0m
+superbatch [36m1[0m [[35m0.0[0m% ([36m0[0m/[36m6104[0m batches, [36m296121[0m pos/sec)]
+Estimated time to end of superbatch: [36minf[0ms     [Fsuperbatch [36m1[0m [[35m2.1[0m% ([36m128[0m/[36m6104[0m batches, [36m2925976[0m pos/sec)]
+Estimated time to end of superbatch: [36m33.7[0ms     [Fsuperbatch [36m1[0m [[35m4.2[0m% ([36m256[0m/[36m6104[0m batches, [36m3033130[0m pos/sec)]
+Estimated time to end of superbatch: [36m31.7[0ms     [Fsuperbatch [36m1[0m [[35m6.3[0m% ([36m384[0m/[36m6104[0m batches, [36m3069304[0m pos/sec)]
+Estimated time to end of superbatch: [36m30.6[0ms     [Fsuperbatch [36m1[0m [[35m8.4[0m% ([36m512[0m/[36m6104[0m batches, [36m3087682[0m pos/sec)]
+Estimated time to end of superbatch: [36m29.7[0ms     [Fsuperbatch [36m1[0m [[35m10.5[0m% ([36m640[0m/[36m6104[0m batches, [36m3102343[0m pos/sec)]
+Estimated time to end of superbatch: [36m28.9[0ms     [Fsuperbatch [36m1[0m [[35m12.6[0m% ([36m768[0m/[36m6104[0m batches, [36m3111676[0m pos/sec)]
+Estimated time to end of superbatch: [36m28.1[0ms     [Fsuperbatch [36m1[0m [[35m14.7[0m% ([36m896[0m/[36m6104[0m batches, [36m3119789[0m pos/sec)]
+Estimated time to end of superbatch: [36m27.4[0ms     [Fsuperbatch [36m1[0m [[35m16.8[0m% ([36m1024[0m/[36m6104[0m batches, [36m3125756[0m pos/sec)]
+Estimated time to end of superbatch: [36m26.7[0ms     [Fsuperbatch [36m1[0m [[35m18.9[0m% ([36m1152[0m/[36m6104[0m batches, [36m3130726[0m pos/sec)]
+Estimated time to end of superbatch: [36m25.9[0ms     [Fsuperbatch [36m1[0m [[35m21.0[0m% ([36m1280[0m/[36m6104[0m batches, [36m3134814[0m pos/sec)]
+Estimated time to end of superbatch: [36m25.2[0ms     [Fsuperbatch [36m1[0m [[35m23.1[0m% ([36m1408[0m/[36m6104[0m batches, [36m3138628[0m pos/sec)]
+Estimated time to end of superbatch: [36m24.5[0ms     [Fsuperbatch [36m1[0m [[35m25.2[0m% ([36m1536[0m/[36m6104[0m batches, [36m3140194[0m pos/sec)]
+Estimated time to end of superbatch: [36m23.8[0ms     [Fsuperbatch [36m1[0m [[35m27.3[0m% ([36m1664[0m/[36m6104[0m batches, [36m3141220[0m pos/sec)]
+Estimated time to end of superbatch: [36m23.2[0ms     [Fsuperbatch [36m1[0m [[35m29.4[0m% ([36m1792[0m/[36m6104[0m batches, [36m3142939[0m pos/sec)]
+Estimated time to end of superbatch: [36m22.5[0ms     [Fsuperbatch [36m1[0m [[35m31.5[0m% ([36m1920[0m/[36m6104[0m batches, [36m3144905[0m pos/sec)]
+Estimated time to end of superbatch: [36m21.8[0ms     [Fsuperbatch [36m1[0m [[35m33.6[0m% ([36m2048[0m/[36m6104[0m batches, [36m3145774[0m pos/sec)]
+Estimated time to end of superbatch: [36m21.1[0ms     [Fsuperbatch [36m1[0m [[35m35.6[0m% ([36m2176[0m/[36m6104[0m batches, [36m3145876[0m pos/sec)]
+Estimated time to end of superbatch: [36m20.5[0ms     [Fsuperbatch [36m1[0m [[35m37.7[0m% ([36m2304[0m/[36m6104[0m batches, [36m3147067[0m pos/sec)]
+Estimated time to end of superbatch: [36m19.8[0ms     [Fsuperbatch [36m1[0m [[35m39.8[0m% ([36m2432[0m/[36m6104[0m batches, [36m3148344[0m pos/sec)]
+Estimated time to end of superbatch: [36m19.1[0ms     [Fsuperbatch [36m1[0m [[35m41.9[0m% ([36m2560[0m/[36m6104[0m batches, [36m3149096[0m pos/sec)]
+Estimated time to end of superbatch: [36m18.4[0ms     [Fsuperbatch [36m1[0m [[35m44.0[0m% ([36m2688[0m/[36m6104[0m batches, [36m3150022[0m pos/sec)]
+Estimated time to end of superbatch: [36m17.8[0ms     [Fsuperbatch [36m1[0m [[35m46.1[0m% ([36m2816[0m/[36m6104[0m batches, [36m3148586[0m pos/sec)]
+Estimated time to end of superbatch: [36m17.1[0ms     [Fsuperbatch [36m1[0m [[35m48.2[0m% ([36m2944[0m/[36m6104[0m batches, [36m3146160[0m pos/sec)]
+Estimated time to end of superbatch: [36m16.5[0ms     [Fsuperbatch [36m1[0m [[35m50.3[0m% ([36m3072[0m/[36m6104[0m batches, [36m3147328[0m pos/sec)]
+Estimated time to end of superbatch: [36m15.8[0ms     [Fsuperbatch [36m1[0m [[35m52.4[0m% ([36m3200[0m/[36m6104[0m batches, [36m3147672[0m pos/sec)]
+Estimated time to end of superbatch: [36m15.1[0ms     [Fsuperbatch [36m1[0m [[35m54.5[0m% ([36m3328[0m/[36m6104[0m batches, [36m3141842[0m pos/sec)]
+Estimated time to end of superbatch: [36m14.5[0ms     [Fsuperbatch [36m1[0m [[35m56.6[0m% ([36m3456[0m/[36m6104[0m batches, [36m3142550[0m pos/sec)]
+Estimated time to end of superbatch: [36m13.8[0ms     [Fsuperbatch [36m1[0m [[35m58.7[0m% ([36m3584[0m/[36m6104[0m batches, [36m3140866[0m pos/sec)]
+Estimated time to end of superbatch: [36m13.1[0ms     [Fsuperbatch [36m1[0m [[35m60.8[0m% ([36m3712[0m/[36m6104[0m batches, [36m3142310[0m pos/sec)]
+Estimated time to end of superbatch: [36m12.5[0ms     [Fsuperbatch [36m1[0m [[35m62.9[0m% ([36m3840[0m/[36m6104[0m batches, [36m3143766[0m pos/sec)]
+Estimated time to end of superbatch: [36m11.8[0ms     [Fsuperbatch [36m1[0m [[35m65.0[0m% ([36m3968[0m/[36m6104[0m batches, [36m3141646[0m pos/sec)]
+Estimated time to end of superbatch: [36m11.1[0ms     [Fsuperbatch [36m1[0m [[35m67.1[0m% ([36m4096[0m/[36m6104[0m batches, [36m3138706[0m pos/sec)]
+Estimated time to end of superbatch: [36m10.5[0ms     [Fsuperbatch [36m1[0m [[35m69.2[0m% ([36m4224[0m/[36m6104[0m batches, [36m3140614[0m pos/sec)]
+Estimated time to end of superbatch: [36m9.8[0ms     [Fsuperbatch [36m1[0m [[35m71.3[0m% ([36m4352[0m/[36m6104[0m batches, [36m3141998[0m pos/sec)]
+Estimated time to end of superbatch: [36m9.1[0ms     [Fsuperbatch [36m1[0m [[35m73.4[0m% ([36m4480[0m/[36m6104[0m batches, [36m3144134[0m pos/sec)]
+    Finished `release` profile [optimized] target(s) in 2.12s
