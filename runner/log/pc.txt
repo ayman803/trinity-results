@@ -229,3 +229,4 @@
 2026-11-10 03:59 DONE 2026-11-09-04 after 56 min (approved commit b2624557d1)
 2026-11-10 18:37 STARTED 2026-11-09-01: tools/net/kb16.ps1 -KingBuckets 8 -Seed 20261108 -Tag control-s2 (approved commit b2624557d1)
 2026-11-10 23:34 DONE 2026-11-09-01 after 297 min (approved commit b2624557d1)
+2026-11-12 18:06 STARTED 2026-11-11-03: tools/net/kb16.ps1 -KingBuckets 8 -Seed 20261019 -Tag wdl25 -Wdl 0.25 (approved commit b2624557d1)
