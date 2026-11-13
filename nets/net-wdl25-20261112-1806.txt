@@ -1,0 +1,10 @@
+WDL25 NETWORK DONE: branch net-wdl25-20261112-1806 (commit trinity-re; 1024 neurons, 8 king buckets, 3.65 billion positions, 600 superbatches, weight seed 20261019)
+Started 2026-11-12 18:06; training finished 2026-11-12 23:03 (5 hours)
+Bench with the new network: 863609 nodes 1904342 nps
+Last lines of the trainer's log (C:\TrinityRunner\repo\sprt\coder2\results\train-trinity-20261112-1806-wdl25.log):
+Estimated time to end of superbatch: [36m1.8[0ms     [Fsuperbatch [36m600[0m [[35m96.5[0m% ([36m5888[0m/[36m6104[0m batches, [36m3159688[0m pos/sec)]
+Estimated time to end of superbatch: [36m1.1[0ms     [Fsuperbatch [36m600[0m [[35m98.6[0m% ([36m6016[0m/[36m6104[0m batches, [36m3159840[0m pos/sec)]
+Estimated time to end of superbatch: [36m0.5[0ms     [Fsuperbatch [36m600[0m | time [36m31.7[0ms | running loss [36m0.009583[0m | [36m3158625[0m pos/sec | total time [36m17859.3[0ms
+Estimated time remaining in training: [36m0[0mh [36m0[0mm [36m0[0ms
+Saved [[31mtrinity-20261112-1806-wdl25-600[0m]
+Total Training Time: [36m4[0mh [36m57[0mm [36m40[0ms
