@@ -1,0 +1,9 @@
+DRY RUN RESUME OK (2026-11-14 21:10, branch net-kb16-resume 6c4e8af396)
+superbatch 2: loss A 0.0282347, A2 0.0282341, B (resumed) 0.0282344
+superbatch 3: loss A 0.0277972, A2 0.0277948, B (resumed) 0.0277949
+A vs A2 
+A vs B  
+superbatch 4 (past the plan, final rate): loss 0.0277163
+largest loss difference: resumed 0.008%, run-to-run 0.009%; allowed 0.200%
+-From control2: newest checkpoint trinity-20261019-1725-control2 at superbatch 600, readable: True
+Bench with the resumed network: 1010506 nodes 1820972 nps
