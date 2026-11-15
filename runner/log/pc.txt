@@ -233,3 +233,4 @@
 2026-11-12 23:04 DONE 2026-11-11-03 after 299 min (approved commit b2624557d1)
 2026-11-14 21:04 STARTED 2026-11-13-03: tools/net/kb16.ps1 -KingBuckets 8 -DryRun -Resume -From control2 (approved commit a55d874f7f)
 2026-11-14 21:10 DONE 2026-11-13-03 after 6 min (approved commit a55d874f7f)
+2026-11-14 21:11 STARTED 2026-11-13-04: tools/net/kb16.ps1 -KingBuckets 8 -Seed 20261019 -Superbatches 600 -StopAt 700 -From control2 -Tag lowlr-tail -Resume (approved commit a55d874f7f)
