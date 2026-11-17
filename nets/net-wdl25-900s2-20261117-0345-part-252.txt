@@ -1,0 +1,7 @@
+WDL25-900S2 PART DONE: trinity-20261117-0345-wdl25-900s2 at superbatch 252 of 900 (started at 0)
+Started 2026-11-17 03:45; finished 2026-11-17 05:46 (2 hours)
+Last lines of the trainer's log:
+Estimated time to end of superbatch: [36m0.4[0ms     [Fsuperbatch [36m252[0m | time [36m28.6[0ms | running loss [36m0.010165[0m | [36m3502162[0m pos/sec | total time [36m7212.7[0ms
+Estimated time remaining in training: [36m0[0mh [36m0[0mm [36m0[0ms
+Saved [[31mtrinity-20261117-0345-wdl25-900s2-252[0m]
+Total Training Time: [36m2[0mh [36m0[0mm [36m13[0ms
