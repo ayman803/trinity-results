@@ -249,3 +249,4 @@
 2026-11-17 01:52 DONE 2026-11-14-01 after 11 min (approved commit 52f6e65405)
 2026-11-17 01:52 STARTED 2026-11-14-03: scripts/calibrate.ps1 -Ref release-1.0.0 -TC 40/60 -Rounds 60 -NoUpdate (approved commit 52f6e65405)
 2026-11-17 03:45 DONE 2026-11-14-03 after 113 min (approved commit 52f6e65405)
+2026-11-17 03:45 STARTED 2026-11-15-01: tools/net/kb16.ps1 -KingBuckets 8 -Seed 20261108 -Superbatches 900 -Tag wdl25-900s2 -Wdl 0.25 -Resume -Minutes 164 (approved commit 52f6e65405)
