@@ -252,3 +252,4 @@
 2026-11-17 03:45 STARTED 2026-11-15-01: tools/net/kb16.ps1 -KingBuckets 8 -Seed 20261108 -Superbatches 900 -Tag wdl25-900s2 -Wdl 0.25 -Resume -Minutes 164 (approved commit 52f6e65405)
 2026-11-17 05:46 PAUSED (part done before the deadline; continues later) 2026-11-15-01 after 121 min (approved commit 52f6e65405)
 2026-11-17 08:16 STARTED 2026-11-15-01: tools/net/kb16.ps1 -KingBuckets 8 -Seed 20261108 -Superbatches 900 -Tag wdl25-900s2 -Wdl 0.25 -Resume -Minutes 510 (approved commit 52f6e65405)
+2026-11-17 13:46 DONE 2026-11-15-01 after 330 min (approved commit 52f6e65405)
