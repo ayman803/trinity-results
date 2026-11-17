@@ -245,3 +245,4 @@
 2026-11-16 04:22 DISTURBED (keyboard or mouse used; stopped, not counted, runs again later) 2026-11-14-03 after 1 min (approved commit a55d874f7f)
 2026-11-16 18:20 STARTED 2026-11-14-01: tools/net/kb16.ps1 -KingBuckets 8 -Seed 20261019 -Superbatches 900 -Tag wdl25-900 -Wdl 0.25 -Resume -Minutes 510 (approved commit 52f6e65405)
 2026-11-17 01:40 PAUSED (part done before the deadline; continues later) 2026-11-14-01 after 440 min (approved commit 52f6e65405)
+2026-11-17 01:41 STARTED 2026-11-14-01: tools/net/kb16.ps1 -KingBuckets 8 -Seed 20261019 -Superbatches 900 -Tag wdl25-900 -Wdl 0.25 -Resume -Minutes 288 (approved commit 52f6e65405)
