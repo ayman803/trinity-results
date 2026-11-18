@@ -255,3 +255,4 @@
 2026-11-17 13:46 DONE 2026-11-15-01 after 330 min (approved commit 52f6e65405)
 2026-11-17 18:49 STARTED 2026-11-17-01: scripts/calibrate.ps1 -Ref net-wdl25-900-main -TC 40/60 -Rounds 60 -NoUpdate (approved commit 52f6e65405)
 2026-11-17 20:37 DONE 2026-11-17-01 after 108 min (approved commit 52f6e65405)
+2026-11-17 20:38 STARTED 2026-11-17-02: scripts/calibrate.ps1 -Ref release-1.0.0 -TC 40/60 -Rounds 60 -NoUpdate (approved commit 52f6e65405)
