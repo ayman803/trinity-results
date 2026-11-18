@@ -1,0 +1,80 @@
+Free disk space on C:\: 229 GB
+Using cached build of origin/net-wdl25-900-main (ec43a4d726).
+
+==> Building origin/net-wdl25-900-main (ec43a4d726, for x86-64-v2)
+HEAD is now at ec43a4d wdl25-900 network (long900's recipe with WDL 0.25) on main's search, eval scale 120 (x1.2) as a tunable
+
+==> Playing 20 games: v2 build vs AVX2 build, 10+0.1
+Indexing opening suite...
+Started game 1 of 20 (Trinity-v2 vs Trinity-AVX2)
+Started game 2 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 1 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 3 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 2 (Trinity-AVX2 vs Trinity-v2): 1/2-1/2 {Draw by adjudication}
+Started game 4 of 20 (Trinity-AVX2 vs Trinity-v2)
+Warning; PV continues after threefold repetition - move a4a7 from Trinity-v2
+Info; info depth 1 seldepth 4 score cp 0 nodes 89 nps 89000 hashfull 0 time 1 pv c5d6 a4a7
+Position; startpos
+Moves; e2e4 c7c5 b1c3 d7d6 f2f4 g7g6 d2d4 c5d4 d1d4 g8f6 e4e5 b8c6 f1b5 f6h5 g1f3 f8g7 c1e3 e8g8 d4a4 d6e5 a1d1 d8c7 c3d5 c7d6 e1g1 c8f5 c2c3 a8d8 f4e5 c6e5 e3g5 d6c5 g5e3 c5d6 e3g5 d6c5 g5e3
+Finished game 4 (Trinity-AVX2 vs Trinity-v2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 5 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 3 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 6 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 5 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by adjudication}
+Started game 7 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 6 (Trinity-AVX2 vs Trinity-v2): 1-0 {White wins by adjudication}
+Started game 8 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 8 (Trinity-AVX2 vs Trinity-v2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 9 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 7 (Trinity-v2 vs Trinity-AVX2): 1-0 {White wins by adjudication}
+Started game 10 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 9 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by adjudication}
+Started game 11 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 10 (Trinity-AVX2 vs Trinity-v2): 1/2-1/2 {Draw by adjudication}
+Started game 12 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 12 (Trinity-AVX2 vs Trinity-v2): 1-0 {White wins by adjudication}
+Started game 13 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 11 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by fifty moves rule}
+Started game 14 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 13 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by insufficient mating material}
+Started game 15 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 14 (Trinity-AVX2 vs Trinity-v2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 16 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 15 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 17 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 16 (Trinity-AVX2 vs Trinity-v2): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 18 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 17 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by adjudication}
+Started game 19 of 20 (Trinity-v2 vs Trinity-AVX2)
+Finished game 18 (Trinity-AVX2 vs Trinity-v2): 0-1 {Black wins by adjudication}
+Started game 20 of 20 (Trinity-AVX2 vs Trinity-v2)
+Finished game 20 (Trinity-AVX2 vs Trinity-v2): 1/2-1/2 {Draw by fifty moves rule}
+Finished game 19 (Trinity-v2 vs Trinity-AVX2): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of Trinity-v2 vs Trinity-AVX2 (10+0.1, 1t, 16MB, 8moves_v3.pgn):
+Elo: -0.00 +/- 68.99, nElo: 0.00 +/- 152.27
+LOS: 50.00 %, DrawRatio: 60.00 %, PairsRatio: 1.00
+Games: 20, Wins: 2, Losses: 2, Draws: 16, Points: 10.0 (50.00 %)
+Ptnml(0-2): [0, 2, 6, 2, 0], WL/DD Ratio: 0.00
+--------------------------------------------------
+Finished match
+Total Time: 00:04:27 (hours:minutes:seconds)
+
+Saved in trinity-results: test-results/v2check-2026-11-17_22-32.txt
+
+==================================================================
+V2 CHECK: 'net-wdl25-900-main' on Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz - PASSED
+bench AVX2 build: 948275 nodes, 2060645 nps
+bench v2 build:   948275 nodes, 1381269 nps
+Same bench node count: yes
+Games finished: 20 of 20, tc 10+0.1
+Elo: -0.00 +/- 68.99, nElo: 0.00 +/- 152.27
+Games: 20, Wins: 2, Losses: 2, Draws: 16, Points: 10.0 (50.00 %)
+Ptnml(0-2): [0, 2, 6, 2, 0], WL/DD Ratio: 0.00
+Games lost on time: 0; illegal moves: 0; crashes or hangs: 0
+==================================================================
+Copy the lines above and paste them to Claude (also saved in sprt\results\LATEST-V2CHECK.txt).
+Preparing worktree (detached HEAD ec43a4d)
+   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-net-wdl25-900-main)
+    Finished `release` profile [optimized] target(s) in 4.88s
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
