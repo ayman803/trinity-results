@@ -261,3 +261,4 @@
 2026-11-17 22:37 DONE 2026-11-17-03 after 5 min (approved commit 52f6e65405)
 2026-11-18 08:20 STARTED 2026-11-18-01: tools/net/kb16.ps1 -KingBuckets 8 -Seed 20261019 -Tag wdl0 -Wdl 0.0 -Resume -Minutes 510 (approved commit 52f6e65405)
 2026-11-18 13:22 DONE 2026-11-18-01 after 302 min (approved commit 52f6e65405)
+2026-11-20 17:29 STARTED 2026-11-20-03: tools/net/kb16.ps1 -KingBuckets 8 -DryRun -MoreData (approved commit 034f5f1f3b)
