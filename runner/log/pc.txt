@@ -272,3 +272,4 @@
 2026-11-21 23:02 STARTED 2026-11-21-01: tools/net/kb16.ps1 -KingBuckets 8 -Seed 20261019 -Tag moredata600 -Wdl 0.25 -MoreData -Resume -Minutes 447 (approved commit 034f5f1f3b)
 2026-11-22 04:08 DONE 2026-11-21-01 after 306 min (approved commit 034f5f1f3b)
 2026-11-22 04:09 SLEEP (the night's work is done; no queued job fits before 06:55)
+2026-11-22 23:01 SLEEP (the night's work is done; no queued job fits before 06:55)
