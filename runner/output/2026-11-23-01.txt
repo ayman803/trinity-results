@@ -1,0 +1,85 @@
+Finished game 107 (Trinity vs Hobbes): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 112 of 120 (Hobbes vs Trinity)
+Warning; Hobbes doesn't have option SyzygyPath
+Finished game 104 (Hobbes vs Trinity): 1-0 {White wins by adjudication}
+Started game 113 of 120 (Trinity vs Hobbes)
+Warning; Hobbes doesn't have option SyzygyPath
+Finished game 102 (Hobbes vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 114 of 120 (Hobbes vs Trinity)
+Warning; Hobbes doesn't have option SyzygyPath
+Finished game 95 (Trinity vs Hobbes): 1/2-1/2 {Draw by adjudication}
+Started game 115 of 120 (Trinity vs Hobbes)
+Warning; Hobbes doesn't have option SyzygyPath
+Finished game 92 (Hobbes vs Trinity): 1/2-1/2 {Draw by stalemate}
+Started game 116 of 120 (Hobbes vs Trinity)
+Warning; Hobbes doesn't have option SyzygyPath
+Finished game 106 (Hobbes vs Trinity): 1/2-1/2 {Draw by adjudication}
+Started game 117 of 120 (Trinity vs Hobbes)
+Warning; Hobbes doesn't have option SyzygyPath
+Finished game 100 (Hobbes vs Trinity): 1/2-1/2 {Draw by stalemate}
+Started game 118 of 120 (Hobbes vs Trinity)
+Warning; Hobbes doesn't have option SyzygyPath
+Finished game 110 (Hobbes vs Trinity): 1/2-1/2 {Draw by stalemate}
+Started game 119 of 120 (Trinity vs Hobbes)
+Warning; Hobbes doesn't have option SyzygyPath
+Finished game 105 (Trinity vs Hobbes): 0-1 {Black wins by adjudication}
+Started game 120 of 120 (Hobbes vs Trinity)
+Warning; Hobbes doesn't have option SyzygyPath
+Finished game 114 (Hobbes vs Trinity): 1-0 {White wins by adjudication}
+Finished game 111 (Trinity vs Hobbes): 1/2-1/2 {Draw by adjudication}
+Finished game 113 (Trinity vs Hobbes): 1/2-1/2 {Draw by adjudication}
+Finished game 108 (Hobbes vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 112 (Hobbes vs Trinity): 1/2-1/2 {Draw by adjudication}
+Finished game 120 (Hobbes vs Trinity): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 109 (Trinity vs Hobbes): 1/2-1/2 {Draw by adjudication}
+Finished game 117 (Trinity vs Hobbes): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 99 (Trinity vs Hobbes): 1/2-1/2 {Draw by 3-fold repetition}
+--------------------------------------------------
+Results of Trinity vs Hobbes (40/60, 1t, 256MB, 8moves_v3.pgn):
+Elo: -78.88 +/- 25.52, nElo: -206.22 +/- 64.34
+LOS: 0.00 %, DrawRatio: 51.79 %, PairsRatio: 0.04
+Games: 112, Wins: 2, Losses: 27, Draws: 83, Points: 43.5 (38.84 %)
+Ptnml(0-2): [0, 26, 29, 1, 0], WL/DD Ratio: 0.04
+--------------------------------------------------
+Finished game 103 (Trinity vs Hobbes): 1/2-1/2 {Draw by adjudication}
+Finished game 119 (Trinity vs Hobbes): 1/2-1/2 {Draw by adjudication}
+Finished game 116 (Hobbes vs Trinity): 1-0 {White wins by adjudication}
+Finished game 118 (Hobbes vs Trinity): 1-0 {White wins by adjudication}
+Finished game 115 (Trinity vs Hobbes): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of Trinity vs Hobbes (40/60, 1t, 256MB, 8moves_v3.pgn):
+Elo: -82.59 +/- 24.74, nElo: -215.81 +/- 62.16
+LOS: 0.00 %, DrawRatio: 50.00 %, PairsRatio: 0.03
+Games: 120, Wins: 2, Losses: 30, Draws: 88, Points: 46.0 (38.33 %)
+Ptnml(0-2): [0, 29, 30, 1, 0], WL/DD Ratio: 0.03
+--------------------------------------------------
+Finished match
+Total Time: 00:32:30 (hours:minutes:seconds)
+
+Saved in trinity-results: games/calibration-2026-11-23_23-01-main-losses.pgn, test-results/calibration-2026-11-23_23-01-main.txt
+
+==================================================================
+CALIBRATION RESULT for 'main' (bench 948275)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time), tc 40/60, 1 thread each
+vs akimbo 1.0.0 (CCRL 3474): Elo difference +95 +/- 29 -> Trinity about 3569
+   Games: 120, Wins: 33, Losses: 1, Draws: 86, Points: 76.0 (63.33 %)
+vs Patricia 5.1 (CCRL 3488): Elo difference +98 +/- 38 -> Trinity about 3586
+   Games: 120, Wins: 37, Losses: 4, Draws: 79, Points: 76.5 (63.75 %)
+vs Bread 4.0.0 (CCRL 3522): Elo difference +61 +/- 29 -> Trinity about 3583
+   Games: 120, Wins: 24, Losses: 3, Draws: 93, Points: 70.5 (58.75 %)
+vs Prune 4.0.1 (CCRL 3543): Elo difference +6 +/- 25 -> Trinity about 3549
+   Games: 120, Wins: 12, Losses: 10, Draws: 98, Points: 61.0 (50.83 %)
+vs Hobbes 4.0 (CCRL 3612): Elo difference -83 +/- 25 -> Trinity about 3529
+   Games: 120, Wins: 2, Losses: 30, Draws: 88, Points: 46.0 (38.33 %)
+ESTIMATED CCRL RATING (1 CPU): about 3558 (statistical +/- 13; real uncertainty about +/- 50-100)
+Top-100 line: 3455 (#100 on the CCRL 40/15 list of 9 October 2026). Difference: +103 Elo
+Duration: 2.4 hours. Logs: sprt\results\2026-11-23_23-01_calibration_*
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-CALIBRATION.txt)
+(Normal sleep settings are active again.)
+Preparing worktree (detached HEAD ab2b3c2)
+   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-main)
+    Finished `release` profile [optimized] target(s) in 7.82s
+warning: in the working copy of 'games/calibration-2026-11-23_23-01-main-losses.pgn', LF will be replaced by CRLF the next time Git touches it
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
