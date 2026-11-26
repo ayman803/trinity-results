@@ -1,0 +1,7 @@
+SPEED CHECK of 'main' (bench 948275) on Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz
+One thread, Hash 256 MB, 12 middlegame positions, 8 s each; median positions per second (the engine's own count)
+main, AVX2 file (x86-64-v3): 2,181,780 nps (2,096,694 to 2,313,513), 100% of the AVX2 file; median depth 26, hash used 246 per mille
+main, older processors (x86-64-v2): 1,456,018 nps (1,424,698 to 1,549,148), 67% of the AVX2 file; median depth 24, hash used 174 per mille
+main, this PC's own build: 2,182,532 nps (2,094,057 to 2,284,135), 100% of the AVX2 file; median depth 26, hash used 246 per mille
+release 1.0.0, published file (x86-64-v3): 1,750,242 nps (1,568,574 to 1,961,657), 80% of the AVX2 file; median depth 24, hash used 207 per mille
+release 1.0.0, published file (x86-64-v2): 1,358,082 nps (1,262,688 to 1,523,834), 62% of the AVX2 file; median depth 24, hash used 174 per mille
