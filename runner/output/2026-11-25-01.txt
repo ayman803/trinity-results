@@ -1,0 +1,69 @@
+Free disk space on C:\: 226 GB
+
+==> Building origin/main (5277f4d4aa, for x86-64-v3)
+HEAD is now at 5277f4d Speed check queued for the PC (2026-11-25-01) after Ayman's reinstall and approval (0d5c7699ac); prediction logged
+
+==> Building origin/main (5277f4d4aa, for x86-64-v2)
+HEAD is now at 5277f4d Speed check queued for the PC (2026-11-25-01) after Ayman's reinstall and approval (0d5c7699ac); prediction logged
+
+==> Building origin/main (5277f4d4aa)
+HEAD is now at 5277f4d Speed check queued for the PC (2026-11-25-01) after Ayman's reinstall and approval (0d5c7699ac); prediction logged
+Downloading https://github.com/ayman803/trinity/releases/download/v1.0.0/trinity-1.0.0-windows-x86-64-v3.exe
+Downloading https://github.com/ayman803/trinity/releases/download/v1.0.0/trinity-1.0.0-windows-x86-64-v2.exe
+(Sleep is blocked while this runs; normal sleep resumes automatically when finished.)
+
+==> Speed check: 5 builds, 12 positions, 8 s each, Hash 256 MB (about 8 minutes)
+Position 1 of 12 done.
+Position 2 of 12 done.
+Position 3 of 12 done.
+Position 4 of 12 done.
+Position 5 of 12 done.
+Position 6 of 12 done.
+Position 7 of 12 done.
+Position 8 of 12 done.
+Position 9 of 12 done.
+Position 10 of 12 done.
+Position 11 of 12 done.
+Position 12 of 12 done.
+Saved in trinity-results: test-results/speedcheck-2026-11-25_20-01.txt
+
+==================================================================
+SPEED CHECK of 'main' (bench 948275) on Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz
+One thread, Hash 256 MB, 12 middlegame positions, 8 s each; median positions per second (the engine's own count)
+main, AVX2 file (x86-64-v3): 2,181,780 nps (2,096,694 to 2,313,513), 100% of the AVX2 file; median depth 26, hash used 246 per mille
+main, older processors (x86-64-v2): 1,456,018 nps (1,424,698 to 1,549,148), 67% of the AVX2 file; median depth 24, hash used 174 per mille
+main, this PC's own build: 2,182,532 nps (2,094,057 to 2,284,135), 100% of the AVX2 file; median depth 26, hash used 246 per mille
+release 1.0.0, published file (x86-64-v3): 1,750,242 nps (1,568,574 to 1,961,657), 80% of the AVX2 file; median depth 24, hash used 207 per mille
+release 1.0.0, published file (x86-64-v2): 1,358,082 nps (1,262,688 to 1,523,834), 62% of the AVX2 file; median depth 24, hash used 174 per mille
+==================================================================
+Copy the lines above and paste them to Claude (also saved in sprt\results\LATEST-SPEEDCHECK.txt).
+(Normal sleep settings are active again.)
+Preparing worktree (detached HEAD 5277f4d)
+   Compiling proc-macro2 v1.0.107
+   Compiling autocfg v1.5.1
+   Compiling unicode-ident v1.0.26
+   Compiling quote v1.0.47
+   Compiling once_cell v1.21.4
+   Compiling bitflags v2.13.2
+   Compiling pin-project-lite v0.2.17
+   Compiling arrayvec v0.7.8
+   Compiling rustc-hash v2.1.3
+   Compiling byteorder v1.5.0
+   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-main)
+   Compiling bulletformat v1.8.0
+   Compiling tracing-core v0.1.36
+   Compiling num-traits v0.2.19
+   Compiling syn v2.0.119
+   Compiling btoi v0.5.0
+   Compiling shakmaty v0.30.0
+   Compiling tracing-attributes v0.1.31
+   Compiling tracing v0.1.44
+   Compiling shakmaty-syzygy v0.28.0
+    Finished `release` profile [optimized] target(s) in 11.62s
+Preparing worktree (detached HEAD 5277f4d)
+   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-main)
+    Finished `release` profile [optimized] target(s) in 4.70s
+Preparing worktree (detached HEAD 5277f4d)
+   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-main)
+    Finished `release` profile [optimized] target(s) in 4.39s
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
