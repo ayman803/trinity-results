@@ -1,0 +1,81 @@
+Finished game 1967 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 1983 of 2000 (tb-on-test vs main)
+Finished game 1970 (main vs tb-on-test): 0-1 {Black wins by adjudication}
+Started game 1984 of 2000 (main vs tb-on-test)
+Finished game 1974 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 1985 of 2000 (tb-on-test vs main)
+Finished game 1965 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 1986 of 2000 (main vs tb-on-test)
+Finished game 1972 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 1987 of 2000 (tb-on-test vs main)
+Finished game 1976 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 1988 of 2000 (main vs tb-on-test)
+Finished game 1971 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 1989 of 2000 (tb-on-test vs main)
+Finished game 1981 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Started game 1990 of 2000 (main vs tb-on-test)
+Finished game 1980 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 1991 of 2000 (tb-on-test vs main)
+Finished game 1982 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 1992 of 2000 (main vs tb-on-test)
+Finished game 1983 (tb-on-test vs main): 0-1 {Black wins by adjudication}
+Started game 1993 of 2000 (tb-on-test vs main)
+Finished game 1975 (tb-on-test vs main): 1/2-1/2 {Draw by fifty moves rule}
+Started game 1994 of 2000 (main vs tb-on-test)
+Finished game 1977 (tb-on-test vs main): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1995 of 2000 (tb-on-test vs main)
+Finished game 1978 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 1996 of 2000 (main vs tb-on-test)
+Finished game 1985 (tb-on-test vs main): 0-1 {Black wins by adjudication}
+Started game 1997 of 2000 (tb-on-test vs main)
+Finished game 1984 (main vs tb-on-test): 0-1 {Black wins by adjudication}
+Started game 1998 of 2000 (main vs tb-on-test)
+Finished game 1986 (main vs tb-on-test): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 1999 of 2000 (tb-on-test vs main)
+Finished game 1979 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 2000 of 2000 (main vs tb-on-test)
+Finished game 1987 (tb-on-test vs main): 0-1 {Black wins by adjudication}
+Finished game 1989 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Finished game 1990 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Finished game 1991 (tb-on-test vs main): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1988 (main vs tb-on-test): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1992 (main vs tb-on-test): 1/2-1/2 {Draw by insufficient mating material}
+Finished game 1993 (tb-on-test vs main): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 1996 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Finished game 1995 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Finished game 1994 (main vs tb-on-test): 0-1 {Black wins by adjudication}
+Finished game 1999 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Finished game 1997 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Finished game 2000 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of tb-on-test vs main (10+0.1, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 3.13 +/- 7.59, nElo: 6.28 +/- 15.23
+LOS: 79.06 %, DrawRatio: 52.75 %, PairsRatio: 1.10
+Games: 1998, Wins: 468, Losses: 450, Draws: 1080, Points: 1008.0 (50.45 %)
+Ptnml(0-2): [6, 219, 527, 245, 2], WL/DD Ratio: 0.71
+--------------------------------------------------
+Finished game 1998 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of tb-on-test vs main (10+0.1, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 3.30 +/- 7.59, nElo: 6.62 +/- 15.23
+LOS: 80.31 %, DrawRatio: 52.70 %, PairsRatio: 1.10
+Games: 2000, Wins: 469, Losses: 450, Draws: 1081, Points: 1009.5 (50.48 %)
+Ptnml(0-2): [6, 219, 527, 246, 2], WL/DD Ratio: 0.71
+--------------------------------------------------
+Finished match
+Total Time: 01:11:18 (hours:minutes:seconds)
+
+Saved in trinity-results: sprt/tb-on-10s/2026-11-26_23-30.txt
+
+==================================================================
+SPRT RESULT: UNFINISHED (stopped before the statistics were conclusive)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time)
+Test: tb-on-test (bench 948275) vs main (bench 948275), tc 10+0.1, bounds [0, 5]
+Games: 2000, Wins: 469, Losses: 450, Draws: 1081, Points: 1009.5 (50.48 %)
+Elo: 3.30 +/- 7.59, nElo: 6.62 +/- 15.23
+Duration: 1.2 hours. Full log: sprt\results\2026-11-26_23-30_tb-on-test_vs_main.log
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-RESULT.txt)
+(Normal sleep settings are active again.)
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
