@@ -300,3 +300,4 @@
 2026-11-27 04:00 DONE 2026-11-26-06 after 61 min (approved commit 0d5c7699ac)
 2026-11-27 04:00 STARTED 2026-11-26-07: scripts/sprt.ps1 -Dev tb-on-test -Rounds 120 -TC 40/60 -TestId tb-on-4060 -NoUpdate (approved commit 0d5c7699ac)
 2026-11-27 05:03 DONE 2026-11-26-07 after 63 min (approved commit 0d5c7699ac)
+2026-11-27 05:03 STARTED 2026-11-26-08: scripts/sprt.ps1 -Dev tb-on-test -Rounds 120 -TC 40/60 -TestId tb-on-4060 -NoUpdate (approved commit 0d5c7699ac)
