@@ -1,0 +1,81 @@
+Finished game 217 (tb-on-test vs main): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 223 of 240 (tb-on-test vs main)
+Finished game 218 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 224 of 240 (main vs tb-on-test)
+Finished game 216 (main vs tb-on-test): 1/2-1/2 {Draw by stalemate}
+Started game 225 of 240 (tb-on-test vs main)
+Finished game 214 (main vs tb-on-test): 0-1 {Black wins by adjudication}
+Started game 226 of 240 (main vs tb-on-test)
+Finished game 210 (main vs tb-on-test): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 227 of 240 (tb-on-test vs main)
+Finished game 211 (tb-on-test vs main): 0-1 {Black wins by adjudication}
+Started game 228 of 240 (main vs tb-on-test)
+Finished game 224 (main vs tb-on-test): 0-1 {Black wins by adjudication}
+Started game 229 of 240 (tb-on-test vs main)
+Finished game 215 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 230 of 240 (main vs tb-on-test)
+Finished game 219 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 231 of 240 (tb-on-test vs main)
+Finished game 206 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Started game 232 of 240 (main vs tb-on-test)
+Finished game 225 (tb-on-test vs main): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 233 of 240 (tb-on-test vs main)
+Finished game 223 (tb-on-test vs main): 0-1 {Black wins by adjudication}
+Started game 234 of 240 (main vs tb-on-test)
+Finished game 207 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 235 of 240 (tb-on-test vs main)
+Finished game 221 (tb-on-test vs main): 0-1 {Black wins by adjudication}
+Started game 236 of 240 (main vs tb-on-test)
+Finished game 212 (main vs tb-on-test): 0-1 {Black wins by adjudication}
+Started game 237 of 240 (tb-on-test vs main)
+Finished game 220 (main vs tb-on-test): 1/2-1/2 {Draw by fifty moves rule}
+Started game 238 of 240 (main vs tb-on-test)
+Finished game 222 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Started game 239 of 240 (tb-on-test vs main)
+Finished game 227 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Started game 240 of 240 (main vs tb-on-test)
+Finished game 230 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Finished game 232 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Finished game 233 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Finished game 234 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Finished game 226 (main vs tb-on-test): 0-1 {Black wins by adjudication}
+Finished game 237 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Finished game 228 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Finished game 231 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Finished game 236 (main vs tb-on-test): 0-1 {Black wins by adjudication}
+Finished game 235 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Finished game 239 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Finished game 240 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of tb-on-test vs main (40/60, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: -13.26 +/- 19.69, nElo: -29.91 +/- 44.33
+LOS: 9.30 %, DrawRatio: 60.17 %, PairsRatio: 0.68
+Games: 236, Wins: 49, Losses: 58, Draws: 129, Points: 113.5 (48.09 %)
+Ptnml(0-2): [0, 28, 71, 19, 0], WL/DD Ratio: 0.73
+--------------------------------------------------
+Finished game 238 (main vs tb-on-test): 0-1 {Black wins by adjudication}
+Finished game 229 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of tb-on-test vs main (40/60, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: -11.59 +/- 20.40, nElo: -25.01 +/- 43.96
+LOS: 13.24 %, DrawRatio: 59.17 %, PairsRatio: 0.69
+Games: 240, Wins: 51, Losses: 59, Draws: 130, Points: 116.0 (48.33 %)
+Ptnml(0-2): [0, 29, 71, 19, 1], WL/DD Ratio: 0.73
+--------------------------------------------------
+Finished match
+Total Time: 01:02:09 (hours:minutes:seconds)
+
+Saved in trinity-results: sprt/tb-on-4060/2026-11-27_04-00.txt
+
+==================================================================
+SPRT RESULT: UNFINISHED (stopped before the statistics were conclusive)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time)
+Test: tb-on-test (bench 948275) vs main (bench 948275), tc 40/60, bounds [0, 5]
+Games: 240, Wins: 51, Losses: 59, Draws: 130, Points: 116.0 (48.33 %)
+Elo: -11.59 +/- 20.40, nElo: -25.01 +/- 43.96
+Duration: 1 hours. Full log: sprt\results\2026-11-27_04-00_tb-on-test_vs_main.log
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-RESULT.txt)
+(Normal sleep settings are active again.)
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
