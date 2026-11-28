@@ -1,32 +1,81 @@
-Free disk space on C:\: 224 GB
-Using cached build of origin/tb-on-test (9878d98f2e).
+Finished game 220 (main vs tb-on-test): 0-1 {Black wins by adjudication}
+Started game 227 of 240 (tb-on-test vs main)
+Finished game 211 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 228 of 240 (main vs tb-on-test)
+Finished game 216 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Started game 229 of 240 (tb-on-test vs main)
+Finished game 219 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 230 of 240 (main vs tb-on-test)
+Finished game 222 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 231 of 240 (tb-on-test vs main)
+Finished game 230 (main vs tb-on-test): 0-1 {Black wins by adjudication}
+Started game 232 of 240 (main vs tb-on-test)
+Finished game 208 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Started game 233 of 240 (tb-on-test vs main)
+Finished game 214 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Started game 234 of 240 (main vs tb-on-test)
+Finished game 221 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 235 of 240 (tb-on-test vs main)
+Warning; PV continues after fifty-move rule - move f4g5 from main
+Info; info depth 15 seldepth 19 score cp -157 nodes 29321 nps 1127730 hashfull 2 time 26 pv f8b8 b3c2 b8f8 e3e4 g5g7 g1b1 f8e8 e4e3 g7g5 e3d2 e8b8 b1f1 h8g7 d2c1 g7h8 f4g5
+Position; fen r1bqkbnr/pp1ppp1p/3n2p1/2pP4/2P3P1/4PP2/PP5P/RNBQKBNR w KQkq - 0 7
+Moves; e3e4 f8g7 b1c3 g7c3 b2c3 f7f6 c1e3 d8a5 h2h4 d6f7 g1h3 d7d6 d1b3 h7h6 h3f4 g6g5 f4e6 f7e5 f1e2 e5g6 h4h5 g6f8 e6g7 e8f7 g7f5 h8h7 f3f4 a8b8 b3c2 c8f5 e4f5 f8d7 a2a4 a7a6 e1d2 f7g7 h1b1 g7h8 c2e4 h7g7 d2c2 g5f4 e3f4 d7e5 f4g3 a5c7 a1a3 c7a5 c2b3 a5c7 b3a2 c7a5 b1b2 g7g5 g3e1 h8h7 e2d1 h7h8 e1d2 g5g7 d1e2 h8h7 d2c1 h7h8 c1e3 h8h7 e3f2 h7h8 f2g1 h8h7 g1e3 h7h8 e2d1 g7h7 b2b1 h7g7 d1e2 e5f7 e4c2 f7e5 c2d1 g7h7 e3d2 h7g7 d2f4 g7g5 b1b3 g5g7 a2a1 g7h7 b3b2 h7g7 b2b1 g7h7 f4d2 b7b6 a1a2 h7g7 d2f4 b8a8 a2a1 a8a7 b1b2 a7b7 f4d2 b7b8 b2b3 g7h7 d2f4 b8b7 b3b1 h7f7 f4e3 f7g7 b1b2 h8h7 e3d2 b7b8 a1a2 b8b7 d1g1 h7h8 d2f4 b7d7 g1c1 d7b7 c1e3 b7b8 b2b1 b8a8 b1g1 e5f7 a2a1 a8a7 e3d2 a7b7 a1b2 h8h7 d2e3 b7b8 a3a1 b8a8 b2c2 h7h8 g1g3 a8b8 e3g1 b8c8 g3e3 f7e5 c2b2 c8b8 e3g3 e5f7 g1e3 h8h7 e3c1 h7h8 b2c2 b8e8 g3g1 e8b8 c1d2 g7g5 c2b2 f7e5 d2e3 h8h7 b2c2 h7h8 g1f1 b8e8 f1h1 e8b8 c2b2 b8f8 b2b3 f8b8 h1b1 b8f8 b1g1
+Finished game 223 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Started game 236 of 240 (main vs tb-on-test)
+Finished game 227 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Started game 237 of 240 (tb-on-test vs main)
+Finished game 224 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 238 of 240 (main vs tb-on-test)
+Finished game 228 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 239 of 240 (tb-on-test vs main)
+Warning; PV continues after fifty-move rule - move f4h4 from main
+Info; info depth 13 seldepth 41 score cp -23 nodes 13759 nps 1528777 hashfull 1 time 9 pv c2f5 f3g3 f5d7 e3c3 d7d6 g3f3 d6c6 f3e3 c6e6 e3d2 e6f5 c3g3 f5e4 g3f2 e4b1 f2e3 b1f1 e3e2 f1f4 d2c2 g8g7 c2b2 g7f7 b2c2 f4h4
+Position; fen r1bqkb1r/1pp2pp1/p1n1pn1p/8/3P4/5NP1/PPP1NPBP/R1BQK2R w KQkq - 0 9
+Moves; e1g1 f8d6 e2f4 e8g8 f4d3 a8a7 b2b3 b7b6 f3e5 c6e7 f1e1 a6a5 c1b2 c8a6 a2a4 d6b4 c2c3 b4d6 e5c6 e7c6 g2c6 f6d5 c3c4 d5b4 d3b4 d6b4 e1e5 a6b7 c6b7 a7b7 d4d5 b7b8 d5e6 f7e6 d1e2 b4c5 a1d1 c5f2 g1g2 d8c8 e5e6 f2c5 e6g6 f8f7 d1f1 c8e8 e2g4 c5f8 f1f7 e8f7 g6h6 b8d8 h6h8 g8h8 g4h4 h8g8 h4d8 f7g6 d8d5 g8h8 b2e5 c7c6 d5f3 g6c2 g2h3 c2h7 h3g4 h7g6 g4f4 f8d6 e5d6 g6d6 f4e3 d6c5 e3e2 c5e5 f3e3 e5h5 e2d3 h5f5 e3e4 f5f1 e4e2 f1f5 d3e3 f5e5 e3f3 e5f5 f3g2 f5b1 e2e3 b1c2 g2h3 c2h7 h3g4 h7g6 e3g5 g6e4 g5f4 e4g6 g4h4 g6e8 f4f3 e8e6 h4g5 e6e7 g5f5 e7e8 f3g4 e8d7 f5g5 d7d8 g5h5 d8e8 h5h4 h8g8 g4d4 e8e7 h4g4 e7e2 g4f5 e2f3 f5g6 f3f7 g6g5 f7e7 g5f4 e7f7 f4e3 f7e6 e3d3 e6f5 d3d2 f5h3 d4f2 h3h6 d2d3 h6h7 d3c3 c6c5 f2d2 h7b1 d2d5 g8f8 d5f3 f8g8 h2h4 g7g6 c3d2 b1b2 d2e1 g8g7 e1f1 b2c2 f3e3 g7g8 f1g1 g8g7 e3e7 g7g8 e7e6 g8g7 e6e3 g7g8 e3f3 g8h7 g3g4 h7g8 g4g5 g8h7 g1f1 h7h8 f3f8 h8h7 f8f7 h7h8 f7e8 h8g7 e8e3 g7g8 e3e6 g8g7 e6e2 c2f5 f1g2 f5f4 e2e7 g7g8 e7e6 g8g7 e6d7 g7f8 d7d3 f8g7 d3e2 g7g8 e2e8 g8h7 e8d7 h7g8 d7d5 g8h8 d5f3 f4d2 f3f2 d2d3 f2f8 h8h7 f8e7 h7g8 e7e8 g8h7 e8f7 h7h8 f7f6 h8h7 f6e6 d3d2 g2f3 d2d1 f3f4 d1d2 e6e3 d2d6 f4f3 d6d7 f3e2 d7c7 e3f2 c7e5 e2d3 h7g7 f2f3 e5d6 d3e2 d6e6 f3e3 e6g4 e2d2 g4f5 d2e1 g7g8 e1e2 f5c2 e2f3
+Finished game 215 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 240 of 240 (main vs tb-on-test)
+Finished game 236 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Finished game 226 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Finished game 225 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Finished game 234 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Finished game 233 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Finished game 240 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Finished game 217 (tb-on-test vs main): 1/2-1/2 {Draw by fifty moves rule}
+Finished game 238 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Finished game 229 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Finished game 235 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Finished game 239 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of tb-on-test vs main (40/60, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 7.36 +/- 21.78, nElo: 15.01 +/- 44.33
+LOS: 74.65 %, DrawRatio: 51.69 %, PairsRatio: 1.19
+Games: 236, Wins: 51, Losses: 46, Draws: 139, Points: 120.5 (51.06 %)
+Ptnml(0-2): [0, 26, 61, 31, 0], WL/DD Ratio: 0.49
+--------------------------------------------------
+Finished game 231 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Finished game 232 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Finished game 237 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of tb-on-test vs main (40/60, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 5.79 +/- 21.62, nElo: 11.79 +/- 43.96
+LOS: 70.05 %, DrawRatio: 51.67 %, PairsRatio: 1.15
+Games: 240, Wins: 51, Losses: 47, Draws: 142, Points: 122.0 (50.83 %)
+Ptnml(0-2): [0, 27, 62, 31, 0], WL/DD Ratio: 0.48
+--------------------------------------------------
+Finished match
+Total Time: 01:05:41 (hours:minutes:seconds)
 
-==> Building origin/main (9ea709834d)
-HEAD is now at 9ea7098 CCRL tournament: 4 cycles, 60 games each (26 left for Trinity); note on 96...exd1=R+
-Bench fingerprints: tb-on-test = 948275, main = 948275
-Both versions search identically (same bench). That is expected only for pure speed-ups.
+Saved in trinity-results: sprt/tb-on-4060/2026-11-27_17-47.txt
 
-==> Testing 'tb-on-test' against 'main' (14 games at a time, 40/60)
-This can take several hours. You can leave it running overnight.
-To stop early, press Ctrl+C (the result so far is still saved).
-(Sleep is blocked while this runs; normal sleep resumes automatically when finished.)
-Indexing opening suite...
-Started game 1 of 240 (tb-on-test vs main)
-Started game 3 of 240 (tb-on-test vs main)
-Started game 2 of 240 (main vs tb-on-test)
-Started game 4 of 240 (main vs tb-on-test)
-Started game 5 of 240 (tb-on-test vs main)
-Started game 6 of 240 (main vs tb-on-test)
-Started game 7 of 240 (tb-on-test vs main)
-Started game 8 of 240 (main vs tb-on-test)
-Started game 9 of 240 (tb-on-test vs main)
-Started game 10 of 240 (main vs tb-on-test)
-Started game 11 of 240 (tb-on-test vs main)
-Started game 12 of 240 (main vs tb-on-test)
-Started game 13 of 240 (tb-on-test vs main)
-Started game 14 of 240 (main vs tb-on-test)
-Game 8 stalled / disconnected and no recover option set for engine, stopping tournament.
-Finished game 8 (main vs tb-on-test): 0-1 {White disconnects}
-Preparing worktree (detached HEAD 9ea7098)
-   Compiling trinity v1.2.0-dev (C:\TrinityRunner\repo\sprt\build-main)
-    Finished `release` profile [optimized] target(s) in 7.83s
+==================================================================
+SPRT RESULT: UNFINISHED (stopped before the statistics were conclusive)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time)
+Test: tb-on-test (bench 948275) vs main (bench 948275), tc 40/60, bounds [0, 5]
+Games: 240, Wins: 51, Losses: 47, Draws: 142, Points: 122.0 (50.83 %)
+Elo: 5.79 +/- 21.62, nElo: 11.79 +/- 43.96
+Duration: 1.1 hours. Full log: sprt\results\2026-11-27_17-47_tb-on-test_vs_main.log
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-RESULT.txt)
+(Normal sleep settings are active again.)
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
