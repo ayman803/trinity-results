@@ -310,3 +310,4 @@
 2026-11-27 18:54 STARTED 2026-11-27-04: scripts/sprt.ps1 -Dev tb-on-test -Rounds 120 -TC 40/60 -TestId tb-on-4060 -NoUpdate (approved commit 0d5c7699ac)
 2026-11-27 19:21 DISTURBED (keyboard or mouse used; stopped, not counted, runs again later) 2026-11-27-04 after 28 min (approved commit 0d5c7699ac)
 2026-11-27 19:57 STARTED 2026-11-27-04: scripts/sprt.ps1 -Dev tb-on-test -Rounds 120 -TC 40/60 -TestId tb-on-4060 -NoUpdate (approved commit 0d5c7699ac)
+2026-11-27 20:58 DONE 2026-11-27-04 after 62 min (approved commit 0d5c7699ac)
