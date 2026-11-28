@@ -321,3 +321,4 @@
 2026-11-28 05:05 DONE 2026-11-27-06 after 66 min (approved commit 0d5c7699ac)
 2026-11-28 05:05 STARTED 2026-11-27-07: scripts/sprt.ps1 -Dev tb-on-test -Rounds 120 -TC 40/60 -TestId tb-on-4060 -NoUpdate (approved commit 0d5c7699ac)
 2026-11-28 06:10 DONE 2026-11-27-07 after 65 min (approved commit 0d5c7699ac)
+2026-11-28 06:11 SLEEP (the night's work is done; no queued job fits before 06:55)
