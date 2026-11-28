@@ -1,0 +1,81 @@
+Finished game 224 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 227 of 240 (tb-on-test vs main)
+Finished game 218 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 228 of 240 (main vs tb-on-test)
+Finished game 222 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 229 of 240 (tb-on-test vs main)
+Finished game 216 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 230 of 240 (main vs tb-on-test)
+Finished game 221 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Started game 231 of 240 (tb-on-test vs main)
+Finished game 217 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Started game 232 of 240 (main vs tb-on-test)
+Finished game 215 (tb-on-test vs main): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 233 of 240 (tb-on-test vs main)
+Finished game 211 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 234 of 240 (main vs tb-on-test)
+Finished game 220 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Started game 235 of 240 (tb-on-test vs main)
+Finished game 229 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Started game 236 of 240 (main vs tb-on-test)
+Finished game 223 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Started game 237 of 240 (tb-on-test vs main)
+Finished game 230 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Started game 238 of 240 (main vs tb-on-test)
+Finished game 219 (tb-on-test vs main): 1/2-1/2 {Draw by insufficient mating material}
+Started game 239 of 240 (tb-on-test vs main)
+Finished game 214 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Started game 240 of 240 (main vs tb-on-test)
+Finished game 231 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Finished game 228 (main vs tb-on-test): 1/2-1/2 {Draw by 3-fold repetition}
+Finished game 225 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Finished game 226 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Finished game 232 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Finished game 238 (main vs tb-on-test): 0-1 {Black wins by adjudication}
+Finished game 236 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Finished game 240 (main vs tb-on-test): 1-0 {White wins by adjudication}
+Finished game 235 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Finished game 233 (tb-on-test vs main): 1-0 {White wins by adjudication}
+Finished game 234 (main vs tb-on-test): 1/2-1/2 {Draw by adjudication}
+Finished game 227 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+Finished game 239 (tb-on-test vs main): 1/2-1/2 {Draw by 3-fold repetition}
+--------------------------------------------------
+Results of tb-on-test vs main (40/60, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: -0.00 +/- 20.25, nElo: 0.00 +/- 44.14
+LOS: 50.00 %, DrawRatio: 57.98 %, PairsRatio: 1.00
+Games: 238, Wins: 46, Losses: 46, Draws: 146, Points: 119.0 (50.00 %)
+Ptnml(0-2): [0, 25, 69, 25, 0], WL/DD Ratio: 0.44
+--------------------------------------------------
+Warning; PV continues after fifty-move rule - move f2d2 from main
+Info; info depth 11 seldepth 31 score cp 27 nodes 99824 nps 2268727 hashfull 27 time 44 pv c3e1 a1a2 e1e4 b2g7 c7d8 g7f8 d8d7 f8f7 d7c8 f7f8 c6d8 f8c5 c8d7 c5b5 d8c6 a2a3 e4e7 a3b2 e7f6 b2b3 f6f3 b3c2 d7c7 b5d3 f3f2 d3d2 c6d4 c2d3 f2d2 d3d2
+Position; fen r1bqkbnr/ppp1n3/3p1p2/3Pp1pp/4P2B/5NP1/PPP2P1P/RN1QKB1R w KQkq - 0 8
+Moves; f3g5 f6g5 h4g5 f8g7 f1e2 c8g4 f2f3 g4h3 b1c3 d8d7 a2a4 g7h6 g5h6 h8h6 a4a5 e8c8 a5a6 b7b6 e2b5 c7c6 d5c6 d7c7 d1d3 c8b8 f3f4 g8f6 e1c1 e7c6 b5c6 c7c6 f4e5 f6e8 d3e3 h6e6 e3g5 d8c8 g5h5 h3g2 e5d6 e8d6 h1e1 d6e4 e1e3 e4c5 h5e2 e6e3 e2e3 c5a6 g3g4 b8b7 d1d2 a6c7 g4g5 c8f8 h2h4 f8f1 d2d1 f1d1 c1d1 g2f3 d1d2 f3h5 e3e4 h5g6 e4g4 c6d6 d2c1 d6h2 c3e2 h2h1 c1d2 h1d5 d2c1 g6f5 g4d4 d5g2 c1d2 f5g6 d4e3 g6h5 b2b3 a7a6 c2c4 g2h2 e3e4 b7b8 e4e3 b8c8 e3e4 h5e2 e4e2 h2h4 e2e5 h4g4 d2c3 g4e6 e5h8 c7e8 h8h6 e6e5 c3c2 c8c7 g5g6 a6a5 c2b1 e5e4 b1b2 e4d4 b2a2 e8g7 h6h2 c7d7 h2h3 d7e7 h3f1 g7e6 f1f3 e7d6 f3g3 d6c6 g3g2 c6c5 g2e2 c5d6 e2g2 a5a4 b3a4 d4c4 a2a3 c4d3 a3b2 d3d4 b2a3 d6e7 g2b7 e7d8 b7a8 d8d7 a8a7 d7d6 a3a2 d4f2 a2a3 f2e3 a3a2 e3d2 a2a3 d2c3 a3a2 c3c4 a2a3 c4d3 a3a2 d3c2 a2a3 c2c5 a3a2 c5d5 a2a3 d5f3 a3a2 f3g2 a2a1 g2f2 a7b8 d6d5 b8e8 f2e1 a1b2 e1b4 b2a2 b4c4 a2a3 c4d3 a3a2 d3c2 a2a3 c2c3 a3a2 c3d2 a2a1 d2d1 a1a2 d1e2 a2a3 e2e3 a3a2 d5d6 a2b2 e3d2 b2b1 d2e2 b1c1 e2f1 c1b2 f1g2 b2b1 g2e4 b1b2 e4e5 b2a2 e5f6 e8f7 f6h4 f7e8 h4c4 a2b2 c4d4 b2b1 d4f2 e8b5 d6e7 b5b4 e7d7 b4b5 d7d6 b5b2 f2g1 b1a2 d6e7 b2b4 e7f6 g6g7 f6f7 a4a5 g1g2 a2a3 b6a5 g7g8q f7g8 b4a5 g2f3 a3a2 g8f7 a5e1 e6d4 e1b1 f3d5 a2a1 d5e5 b1f1 f7e6 f1b1 e6d5 b1d1 d5c4 d1c1 c4d3 c1b2 d3e4 b2b1 e4f4 b1c1 f4f5 c1b1 f5g5 b1c1 g5f6 c1b1 f6e7 b1a2 d4c6 a1b1 e5e1 b1b2 e1d2 b2a1 d2c1 a2b1 c1a3 b1a2 a3d3 a2b1 d3g3 b1c1 e7d7 c1b1 g3g7 a1a2 g7f7 a2a1 d7c7 b1c1 f7f6 a1b1 f6f2 c1d1 f2b6 b1a1 b6a5 a1b1 a5a3 d1c1 a3b3 b1a1 b3g3 c1b1 g3a3 b1a2 a3c1 a2b1 c1c3 b1b2
+Warning; PV continues after fifty-move rule - move b6b2 from main
+Info; info depth 3 seldepth 8 score cp 8 nodes 173 nps 173000 hashfull 0 time 1 pv d5c3 b1c2 f6f2 c2b3 f2b6 b3a3 b6b2 a3b2
+Position; fen r1bqkbnr/ppp1n3/3p1p2/3Pp1pp/4P2B/5NP1/PPP2P1P/RN1QKB1R w KQkq - 0 8
+Moves; f3g5 f6g5 h4g5 f8g7 f1e2 c8g4 f2f3 g4h3 b1c3 d8d7 a2a4 g7h6 g5h6 h8h6 a4a5 e8c8 a5a6 b7b6 e2b5 c7c6 d5c6 d7c7 d1d3 c8b8 f3f4 g8f6 e1c1 e7c6 b5c6 c7c6 f4e5 f6e8 d3e3 h6e6 e3g5 d8c8 g5h5 h3g2 e5d6 e8d6 h1e1 d6e4 e1e3 e4c5 h5e2 e6e3 e2e3 c5a6 g3g4 b8b7 d1d2 a6c7 g4g5 c8f8 h2h4 f8f1 d2d1 f1d1 c1d1 g2f3 d1d2 f3h5 e3e4 h5g6 e4g4 c6d6 d2c1 d6h2 c3e2 h2h1 c1d2 h1d5 d2c1 g6f5 g4d4 d5g2 c1d2 f5g6 d4e3 g6h5 b2b3 a7a6 c2c4 g2h2 e3e4 b7b8 e4e3 b8c8 e3e4 h5e2 e4e2 h2h4 e2e5 h4g4 d2c3 g4e6 e5h8 c7e8 h8h6 e6e5 c3c2 c8c7 g5g6 a6a5 c2b1 e5e4 b1b2 e4d4 b2a2 e8g7 h6h2 c7d7 h2h3 d7e7 h3f1 g7e6 f1f3 e7d6 f3g3 d6c6 g3g2 c6c5 g2e2 c5d6 e2g2 a5a4 b3a4 d4c4 a2a3 c4d3 a3b2 d3d4 b2a3 d6e7 g2b7 e7d8 b7a8 d8d7 a8a7 d7d6 a3a2 d4f2 a2a3 f2e3 a3a2 e3d2 a2a3 d2c3 a3a2 c3c4 a2a3 c4d3 a3a2 d3c2 a2a3 c2c5 a3a2 c5d5 a2a3 d5f3 a3a2 f3g2 a2a1 g2f2 a7b8 d6d5 b8e8 f2e1 a1b2 e1b4 b2a2 b4c4 a2a3 c4d3 a3a2 d3c2 a2a3 c2c3 a3a2 c3d2 a2a1 d2d1 a1a2 d1e2 a2a3 e2e3 a3a2 d5d6 a2b2 e3d2 b2b1 d2e2 b1c1 e2f1 c1b2 f1g2 b2b1 g2e4 b1b2 e4e5 b2a2 e5f6 e8f7 f6h4 f7e8 h4c4 a2b2 c4d4 b2b1 d4f2 e8b5 d6e7 b5b4 e7d7 b4b5 d7d6 b5b2 f2g1 b1a2 d6e7 b2b4 e7f6 g6g7 f6f7 a4a5 g1g2 a2a3 b6a5 g7g8q f7g8 b4a5 g2f3 a3a2 g8f7 a5e1 e6d4 e1b1 f3d5 a2a1 d5e5 b1f1 f7e6 f1b1 e6d5 b1d1 d5c4 d1c1 c4d3 c1b2 d3e4 b2b1 e4f4 b1c1 f4f5 c1b1 f5g5 b1c1 g5f6 c1b1 f6e7 b1a2 d4c6 a1b1 e5e1 b1b2 e1d2 b2a1 d2c1 a2b1 c1a3 b1a2 a3d3 a2b1 d3g3 b1c1 e7d7 c1b1 g3g7 a1a2 g7f7 a2a1 d7c7 b1c1 f7f6 a1b1 f6f2 c1d1 f2b6 b1a1 b6a5 a1b1 a5a3 d1c1 a3b3 b1a1 b3g3 c1b1 g3a3 b1a2 a3c1 a2b1 c1c3 b1b2 c3e1 a1a2 c6b4 a2a3 b4d5 b2c2 c7b7 c2b2 b7a6 b2b3 e1a1 b3a2 a1e5 a2b1 e5d6 a3b2 d6b6 b2a1 b6f6 b1b2 a6a7 a1b1
+Finished game 237 (tb-on-test vs main): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of tb-on-test vs main (40/60, 1t, 16MB, UHO_Lichess_4852_v1.epd):
+Elo: 1.45 +/- 20.28, nElo: 3.14 +/- 43.96
+LOS: 55.57 %, DrawRatio: 57.50 %, PairsRatio: 1.04
+Games: 240, Wins: 47, Losses: 46, Draws: 147, Points: 120.5 (50.21 %)
+Ptnml(0-2): [0, 25, 69, 26, 0], WL/DD Ratio: 0.44
+--------------------------------------------------
+Finished match
+Total Time: 01:03:56 (hours:minutes:seconds)
+
+Saved in trinity-results: sprt/tb-on-4060/2026-11-27_20-59.txt
+
+==================================================================
+SPRT RESULT: UNFINISHED (stopped before the statistics were conclusive)
+Machine: Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz (14 games at a time)
+Test: tb-on-test (bench 948275) vs main (bench 948275), tc 40/60, bounds [0, 5]
+Games: 240, Wins: 47, Losses: 46, Draws: 147, Points: 120.5 (50.21 %)
+Elo: 1.45 +/- 20.28, nElo: 3.14 +/- 43.96
+Duration: 1.1 hours. Full log: sprt\results\2026-11-27_20-59_tb-on-test_vs_main.log
+==================================================================
+Copy the lines above and paste them to Claude.
+(They are also saved in sprt\results\LATEST-RESULT.txt)
+(Normal sleep settings are active again.)
+fatal: unable to get credential storage lock in 1000 ms: Permission denied
